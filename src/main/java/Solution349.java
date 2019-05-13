@@ -5,7 +5,11 @@ import java.util.Set;
 public class Solution349 {
 
     /**
-     * 1.About Complexity:Time Complexity is O(n),Space Complexity is O(n)
+     * 1.Problem
+     *      349. Intersection of Two Arrays
+     * 1.About Complexity
+     *      Time Complexity is O(n)
+     *      Space Complexity is O(n)
      * 2.how I solve
      *      2.1 First compare two array,use the longer array as a compared set
      *      2.2 Second use the shorter array as a compare array
