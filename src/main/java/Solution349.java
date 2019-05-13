@@ -7,14 +7,16 @@ public class Solution349 {
     /**
      * 1.About Complexity:Time Complexity is O(n),Space Complexity is O(n)
      * 2.how I solve
-     *      2.1 First compare two array,use the shorter array as a compared set
-     *      2.2 Second use the longer array as a compare array
+     *      2.1 First compare two array,use the longer array as a compared set
+     *      2.2 Second use the shorter array as a compare array
      *      2.3 Third traverse the compare array,use every element to contrast with the compared set,if it didn't,put the element to a new Set
      *      2.4 Fourth use iteration traversal to put every element to array
      * 3.About submit record
      *      3.1 use 8ms and 38MB memory in LeetCode China
      *      3.2 use 2ms and 35.4MB memory in LeetCode
-     *
+     * 4.Q&A
+     *      4.1 Q:why do you compare two array'length at first?
+     *          A:Cause I want to cut down the time of traverse the compare array as far as possible
      * @param nums1
      * @param nums2
      * @return
