@@ -2,24 +2,28 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
+/**
+ * Problem
+ *      349. Intersection of Two Arrays
+ * @author cartoon
+ * @version 1.0
+ */
 public class Solution349 {
 
     /**
-     * 1.Problem
-     *      349. Intersection of Two Arrays
      * 1.About Complexity
-     *      Time Complexity is O(n)
-     *      Space Complexity is O(n)
+     *      1.1 Time Complexity is O(n)
+     *      1.2 Space Complexity is O(n)
      * 2.how I solve
-     *      2.1 First compare two array,use the longer array as a compared set
-     *      2.2 Second use the shorter array as a compare array
-     *      2.3 Third traverse the compare array,use every element to contrast with the compared set,if it didn't,put the element to a new Set
-     *      2.4 Fourth use iteration traversal to put every element to array
+     *      2.1 Compare two array,use the longer array as a compared set
+     *      2.2 Use the shorter array as a compare array
+     *      2.3 Traverse the compare array,use every element to contrast with the compared set,if it didn't,put the element to a new Set
+     *      2.4 Use iteration traversal to put every element to array
      * 3.About submit record
-     *      3.1 use 8ms and 38MB memory in LeetCode China
-     *      3.2 use 2ms and 35.4MB memory in LeetCode
+     *      3.1 8ms and 38MB memory in LeetCode China
+     *      3.2 2ms and 35.4MB memory in LeetCode
      * 4.Q&A
-     *      4.1 Q:why do you compare two array'length at first?
+     *      4.1 Q:Why do you compare two array'length at first?
      *          A:Cause I want to cut down the time of traverse the compare array as far as possible
      * @param nums1
      * @param nums2
