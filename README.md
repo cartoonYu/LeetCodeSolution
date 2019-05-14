@@ -3,4 +3,9 @@ This repository is include my LeetCode's problem solution,and beside I will writ
 
 Already Solved
 
-349 Intersection of Two Arrays
+326.Power of Three
+
+349.Intersection of Two Arrays
+
+350.Intersection of Two Arrays II
+
