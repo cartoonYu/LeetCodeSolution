@@ -1,6 +1,8 @@
 /**
  * Problem
  *      326. Power of Three
+ * Related topics
+ *      342. Power of Four
  * @author cartoon
  * @version 1.0
  */

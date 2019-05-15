@@ -5,6 +5,8 @@ import java.util.Set;
 /**
  * Problem
  *      349. Intersection of Two Arrays
+ * Related topics
+ *      350. Intersection of Two Arrays II
  * @author cartoon
  * @version 1.0
  */

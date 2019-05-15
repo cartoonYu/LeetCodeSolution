@@ -5,6 +5,8 @@ Already Solved
 
 326.Power of Three
 
+342.Power of Four
+
 349.Intersection of Two Arrays
 
 350.Intersection of Two Arrays II
