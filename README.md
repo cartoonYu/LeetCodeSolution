@@ -11,3 +11,5 @@ Already Solved
 
 350.Intersection of Two Arrays II
 
+380.Insert Delete GetRandom O(1)
+
