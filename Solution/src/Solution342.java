@@ -1,6 +1,8 @@
 /**
  * Problem
  *      342. Power of Four
+ * Grade of difficulty
+ *      Easy
  * Related topics
  *      326. Power of Three
  * @author cartoon

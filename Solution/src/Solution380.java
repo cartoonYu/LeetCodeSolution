@@ -4,6 +4,8 @@ import java.util.Set;
 /**
  * Problem
  *      380. Insert Delete GetRandom O(1)
+ * Grade of difficulty
+ *      Medium
  * Related topics
  *      None
  * @author cartoon

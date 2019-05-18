@@ -5,6 +5,8 @@ import java.util.List;
 /**
  * Problem
  *      350. Intersection of Two Arrays II
+ * Grade of difficulty
+ *      Easy
  * Related topics
  *      349. Intersection of Two Arrays
  * @author cartoon

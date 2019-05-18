@@ -3,6 +3,8 @@ This repository is include my LeetCode's problem solution,and beside I will writ
 
 Already Solved
 
+1.Two Sum
+
 326.Power of Three
 
 342.Power of Four
@@ -13,3 +15,4 @@ Already Solved
 
 380.Insert Delete GetRandom O(1)
 
+404.Sum of Left Leaves

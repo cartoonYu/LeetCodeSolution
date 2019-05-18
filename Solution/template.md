@@ -5,6 +5,8 @@
  /**
   * Problem
   *      problemId and problem's description
+  * Grade of difficulty
+  *      Easy/Medium/Hard
   * Related topics
   *      problemId and problem's description
   * @author cartoon
