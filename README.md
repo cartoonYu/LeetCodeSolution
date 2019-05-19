@@ -5,6 +5,8 @@ Already Solved
 
 1.Two Sum
 
+2.Add Two Numbers
+
 326.Power of Three
 
 342.Power of Four

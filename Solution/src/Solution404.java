@@ -1,4 +1,4 @@
-import DataStructure.TreeNode;
+import DataStructure.BinaryTreeNode;
 
 /**
  * Problem
@@ -28,13 +28,13 @@ public class Solution404 {
      * @param root
      * @return
      */
-    public int sumOfLeftLeaves(TreeNode root) {
+    public int sumOfLeftLeaves(BinaryTreeNode root) {
         sum=0;
         preOrder(root);
         return sum;
     }
 
-    private void preOrder(TreeNode root){
+    private void preOrder(BinaryTreeNode root){
         if(root==null){
             return;
         }
