@@ -7,6 +7,8 @@ Already Solved
 
 2.Add Two Numbers
 
+107.Binary Tree Level Order Traversal II
+
 326.Power of Three
 
 342.Power of Four
@@ -18,3 +20,5 @@ Already Solved
 380.Insert Delete GetRandom O(1)
 
 404.Sum of Left Leaves
+
+504.Base 7
