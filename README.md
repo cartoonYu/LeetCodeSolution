@@ -9,6 +9,8 @@ Already Solved
 
 7.Reverse Integer
 
+98.Validate Binary Search Tree
+
 102.Binary Tree Level Order Traversal
 
 103.Binary Tree Zigzag Level Order Traversal
@@ -30,3 +32,5 @@ Already Solved
 404.Sum of Left Leaves
 
 504.Base 7
+
+1009.Complement of Base 10 Integer
