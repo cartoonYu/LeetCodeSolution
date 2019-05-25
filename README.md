@@ -9,6 +9,8 @@ Already Solved
 
 7.Reverse Integer
 
+53.Maximum Subarray
+
 98.Validate Binary Search Tree
 
 102.Binary Tree Level Order Traversal
@@ -18,6 +20,8 @@ Already Solved
 107.Binary Tree Level Order Traversal II
 
 167.Two Sum II - Input array is sorted
+
+182.Duplicate Emails
 
 326.Power of Three
 
