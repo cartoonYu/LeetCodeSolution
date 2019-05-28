@@ -31,7 +31,15 @@ Already Solved
 
 350.Intersection of Two Arrays II
 
+357.Count Numbers with Unique Digits
+
+367.Valid Perfect Square
+
+374.Guess Number Higher or Lower
+
 380.Insert Delete GetRandom O(1)
+
+389.Find the Difference
 
 404.Sum of Left Leaves
 
