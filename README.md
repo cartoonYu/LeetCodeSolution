@@ -41,8 +41,14 @@ Already Solved
 
 389.Find the Difference
 
+398.Random Pick Index
+
 404.Sum of Left Leaves
 
 504.Base 7
+
+509.Fibonacci Number
+
+530.Minimum Absolute Difference in BST
 
 1009.Complement of Base 10 Integer
