@@ -23,6 +23,10 @@ Already Solved
 
 182.Duplicate Emails
 
+257.Binary Tree Paths
+
+268.Missing Number
+
 326.Power of Three
 
 342.Power of Four
