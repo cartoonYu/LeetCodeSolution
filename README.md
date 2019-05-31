@@ -45,10 +45,14 @@ Already Solved
 
 404.Sum of Left Leaves
 
+476.Number Complement
+
 504.Base 7
 
 509.Fibonacci Number
 
 530.Minimum Absolute Difference in BST
+
+989.Add to Array-Form of Integer
 
 1009.Complement of Base 10 Integer
