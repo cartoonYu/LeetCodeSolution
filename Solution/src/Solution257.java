@@ -54,7 +54,5 @@ public class Solution257 {
 
     public Solution257(){
         list=new ArrayList<>();
-        Set set=new HashSet();
-        set.toArray();
     }
 }

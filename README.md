@@ -9,7 +9,11 @@ Already Solved
 
 7.Reverse Integer
 
+50.Pow(x, n)
+
 53.Maximum Subarray
+
+67.Add Binary
 
 98.Validate Binary Search Tree
 
