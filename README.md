@@ -31,6 +31,8 @@ Already Solved
 
 268.Missing Number
 
+278.First Bad Version
+
 326.Power of Three
 
 342.Power of Four
@@ -60,6 +62,8 @@ Already Solved
 509.Fibonacci Number
 
 530.Minimum Absolute Difference in BST
+
+961.N-Repeated Element in Size 2N Array
 
 989.Add to Array-Form of Integer
 
