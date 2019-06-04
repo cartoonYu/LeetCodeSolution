@@ -9,6 +9,8 @@ Already Solved
 
 7.Reverse Integer
 
+33.Search in Rotated Sorted Array
+
 50.Pow(x, n)
 
 53.Maximum Subarray
@@ -16,6 +18,8 @@ Already Solved
 67.Add Binary
 
 98.Validate Binary Search Tree
+
+100.Same Tree
 
 102.Binary Tree Level Order Traversal
 
