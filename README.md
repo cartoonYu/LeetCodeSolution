@@ -11,6 +11,8 @@ Already Solved
 
 33.Search in Rotated Sorted Array
 
+35.Search Insert Position
+
 50.Pow(x, n)
 
 53.Maximum Subarray
@@ -58,6 +60,8 @@ Already Solved
 398.Random Pick Index
 
 404.Sum of Left Leaves
+
+455.Assign Cookies
 
 476.Number Complement
 

@@ -2,8 +2,11 @@
  * Problem
  *      33.Search in Rotated Sorted Array
  * Grade of difficulty
- *      Easy/Medium/Hard
+ *      Medium
  * Related topics
+ *      34.Find First and Last Position of Element in Sorted Array
+ *      35.Search Insert Position
+ *      278.First Bad Version
  * @author cartoon
  * @version 1.0
  */

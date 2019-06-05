@@ -4,6 +4,8 @@
  * Grade of difficulty
  *      Medium
  * Related topics
+ *      33.Search in Rotated Sorted Array
+ *      35.Search Insert Position
  *      278.First Bad Version
  * @author cartoon
  * @version 1.0
