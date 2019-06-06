@@ -13,6 +13,8 @@ Already Solved
 
 35.Search Insert Position
 
+46.Permutations
+
 50.Pow(x, n)
 
 53.Maximum Subarray
