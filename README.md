@@ -63,6 +63,8 @@ Already Solved
 
 404.Sum of Left Leaves
 
+453.Minimum Moves to Equal Array Elements
+
 455.Assign Cookies
 
 476.Number Complement
@@ -72,6 +74,8 @@ Already Solved
 509.Fibonacci Number
 
 530.Minimum Absolute Difference in BST
+
+860.Lemonade Change
 
 961.N-Repeated Element in Size 2N Array
 
