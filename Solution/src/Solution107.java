@@ -20,7 +20,7 @@ public class Solution107 {
 
     /**
      * 1.About Complexity
-     *     1.1 Time Complexity is O(log n)
+     *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(n)
      * 2.how I solve
      *     2.1 Use a queue to cache current floor's node

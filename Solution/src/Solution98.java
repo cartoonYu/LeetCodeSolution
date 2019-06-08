@@ -6,6 +6,8 @@ import DataStructure.BinaryTreeNode;
  * Grade of difficulty
  *      Medium
  * Related topics
+ *      110.Balanced Binary Tree
+ *      111.Minimum Depth of Binary Tree
  * @author cartoon
  * @version 1.0
  */
@@ -15,8 +17,8 @@ public class Solution98 {
 
     /**
      * 1.About Complexity
-     *     1.1 Time Complexity is O(log n)
-     *     1.2 Space Complexity is O(1)
+     *     1.1 Time Complexity is O(n)
+     *     1.2 Space Complexity is O(n)
      * 2.how I solve
      *     2.1 this solution is base on inorder traversal
      *     2.2 root's val is less than right children's val and greater than left children's val

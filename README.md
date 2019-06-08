@@ -31,6 +31,10 @@ Already Solved
 
 107.Binary Tree Level Order Traversal II
 
+110.Balanced Binary Tree
+
+111.Minimum Depth of Binary Tree
+
 167.Two Sum II - Input array is sorted
 
 182.Duplicate Emails
