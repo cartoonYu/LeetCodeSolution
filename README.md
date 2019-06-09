@@ -35,6 +35,8 @@ Already Solved
 
 111.Minimum Depth of Binary Tree
 
+144.Binary Tree Preorder Traversal
+
 167.Two Sum II - Input array is sorted
 
 182.Duplicate Emails
