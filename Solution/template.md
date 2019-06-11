@@ -1,3 +1,6 @@
+### template of readme
+[](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution.java)
+
 ### template of description
 
 #### template of problem
