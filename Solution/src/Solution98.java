@@ -10,6 +10,7 @@ import DataStructure.BinaryTreeNode;
  *      111.Minimum Depth of Binary Tree
  *      129.Sum Root to Leaf Numbers
  *      144.Binary Tree Preorder Traversal
+ *      687.Longest Univalue Path
  * @author cartoon
  * @version 1.0
  */
