@@ -4,6 +4,7 @@
  * Grade of difficulty
  *      Easy
  * Related topics
+ *      153.Find Minimum in Rotated Sorted Array
  *      374.Guess Number Higher or Lower
  * @author cartoon
  * @version 1.0
@@ -38,7 +39,7 @@ public class Solution367 {
         long left=1;
         long right=num;
         while(left<=right){
-            long mid=(long)(left+((right-left)>>1));
+            long mid= left+((right-left)>>1);
             long temp=mid*mid;
             if(temp<num){
                 left=mid+1;
