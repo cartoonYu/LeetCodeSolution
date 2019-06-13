@@ -21,6 +21,8 @@ Already Solved
 
 [67.Add Binary](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution67.java)
 
+[94.Binary Tree Inorder Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution94.java)
+
 [98.Validate Binary Search Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution98.java)
 
 [100.Same Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution100.java)
@@ -38,6 +40,8 @@ Already Solved
 [129.Sum Root to Leaf Numbers](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution129.java)
 
 [144.Binary Tree Preorder Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution144.java)
+
+[145.Binary Tree Postorder Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution145.java)
 
 [153.Find Minimum in Rotated Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution153.java)
 

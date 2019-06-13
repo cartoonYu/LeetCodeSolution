@@ -1,9 +1,12 @@
 /**
  * Problem
- *      167. Two Sum II - Input array is sorted
+ *      167.Two Sum II - Input array is sorted
  * Grade of difficulty
  *      Easy
  * Related topics
+ *      153.Find Minimum in Rotated Sorted Array
+ *      367. Valid Perfect Square
+ *      374.Guess Number Higher or Lower
  * @author cartoon
  * @version 1.0
  */
