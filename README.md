@@ -33,7 +33,13 @@ Already Solved
 
 [107.Binary Tree Level Order Traversal II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution107.java)
 
+[108.Convert Sorted Array to Binary Search Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution108.java)
+
 [110.Balanced Binary Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution110.java)
+
+[112.Path Sum](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution112.java)
+
+[113.Path Sum II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution113.java)
 
 [111.Minimum Depth of Binary Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution111.java)
 

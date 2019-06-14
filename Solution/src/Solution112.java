@@ -2,15 +2,14 @@ import DataStructure.BinaryTreeNode;
 
 /**
  * Problem
- *      104.Maximum Depth of Binary Tree
+ *      112.Path Sum
  * Grade of difficulty
  *      Easy
  * Related topics
- *      94.Binary Tree Inorder Traversal
  *      98. Validate Binary Search Tree
+ *      104.Maximum Depth of Binary Tree
  *      110.Balanced Binary Tree
  *      111.Minimum Depth of Binary Tree
- *      112.Path Sum
  *      113. Path Sum II
  *      129.Sum Root to Leaf Numbers
  *      144.Binary Tree Preorder Traversal
@@ -19,7 +18,7 @@ import DataStructure.BinaryTreeNode;
  * @author cartoon
  * @version 1.0
  */
-public class Solution104 {
+public class Solution112 {
 
     /**
      * 1.About Complexity
@@ -27,23 +26,22 @@ public class Solution104 {
      *     1.2 Space Complexity is O(n)
      * 2.how I solve
      *     2.1 this solution is base on depth traversal
-     *     2.2 compare with left tree and right tree depth,return its max value+1
+     *     2.2 compare with current node's val and sum
      * 3.About submit record
-     *     3.1 1ms and 38.2MB memory in LeetCode China
-     *     3.2 0ms and 40.2MB memory in LeetCode
+     *     3.1 1ms and 37MB memory in LeetCode China
+     *     3.2 0ms and 38.9MB memory in LeetCode
      * 4.Q&A
      * @param root
+     * @param sum
      * @return
      */
-    public int maxDepth(BinaryTreeNode root) {
+    public boolean hasPathSum(BinaryTreeNode root, int sum) {
         if(root==null){
-            return 0;
+            return false;
         }
-        else{
-            int left=maxDepth(root.left);
-            int right=maxDepth(root.right);
-            int depth=Math.max(left,right)+1;
-            return depth;
+        if(root.left==null&&root.right==null){
+            return root.val==sum;
         }
+        return hasPathSum(root.left,sum-root.val)||hasPathSum(root.right,sum-root.val);
     }
 }
