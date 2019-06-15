@@ -19,6 +19,12 @@ Already Solved
 
 [53.Maximum Subarray](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution53.java)
 
+[58.Length of Last Word](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution58.java)
+
+[62.Unique Paths](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution62.java)
+
+[63.Unique Paths II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution63.java)
+
 [67.Add Binary](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution67.java)
 
 [94.Binary Tree Inorder Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution94.java)
