@@ -89,6 +89,8 @@ Already Solved
 
 [380.Insert Delete GetRandom O(1)](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution380.java)
 
+[383.Ransom Note](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution383.java)
+
 [389.Find the Difference](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution389.java)
 
 [398.Random Pick Index](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution398.java)
@@ -110,6 +112,8 @@ Already Solved
 [687.Longest Univalue Path](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution687.java)
 
 [784.Letter Case Permutation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution784.java)
+
+[844.Backspace String Compare](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution844.java)
 
 [860.Lemonade Change](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution860.java)
 
