@@ -59,6 +59,8 @@ Already Solved
 
 [153.Find Minimum in Rotated Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution153.java)
 
+[155.Min Stack](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution155.java)
+
 [167.Two Sum II - Input array is sorted](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution167.java)
 
 [173.Binary Search Tree Iterator](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution173.java)
@@ -103,6 +105,8 @@ Already Solved
 
 [476.Number Complement](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution476.java)
 
+[485.Max Consecutive Ones](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution485.java)
+
 [500.Keyboard Row](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution500.java)
 
 [504.Base 7](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution504.java)
@@ -110,6 +114,8 @@ Already Solved
 [509.Fibonacci Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution509.java)
 
 [530.Minimum Absolute Difference in BST](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution530.java)
+
+[595.Big Countries](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution595.java)
 
 [687.Longest Univalue Path](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution687.java)
 
