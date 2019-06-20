@@ -111,9 +111,13 @@ Already Solved
 
 [504.Base 7](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution504.java)
 
+[507.Perfect Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution507.java)
+
 [509.Fibonacci Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution509.java)
 
 [530.Minimum Absolute Difference in BST](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution530.java)
+
+[540.Single Element in a Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution540.java)
 
 [595.Big Countries](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution595.java)
 

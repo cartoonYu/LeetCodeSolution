@@ -2,7 +2,7 @@ import DataStructure.BinaryTreeNode;
 
 /**
  * Problem
- *      98. Validate Binary Search Tree
+ *      98.Validate Binary Search Tree
  * Grade of difficulty
  *      Medium
  * Related topics
