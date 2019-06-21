@@ -69,6 +69,10 @@ Already Solved
 
 [197.Rising Temperature](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution197.java)
 
+[206.Reverse Linked List](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution206.java)
+
+[232.Implement Queue using Stacks](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution232.java)
+
 [257.Binary Tree Paths](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution257.java)
 
 [268.Missing Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution268.java)
