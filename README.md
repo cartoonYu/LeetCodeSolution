@@ -69,6 +69,10 @@ Already Solved
 
 [197.Rising Temperature](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution197.java)
 
+[201.Bitwise AND of Numbers Range](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution201.java)
+
+[202.Happy Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution202.java)
+
 [206.Reverse Linked List](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution206.java)
 
 [232.Implement Queue using Stacks](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution232.java)
@@ -132,6 +136,8 @@ Already Solved
 [844.Backspace String Compare](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution844.java)
 
 [860.Lemonade Change](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution860.java)
+
+[938.Range Sum of BST](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution938.java)
 
 [961.N-Repeated Element in Size 2N Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution961.java)
 
