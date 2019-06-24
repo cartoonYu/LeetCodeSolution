@@ -1,6 +1,7 @@
 /**
  * Problem
  *      342. Power of Four
+ *      https://leetcode.com/problems/power-of-four/
  * Grade of difficulty
  *      Easy
  * Related topics

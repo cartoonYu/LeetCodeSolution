@@ -1,8 +1,7 @@
 # LeetCodeSolution
-This repository is include my LeetCode's problem solution,and beside I will write the problem solving process and try my best to analyze complex rate
+This repository is include my LeetCode's problem solution,although some aren't prefect, I will try my best to prefect it.Beside,I will wirte how I solve and its complexity.
 
-Already Solved
-
+## Already Solved
 [1.Two Sum](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution1.java)
 
 [2.Add Two Numbers](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution2.java)
@@ -12,6 +11,8 @@ Already Solved
 [33.Search in Rotated Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution33.java)
 
 [35.Search Insert Position](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution35.java)
+
+[41.First Missing Positive](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution41.java)
 
 [46.Permutations](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution46.java)
 

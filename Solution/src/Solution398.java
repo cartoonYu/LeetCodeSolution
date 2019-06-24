@@ -2,7 +2,8 @@ import java.util.Random;
 
 /**
  * Problem
- *      398. Random Pick Index
+ *      398.Random Pick Index
+ *      https://leetcode.com/problems/random-pick-index/
  * Grade of difficulty
  *      Medium
  * Related topics

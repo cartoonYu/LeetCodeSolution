@@ -1,20 +1,19 @@
 ### template of readme
-[](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution.java)
 
 ### template of description
 
 #### template of problem
 ```aidl
  /**
-      * Problem
-      *      problemId and problem's description
-      * Grade of difficulty
-      *      Easy/Medium/Hard
-      * Related topics
-      *      problemId and problem's description
-      * @author cartoon
-      * @version 1.0
-      */
+  * Problem
+  *     problem's topic and description
+  *     problem's url
+  * Grade of difficulty
+  *     Easy/Medium/Hard   
+  * Related topics
+  * @author cartoon
+  * @version 1.0
+  */
 ```
 #### template of solution
 1.About Complexity

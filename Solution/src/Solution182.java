@@ -1,6 +1,7 @@
 /**
  * Problem
  *      182. Duplicate Emails
+ *      https://leetcode.com/problems/duplicate-emails/
  * Grade of difficulty
  *      Easy
  * Related topics

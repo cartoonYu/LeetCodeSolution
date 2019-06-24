@@ -1,6 +1,7 @@
 /**
  * Problem
  *      507.Perfect Number
+ *      https://leetcode.com/problems/perfect-number/
  * Grade of difficulty
  *      Easy
  * Related topics

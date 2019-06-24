@@ -1,6 +1,7 @@
 /**
  * Problem
  *      50.Pow(x, n)
+ *      https://leetcode.com/problems/powx-n/
  * Grade of difficulty
  *      Medium
  * Related topics

@@ -1,6 +1,7 @@
 /**
  * Problem
  *      504. Base 7
+ *      https://leetcode.com/problems/base-7/
  * Grade of difficulty
  *      Easy
  * Related topics

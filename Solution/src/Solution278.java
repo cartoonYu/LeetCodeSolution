@@ -1,6 +1,7 @@
 /**
  * Problem
  *      278.First Bad Version
+ *      https://leetcode.com/problems/first-bad-version/
  * Grade of difficulty
  *      Easy
  * Related topics

@@ -4,6 +4,7 @@ import java.util.LinkedList;
 /**
  * Problem
  *      232.Implement Queue using Stacks
+ *      https://leetcode.com/problems/implement-queue-using-stacks/
  * Grade of difficulty
  *      Easy
  * Related topics

@@ -1,6 +1,7 @@
 /**
  * Problem
  *      367. Valid Perfect Square
+ *      https://leetcode.com/problems/valid-perfect-square/
  * Grade of difficulty
  *      Easy
  * Related topics
