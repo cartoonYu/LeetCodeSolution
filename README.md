@@ -114,6 +114,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [455.Assign Cookies](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution455.java)
 
+[462.Minimum Moves to Equal Array Elements II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution462.java)
+
 [476.Number Complement](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution476.java)
 
 [485.Max Consecutive Ones](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution485.java)
@@ -135,6 +137,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [595.Big Countries](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution595.java)
 
 [687.Longest Univalue Path](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution687.java)
+
+[746.Min Cost Climbing Stairs](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution746.java)
 
 [784.Letter Case Permutation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution784.java)
 
