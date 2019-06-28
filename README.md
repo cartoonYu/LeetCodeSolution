@@ -40,6 +40,10 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [103.Binary Tree Zigzag Level Order Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution103.java)
 
+[105.Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution105.java)
+
+[106.Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution106.java)
+
 [107.Binary Tree Level Order Traversal II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution107.java)
 
 [108.Convert Sorted Array to Binary Search Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution108.java)
