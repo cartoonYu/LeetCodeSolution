@@ -36,6 +36,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [100.Same Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution100.java)
 
+[101.Symmetric Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution101.java)
+
 [102.Binary Tree Level Order Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution102.java)
 
 [103.Binary Tree Zigzag Level Order Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution103.java)
@@ -52,11 +54,15 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [110.Balanced Binary Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution110.java)
 
+[111.Minimum Depth of Binary Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution111.java)
+
 [112.Path Sum](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution112.java)
 
 [113.Path Sum II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution113.java)
 
-[111.Minimum Depth of Binary Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution111.java)
+[118.Pascal's Triangle](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution118.java)
+
+[119.Pascal's Triangle II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution119.java)
 
 [129.Sum Root to Leaf Numbers](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution129.java)
 
