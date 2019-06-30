@@ -66,6 +66,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [129.Sum Root to Leaf Numbers](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution129.java)
 
+[135.Candy](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution135.java)
+
 [144.Binary Tree Preorder Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution144.java)
 
 [145.Binary Tree Postorder Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution145.java)
@@ -167,6 +169,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [989.Add to Array-Form of Integer](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution989.java)
 
 [1009.Complement of Base 10 Integer](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution1009.java)
+
+[1046.Last Stone Weight](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution1046.java)
 
 
 
