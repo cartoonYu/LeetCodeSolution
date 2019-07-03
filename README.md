@@ -92,7 +92,11 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [202.Happy Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution202.java)
 
+[203.Remove Linked List Elements](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution203.java)
+
 [206.Reverse Linked List](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution206.java)
+
+[231.Power of Two](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution231.java)
 
 [232.Implement Queue using Stacks](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution232.java)
 
