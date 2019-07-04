@@ -22,6 +22,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [53.Maximum Subarray](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution53.java)
 
+[55.Jump Game](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution55.java)
+
 [58.Length of Last Word](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution58.java)
 
 [62.Unique Paths](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution62.java)
@@ -104,6 +106,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [268.Missing Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution268.java)
 
+[283.Move Zeroes](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution283.java)
+
 [278.First Bad Version](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution278.java)
 
 [326.Power of Three](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution326.java)
@@ -131,6 +135,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [398.Random Pick Index](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution398.java)
 
 [404.Sum of Left Leaves](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution404.java)
+
+[414.Third Maximum Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution414.java)
 
 [453.Minimum Moves to Equal Array Elements](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution453.java)
 
