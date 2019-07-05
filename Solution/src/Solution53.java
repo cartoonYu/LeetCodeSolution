@@ -21,8 +21,8 @@ public class Solution53 {
      *          2.2.2 if array[current]>0,sum=sum+array[current]
      *          2.2.3 compare the sum and result to determine result's value
      * 3.About submit record
-     *     3.1 16ms and 42MB memory in LeetCode China
-     *     3.2 6ms and 38.6MB memory in LeetCode
+     *     3.1 2ms and 37.9MB memory in LeetCode China
+     *     3.2 1ms and 38.1MB memory in LeetCode
      * 4.Q&A
      *
      * @param nums
@@ -32,15 +32,13 @@ public class Solution53 {
         if(nums.length==0){
             return 0;
         }
+        if(nums.length==1){
+            return nums[0];
+        }
         int result=nums[0];
         int sum=0;
         for(int num:nums){
-            if(sum>0){
-                sum+=num;
-            }
-            else{
-                sum=num;
-            }
+            sum=sum>0?sum+num:num;
             result=Math.max(result,sum);
         }
         return result;
