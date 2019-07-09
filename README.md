@@ -1,6 +1,9 @@
 # LeetCodeSolution
 This repository is include my LeetCode's problem solution,although some aren't prefect, I will try my best to prefect it.Beside,I will wirte how I solve and its complexity.
 
+## Related
+[SortAlgorithm](https://github.com/cartoonYu/SortAlgorithm)
+
 ## Already Solved
 [1.Two Sum](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution1.java)
 
@@ -86,6 +89,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [155.Min Stack](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution155.java)
 
+[162.Find Peak Element](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution162.java)
+
 [167.Two Sum II - Input array is sorted](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution167.java)
 
 [173.Binary Search Tree Iterator](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution173.java)
@@ -106,9 +111,15 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [206.Reverse Linked List](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution206.java)
 
+[226.Invert Binary Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution226.java)
+
+[230.Kth Smallest Element in a BST](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution230.java)
+
 [231.Power of Two](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution231.java)
 
 [232.Implement Queue using Stacks](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution232.java)
+
+[237.Delete Node in a Linked List](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution237.java)
 
 [257.Binary Tree Paths](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution257.java)
 
@@ -174,11 +185,17 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [687.Longest Univalue Path](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution687.java)
 
+[700.Search in a Binary Search Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution700.java)
+
 [746.Min Cost Climbing Stairs](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution746.java)
+
+[796.Rotate String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution796.java)
 
 [784.Letter Case Permutation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution784.java)
 
 [844.Backspace String Compare](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution844.java)
+
+[830.Positions of Large Groups](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution830.java)
 
 [860.Lemonade Change](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution860.java)
 
@@ -186,11 +203,15 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [961.N-Repeated Element in Size 2N Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution961.java)
 
+[965.Univalued Binary Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution965.java)
+
 [989.Add to Array-Form of Integer](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution989.java)
 
 [1009.Complement of Base 10 Integer](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution1009.java)
 
 [1046.Last Stone Weight](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution1046.java)
+
+[1047.Remove All Adjacent Duplicates In String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution1047.java)
 
 
 
