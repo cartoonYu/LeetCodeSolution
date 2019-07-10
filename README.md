@@ -123,6 +123,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [257.Binary Tree Paths](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution257.java)
 
+[258.Add Digits](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution258.java)
+
 [268.Missing Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution268.java)
 
 [283.Move Zeroes](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution283.java)
