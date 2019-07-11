@@ -131,6 +131,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [278.First Bad Version](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution278.java)
 
+[303.Range Sum Query - Immutable](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution303.java)
+
 [326.Power of Three](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution326.java)
 
 [342.Power of Four](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution342.java)
