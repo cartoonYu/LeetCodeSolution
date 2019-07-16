@@ -5,7 +5,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [SortAlgorithm](https://github.com/cartoonYu/SortAlgorithm)
 
 ## Already Solved
-[1.Two Sum](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution1.java)
+[1.Two Sum/两数之和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution1.java)
 
 [2.Add Two Numbers](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution2.java)
 
