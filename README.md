@@ -125,6 +125,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [258.Add Digits](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution258.java)
 
+[263.Ugly Number/丑数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution263.java)
+
 [268.Missing Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution268.java)
 
 [283.Move Zeroes](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution283.java)
@@ -202,6 +204,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [830.Positions of Large Groups](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution830.java)
 
 [860.Lemonade Change](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution860.java)
+
+[922.Sort Array By Parity II/按奇偶排序数组 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution922.java)
 
 [938.Range Sum of BST](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution938.java)
 
