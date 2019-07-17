@@ -8,6 +8,7 @@ import java.util.List;
  * Problem
  *      94.Binary Tree Inorder Traversal
  *      https://leetcode.com/problems/binary-tree-inorder-traversal/
+ *      https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
  * Grade of difficulty
  *      Medium
  * Related topics
@@ -29,6 +30,20 @@ import java.util.List;
 public class Solution94 {
 
     /**
+     * 1.关于复杂度
+     *      1.1 时间复杂度为O(n)
+     *      1.2 空间负责度为O(n)
+     * 2.我的解题思路
+     *      2.1 这个解法是基于第144题的解法进行实现
+     *     2.2 利用操作节点不为空以及操作栈不为空的或操作为条件进行循环
+     *         2.2.1 循环深度递归获取操作节点的左子树
+     *         2.2.2 获取并移除栈顶结点，记录该结点的值
+     *         2.2.3 2.2.2中获取的结点有右子树的话，将操作结点的值设置为栈顶结点的右孩子
+     * 3.提交记录
+     *     3.1 力扣中耗时1ms,消耗34.6MB内存
+     *     3.2 leetcode中耗时1ms,消耗34.6MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(n)
@@ -73,9 +88,21 @@ public class Solution94 {
     }
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n)
+     *     1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *     2.1 递归遍历左子树
+     *     2.2 将当前结点的值加入到结果列表中
+     *     2.3 递归遍历右子树
+     * 3.提交记录
+     *     3.1 力扣中耗时1ms,消耗34.7MB内存
+     *     3.2 leetcode中耗时0ms,消耗34.6MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
-     *     1.2 Space Complexity is O(n)
+     *     1.2 Space Complexity is O(1)
      * 2.how I solve
      *     2.1 this solution is base on inOrder traverse
      *     2.2 go though left tree,put root's val to result list,go though right tree

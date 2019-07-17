@@ -37,9 +37,9 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [77.Combinations](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution77.java)
 
-[94.Binary Tree Inorder Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution94.java)
+[94.Binary Tree Inorder Traversal/二叉树的中序遍历](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution94.java)
 
-[98.Validate Binary Search Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution98.java)
+[98.Validate Binary Search Tree/验证二叉搜索树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution98.java)
 
 [100.Same Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution100.java)
 
