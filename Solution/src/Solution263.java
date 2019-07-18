@@ -1,6 +1,6 @@
 /**
  * Problem
- *     263.Ugly Number
+ *     263.Ugly Number/丑数
  *     https://leetcode.com/problems/ugly-number/
  *     https://leetcode-cn.com/problems/ugly-number/
  * Grade of difficulty

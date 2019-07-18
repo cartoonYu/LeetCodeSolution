@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * Problem
- *      1.Two Sum
+ *      1.Two Sum/两数之和
  *      https://leetcode.com/problems/two-sum/
  *      https://leetcode-cn.com/problems/two-sum/solution/
  * Grade of difficulty

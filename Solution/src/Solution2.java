@@ -2,18 +2,30 @@ import DataStructure.ListNode;
 
 /**
  * Problem
- *      2.Add Two Numbers
+ *      2.Add Two Numbers/两数相加
  *      https://leetcode.com/problems/add-two-numbers/
+ *      https://leetcode-cn.com/problems/add-two-numbers/
  * Grade of difficulty
  *      Medium
  * Related topics
- *
  * @author cartoon
  * @version 1.0
  */
 public class Solution2 {
 
     /**
+     * 1.关于复杂度
+     *   1.1 时间复杂度为O(n)
+     *   1.2 空间负责度为O(n)
+     * 2.我的解题思路
+     *   2.1 从head到tail遍历两个链表
+     *       2.1.1 如果相加结果大于10，将十位数与个位数分离，将十位数加到非空链表上面
+     *       2.1.2 如果相加结果小于10，直接将结果添加到结果链表上
+     * 3.提交记录
+     *   3.1 力扣中耗时23ms,消耗41.2MB内存
+     *   3.2 leetcode中耗时23ms,消耗41.2MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(n)
