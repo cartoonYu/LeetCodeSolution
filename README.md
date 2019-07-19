@@ -44,7 +44,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [98.Validate Binary Search Tree/验证二叉搜索树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution98.java)
 
-[100.Same Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution100.java)
+[100.Same Tree/相同的树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution100.java)
 
 [101.Symmetric Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution101.java)
 
@@ -189,6 +189,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [509.Fibonacci Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution509.java)
 
 [530.Minimum Absolute Difference in BST](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution530.java)
+
+[538.Convert BST to Greater Tree/把二叉搜索树转换为累加树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution538.java)
 
 [540.Single Element in a Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution540.java)
 
