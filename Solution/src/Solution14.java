@@ -19,7 +19,7 @@ public class Solution14 {
      *     1.2 空间负责度为O(1)
      * 2.我的解题思路
      *     2.1 因为string有一个成员方法用于判断子串在父串上的位置，所以我们可以利用这个方法
-     *     2.2 定义暂存字符串，并用strs[0]对它进行赋值
+     *     2.2 定义暂存字符串，并用数组中最小长度的字符串对它进行赋值
      *     2.3 从1开始遍历数组
      *         2.3.1 如果暂存不在当前元素的开始，去掉暂存最后一个字符再对比
      *     2.4 返回暂存字符串
@@ -33,7 +33,7 @@ public class Solution14 {
      *     1.2 Space Complexity is O(1)
      * 2.how I solve
      *     2.1 cause string have a function indexOf to judge the child string is in the position of the parent string,so we can use it
-     *     2.2 define a prefix pointer with strs[0]
+     *     2.2 define a prefix pointer with the smallest string in array
      *     2.3 go though strs from 1 to its length
      *          2.1 if pointer isn't suit with current element completely,cut last character of pointer and keep compare
      *     2.4 return prefix pointer
@@ -52,7 +52,12 @@ public class Solution14 {
             return strs[0];
         }
         String temp=strs[0];
-        for(int i=1,length=strs.length;i<length;i++){
+        for(int i=0,length=strs.length;i<length;i++){
+            if(strs[i].length()<temp.length()){
+                temp=strs[i];
+            }
+        }
+        for(int i=0,length=strs.length;i<length;i++){
             while(strs[i].indexOf(temp)!=0){
                 temp=temp.substring(0,temp.length()-1);
             }

@@ -45,16 +45,16 @@ public class Solution687 {
         if(root==null){
             return 0;
         }
-        preOrder(root,root.val);
+        postOrder(root,root.val);
         return max;
     }
 
-    private int preOrder(BinaryTreeNode root,int val){
+    private int postOrder(BinaryTreeNode root,int val){
         if(root==null){
             return 0;
         }
-        int left=preOrder(root.left,root.val);
-        int right=preOrder(root.right,root.val);
+        int left=postOrder(root.left,root.val);
+        int right=postOrder(root.right,root.val);
         max=Math.max(max,left+right);
         if(root.val==val){
             return Math.max(left,right)+1;
