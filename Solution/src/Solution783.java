@@ -9,6 +9,7 @@ import DataStructure.BinaryTreeNode;
  *     Easy
  * Related topics
  * @author cartoon
+ *
  * @version 1.0
  */
 public class Solution783 {
