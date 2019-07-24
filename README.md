@@ -198,7 +198,9 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [541.Reverse String II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution541.java)
 
-[595.Big Countries](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution595.java)
+[551.Student Attendance Record I/学生出勤记录 I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution551.java)
+
+[595.Big Countries/大的国家](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution595.java)
 
 [687.Longest Univalue Path](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution687.java)
 
@@ -208,7 +210,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [783.Minimum Distance Between BST Nodes/二叉搜索树结点最小距离](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution783.java)
 
-[796.Rotate String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution796.java)
+[796.Rotate String/旋转字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution796.java)
 
 [784.Letter Case Permutation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution784.java)
 
