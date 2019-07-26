@@ -188,7 +188,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [507.Perfect Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution507.java)
 
-[509.Fibonacci Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution509.java)
+[509.Fibonacci Number/斐波那契数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution509.java)
 
 [515.Find Largest Value in Each Tree Row/在每个树行中找最大值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution515.java)
 
@@ -203,6 +203,10 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [551.Student Attendance Record I/学生出勤记录 I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution551.java)
 
 [595.Big Countries/大的国家](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution595.java)
+
+[627.Swap Salary/交换工资](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution627.java)
+
+[654.Maximum Binary Tree/最大二叉树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution654.java)
 
 [687.Longest Univalue Path](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution687.java)
 

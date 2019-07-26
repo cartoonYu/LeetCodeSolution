@@ -15,6 +15,7 @@
   * @version 1.0
   */
 ```
+
 #### template of solution
 1.About Complexity
     1.1 Time Complexity is O()
@@ -34,17 +35,6 @@
 3. 提交记录
 <br />&nbsp;3.1 力扣中耗时ms,消耗MB内存
 <br />&nbsp;3.2 leetcode中耗时ms,消耗MB内存
-4. Q&A
-
-1. 关于复杂度
-<br />&nbsp;1.1 时间复杂度为O(n)
-<br />&nbsp;1.2 空间负责度为O(1)
-2. 我的解题思路
-<br />&nbsp;2.1 因为题目给出的是二叉搜索树，所以中序遍历后可以得到升序的有序数组
-<br />&nbsp;2.2 中序遍历树，用一个暂存变量记录上次遍历的结点值
-3. 提交记录
-<br />&nbsp;3.1 力扣中耗时2ms,消耗38.3MB内存
-<br />&nbsp;3.2 leetcode中耗时1ms,消耗38.4MB内存
 4. Q&A
 
 
