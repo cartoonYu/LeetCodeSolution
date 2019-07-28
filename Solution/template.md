@@ -28,13 +28,14 @@
 4.Q&A
 
 1. 关于复杂度
-<br />&nbsp;1.1 时间复杂度为O()
-<br />&nbsp;1.2 空间负责度为O()
+<br />&nbsp;1.1 时间复杂度为O(log n)
+<br />&nbsp;1.2 空间负责度为O(1)
 2. 我的解题思路
-<br />&nbsp;2.1 
+<br />&nbsp;2.1 计算传入数字基于7次幂的倍数(power)
+<br />&nbsp;2.2 使用power计算拼接7进制的数字
 3. 提交记录
-<br />&nbsp;3.1 力扣中耗时ms,消耗MB内存
-<br />&nbsp;3.2 leetcode中耗时ms,消耗MB内存
+<br />&nbsp;3.1 力扣中耗时3ms,消耗34.2MB内存
+<br />&nbsp;3.2 leetcode中耗时1ms,消耗33.2MB内存
 4. Q&A
 
 

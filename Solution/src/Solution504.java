@@ -2,6 +2,7 @@
  * Problem
  *      504. Base 7
  *      https://leetcode.com/problems/base-7/
+ *      https://leetcode-cn.com/problems/base-7/
  * Grade of difficulty
  *      Easy
  * Related topics
@@ -12,6 +13,17 @@
 public class Solution504 {
 
     /**
+     * 1. 关于复杂度
+     *     1.1 时间复杂度为O(log n)
+     *     1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *     2.1 计算传入数字基于7次幂的倍数(power)
+     *     2.2 使用power计算拼接7进制的数字
+     * 3.提交记录
+     *     3.1 力扣中耗时3ms,消耗34.2MB内存
+     *     3.2 leetcode中耗时1ms,消耗33.2MB内存
+     * 4. Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(log n)
      *     1.2 Space Complexity is O(1)

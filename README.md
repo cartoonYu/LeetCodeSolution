@@ -184,7 +184,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [500.Keyboard Row](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution500.java)
 
-[504.Base 7](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution504.java)
+[504.Base 7/七进制数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution504.java)
 
 [507.Perfect Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution507.java)
 
