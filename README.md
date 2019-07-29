@@ -120,13 +120,13 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [222. Count Complete Tree Nodes/完全二叉树的节点个数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution222.java)
 
-[226.Invert Binary Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution226.java)
+[226.Invert Binary Tree/翻转二叉树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution226.java)
 
 [230.Kth Smallest Element in a BST](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution230.java)
 
-[231.Power of Two](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution231.java)
+[231.Power of Two/2的幂](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution231.java)
 
-[232.Implement Queue using Stacks](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution232.java)
+[232.Implement Queue using Stacks/用栈实现队列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution232.java)
 
 [237.Delete Node in a Linked List](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution237.java)
 

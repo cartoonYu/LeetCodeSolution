@@ -3,6 +3,7 @@ import DataStructure.BinaryTreeNode;
  * Problem
  *     226.Invert Binary Tree
  *     https://leetcode.com/problems/invert-binary-tree/
+ *     https://leetcode-cn.com/problems/invert-binary-tree/
  * Grade of difficulty
  *     Easy
  * Related topics
@@ -12,6 +13,18 @@ import DataStructure.BinaryTreeNode;
 public class Solution226 {
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n)
+     *     1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *     2.1 保存左子树节点
+     *     2.2 递归遍历将右子树节点赋给左子树
+     *     2.3 递归遍历将左子树节点(2.1保存的)赋给右子树
+     * 3.提交记录
+     *     3.1 力扣中耗时0ms,消耗33.4MB内存
+     *     3.2 leetcode中耗时0ms,消耗35.8MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(1)
