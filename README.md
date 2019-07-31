@@ -2,9 +2,9 @@
 This repository is include my LeetCode's problem solution,although some aren't prefect, I will try my best to prefect it.Beside,I will wirte how I solve and its complexity.
 
 ## Related
-[SortAlgorithm](https://github.com/cartoonYu/SortAlgorithm)
+[CommonAlgorithms](https://github.com/cartoonYu/CommonAlgorithms)
 
-## Already Solved(179/1122)
+## Already Solved
 
 [1.Two Sum/两数之和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution1.java)
 
@@ -39,6 +39,12 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [67.Add Binary](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution67.java)
 
 [77.Combinations](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution77.java)
+
+[78.Subsets/子集](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution78.java)
+
+[89.Gray Code](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution89.java)
+
+[90.Subsets II/子集 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution90.java)
 
 [94.Binary Tree Inorder Traversal/二叉树的中序遍历](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution94.java)
 
@@ -183,6 +189,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [485.Max Consecutive Ones](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution485.java)
 
 [500.Keyboard Row](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution500.java)
+
+[501.Find Mode in Binary Search Tree/二叉搜索树中的众数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution501.java)
 
 [504.Base 7/七进制数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution504.java)
 
