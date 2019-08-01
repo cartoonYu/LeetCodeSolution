@@ -18,7 +18,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [33.Search in Rotated Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution33.java)
 
-[35.Search Insert Position](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution35.java)
+[35.Search Insert Position/搜索插入位置](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution35.java)
 
 [41.First Missing Positive](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution41.java)
 
@@ -26,7 +26,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [50.Pow(x, n)](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution50.java)
 
-[53.Maximum Subarray](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution53.java)
+[53.Maximum Subarray/最大子序和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution53.java)
 
 [55.Jump Game](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution55.java)
 
