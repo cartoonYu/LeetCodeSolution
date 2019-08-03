@@ -37,24 +37,6 @@
 <br />&nbsp;3.2 leetcode中耗时ms,消耗MB内存
 4. Q&A
 
-53题
-1. 关于复杂度
-<br />&nbsp;1.1 时间复杂度为O(n)
-<br />&nbsp;1.2 空间负责度为O(1)
-2. 我的解题思路
-<br />&nbsp;2.1 这个解法基于动态规划
-<br />&nbsp;2.2 对于数组中的元素有两种情况
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 元素大于0
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.2 元素小于0
-<br />&nbsp;2.3 从头到尾遍历数组
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.1 如果当前元素小于0，临时变量sum等于当前元素
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.2 如果当前元素大于0，临时变量sum加上当前元素
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.3 对比当前sum以及结果的大小
-3. 提交记录
-<br />&nbsp;3.1 力扣中耗时2ms,消耗37.9MB内存
-<br />&nbsp;3.2 leetcode中耗时1ms,消耗38.1MB内存
-4. Q&A
-
 
 
 
