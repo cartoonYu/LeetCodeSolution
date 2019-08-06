@@ -2,6 +2,7 @@
  * Problem
  *      342. Power of Four
  *      https://leetcode.com/problems/power-of-four/
+ *      https://leetcode-cn.com/problems/power-of-four/
  * Grade of difficulty
  *      Easy
  * Related topics
@@ -12,7 +13,18 @@
 public class Solution342 {
 
     /**
-     * use mod and divide number in recursion to solve
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n)
+     *     1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *     2.1 排除n<=1的情况
+     *     2.2 判断当前n取余4是否等于4
+     *     2.3 如果当前n%4!=0，递归n/4继续判断
+     * 3.提交记录
+     *     3.1 力扣中耗时6ms,消耗33MB内存
+     *     3.2 leetcode中耗时1ms,消耗32.2MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(1)
@@ -44,7 +56,19 @@ public class Solution342 {
     }
 
     /**
-     *  use mod and divide number in circulation to solve
+     * 1. 关于复杂度
+     *     1.1 时间复杂度为O(n)
+     *     1.2 空间负责度为O(1)
+     * 2. 我的解题思路
+     *     2.1 排除n<=1的情况
+     *     2.2 循环操作n判断结果
+     *         2.2.1 如果n%4!=0，表明n不可能是4的幂
+     *         2.2.2 用n相除4，继续循环判断
+     * 3. 提交记录
+     *     3.1 力扣中耗时6ms,消耗33.2MB内存
+     *     3.2 leetcode中耗时1ms,消耗32.2MB内存
+     * 4. Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(1)

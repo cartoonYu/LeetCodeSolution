@@ -104,13 +104,15 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [162.Find Peak Element](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution162.java)
 
-[167.Two Sum II - Input array is sorted](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution167.java)
+[167.Two Sum II - Input array is sorted/两数之和 II - 输入有序数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution167.java)
 
 [173.Binary Search Tree Iterator](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution173.java)
 
 [175.Combine Two Tables](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution175.java)
 
 [182.Duplicate Emails](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution182.java)
+
+[196.Delete Duplicate Emails/删除重复的电子邮箱](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution196.java)
 
 [197.Rising Temperature](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution197.java)
 
@@ -134,6 +136,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [232.Implement Queue using Stacks/用栈实现队列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution232.java)
 
+[235.Lowest Common Ancestor of a Binary Search Tree/二叉搜索树的最近公共祖先](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution237.java)
+
 [237.Delete Node in a Linked List](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution237.java)
 
 [257.Binary Tree Paths](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution257.java)
@@ -142,7 +146,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [263.Ugly Number/丑数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution263.java)
 
-[268.Missing Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution268.java)
+[268.Missing Number/缺失数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution268.java)
 
 [283.Move Zeroes](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution283.java)
 
@@ -152,7 +156,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [326.Power of Three](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution326.java)
 
-[342.Power of Four](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution342.java)
+[342.Power of Four/4的幂](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution342.java)
 
 [344.Reverse String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution344.java)
 
@@ -162,7 +166,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [357.Count Numbers with Unique Digits](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution357.java)
 
-[367.Valid Perfect Square](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution367.java)
+[367.Valid Perfect Square/有效的完全平方数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution367.java)
 
 [374.Guess Number Higher or Lower](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution374.java)
 
@@ -177,6 +181,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [404.Sum of Left Leaves](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution404.java)
 
 [414.Third Maximum Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution414.java)
+
+[437.Path Sum III/路径总和 III](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution437.java)
 
 [453.Minimum Moves to Equal Array Elements](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution453.java)
 

@@ -26,9 +26,6 @@ public class Solution258 {
      * @return
      */
     public int addDigits(int num) {
-        if(num==0){
-            return 0;
-        }
         while(num>=10){
             int ten=num/10;
             int digit=num-ten*10;

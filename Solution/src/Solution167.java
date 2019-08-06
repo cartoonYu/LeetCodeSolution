@@ -2,11 +2,12 @@
  * Problem
  *      167.Two Sum II - Input array is sorted
  *      https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+ *      https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
  * Grade of difficulty
  *      Easy
  * Related topics
  *      153.Find Minimum in Rotated Sorted Array
- *      367. Valid Perfect Square
+ *      367.Valid Perfect Square
  *      374.Guess Number Higher or Lower
  * @author cartoon
  * @version 1.0
@@ -14,6 +15,20 @@
 public class Solution167 {
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n)
+     *     1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *     2.1 解法的主要思想：双指针遍历数组
+     *     2.2 定义左右指针分别从开头及结尾遍历
+     *     2.3 循环直到左指针>右指针找到array[i]+array[j]=target
+     *     2.4 如果相加值大于target，右指针向左移；相加值小于target，左指针右移
+     *     2.5 返回目标数组
+     * 3.提交记录
+     *     3.1 力扣中耗时2ms,消耗37.7MB内存
+     *     3.2 leetcode中耗时1ms,消耗37.3MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(1)
