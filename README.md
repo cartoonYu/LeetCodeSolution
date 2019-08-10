@@ -98,9 +98,11 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [150.Evaluate Reverse Polish Notation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution150.java)
 
-[153.Find Minimum in Rotated Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution153.java)
+[151.Reverse Words in a String/翻转字符串里的单词](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution151.java)
 
-[155.Min Stack](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution155.java)
+[153.Find Minimum in Rotated Sorted Array/寻找旋转排序数组中的最小值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution153.java)
+
+[155.Min Stack/最小栈](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution155.java)
 
 [162.Find Peak Element](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution162.java)
 
@@ -193,6 +195,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [476.Number Complement](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution476.java)
 
 [485.Max Consecutive Ones](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution485.java)
+
+[496.Next Greater Element I/下一个更大元素 I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution496.java)
 
 [500.Keyboard Row](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution500.java)
 
