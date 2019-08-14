@@ -9,6 +9,7 @@ import java.util.List;
  * Problem
  *      113.Path Sum II
  *      https://leetcode.com/problems/path-sum-ii/
+ *      https://leetcode-cn.com/problems/path-sum-ii/
  * Grade of difficulty
  *      Medium
  * Related topics
@@ -30,6 +31,18 @@ import java.util.List;
 public class Solution113 {
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n)
+     *     1.2 空间负责度为O(n)
+     * 2.我的解题思路
+     *     2.1 这个算法基于深度优先遍历
+     *     2.2 如果当前结点没有左右孩子，意味着这是叶结点，对比当前结点的值以及递归过程的num
+     *     2.3 遍历完成后删除递归list中的最后一个元素
+     * 3.提交记录
+     *     3.1 力扣中耗时4ms,消耗37.8MB内存
+     *     3.2 leetcode中耗时1ms,消耗37.7MB内存
+     * 4. Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(n)

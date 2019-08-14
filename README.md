@@ -14,7 +14,11 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [14.Longest Common Prefix/最长公共前缀](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution14.java)
 
+[15.3Sum/三数之和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution15.java)
+
 [17.Letter Combinations of a Phone Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution17.java)
+
+[19.Remove Nth Node From End of List/删除链表的倒数第N个节点](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution19.java)
 
 [33.Search in Rotated Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution33.java)
 
@@ -64,7 +68,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [106.Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution106.java)
 
-[107.Binary Tree Level Order Traversal II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution107.java)
+[107.Binary Tree Level Order Traversal II/二叉树的层次遍历 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution107.java)
 
 [108.Convert Sorted Array to Binary Search Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution108.java)
 
@@ -76,13 +80,13 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [112.Path Sum](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution112.java)
 
-[113.Path Sum II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution113.java)
+[113.Path Sum II/路径总和 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution113.java)
 
 [116.Populating Next Right Pointers in Each Node](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution116.java)
 
 [118.Pascal's Triangle/杨辉三角](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution118.java)
 
-[119.Pascal's Triangle II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution119.java)
+[119.Pascal's Triangle II/杨辉三角 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution119.java)
 
 [121.Best Time to Buy and Sell Stock/买卖股票的最佳时机](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution121.java)
 
@@ -118,7 +122,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [197.Rising Temperature](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution197.java)
 
-[199.Binary Tree Right Side View](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution199.java)
+[199.Binary Tree Right Side View/二叉树的右视图](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution199.java)
 
 [201.Bitwise AND of Numbers Range](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution201.java)
 
@@ -153,6 +157,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [283.Move Zeroes](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution283.java)
 
 [278.First Bad Version](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution278.java)
+
+[300.Longest Increasing Subsequence/最长上升子序列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution300.java)
 
 [303.Range Sum Query - Immutable](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution303.java)
 
