@@ -4,6 +4,7 @@ import DataStructure.BinaryTreeNode;
  * Problem
  *      108.Convert Sorted Array to Binary Search Tree
  *      https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+ *      https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/
  * Grade of difficulty
  *      Easy
  * Related topics
@@ -14,9 +15,21 @@ import DataStructure.BinaryTreeNode;
 public class Solution108 {
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n)
+     *     1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *     2.1 这个算法基于二分查找
+     *     2.2 根据左右指针获取当前情况的中间索引
+     *     2.3 前序递归建立左右子树
+     * 3.提交记录
+     *     3.1 力扣中耗时1ms,消耗37.4MB内存
+     *     3.2 leetcode中耗时0ms,消耗37MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
-     *     1.2 Space Complexity is O(n)
+     *     1.2 Space Complexity is O(1)
      * 2.how I solve
      *     2.1 this solution is base on binary search
      *     2.2 build a root node whose val is array[mid]
