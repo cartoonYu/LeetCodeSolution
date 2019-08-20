@@ -232,6 +232,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [654.Maximum Binary Tree/最大二叉树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution654.java)
 
+[655.Print Binary Tree/输出二叉树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution655.java)
+
 [687.Longest Univalue Path](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution687.java)
 
 [700.Search in a Binary Search Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution700.java)
