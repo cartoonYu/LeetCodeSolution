@@ -7,6 +7,7 @@ import java.util.Map;
  * Problem
  *      500.Keyboard Row
  *      https://leetcode.com/problems/keyboard-row/
+ *      https://leetcode-cn.com/problems/keyboard-row/
  * Grade of difficulty
  *      Easy
  * Related topics
@@ -16,6 +17,18 @@ import java.util.Map;
 public class Solution500 {
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n^2)
+     *     1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *     2.1 定义一个Hash表保存字母以及对应的行数
+     *     2.2 循环遍历给定的字符串数组，循环比较给定的字符串
+     *     2.3 返回数组
+     * 3.提交记录
+     *     3.1 力扣中耗时2ms,消耗36.7MB内存
+     *     3.2 leetcode中耗时1ms,消耗35.9MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n^2)
      *     1.2 Space Complexity is O(1)

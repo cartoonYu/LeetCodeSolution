@@ -1,9 +1,6 @@
 # LeetCodeSolution
 This repository is include my LeetCode's problem solution,although some aren't prefect, I will try my best to prefect it.Beside,I will wirte how I solve and its complexity.
 
-## Related
-[CommonAlgorithms](https://github.com/cartoonYu/CommonAlgorithms)
-
 ## Already Solved
 
 [1.Two Sum/两数之和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution1.java)
@@ -148,7 +145,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [257.Binary Tree Paths](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution257.java)
 
-[258.Add Digits](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution258.java)
+[258.Add Digits/各位相加](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution258.java)
 
 [263.Ugly Number/丑数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution263.java)
 
@@ -192,11 +189,13 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [437.Path Sum III/路径总和 III](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution437.java)
 
-[453.Minimum Moves to Equal Array Elements](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution453.java)
+[451.451.Sort Characters By Frequency/根据字符出现频率排序](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution451.java)
 
-[455.Assign Cookies](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution455.java)
+[453.Minimum Moves to Equal Array Elements/最小移动次数使数组元素相等](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution453.java)
 
-[462.Minimum Moves to Equal Array Elements II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution462.java)
+[455.Assign Cookies/分发饼干](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution455.java)
+
+[462.Minimum Moves to Equal Array Elements II/最少移动次数使数组元素相等 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution462.java)
 
 [476.Number Complement](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution476.java)
 
@@ -204,7 +203,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [496.Next Greater Element I/下一个更大元素 I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution496.java)
 
-[500.Keyboard Row](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution500.java)
+[500.Keyboard Row/键盘行](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution500.java)
 
 [501.Find Mode in Binary Search Tree/二叉搜索树中的众数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution501.java)
 
@@ -250,7 +249,11 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [830.Positions of Large Groups](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution830.java)
 
-[860.Lemonade Change](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution860.java)
+[838.Push Dominoes/推多米诺](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution838.java)
+
+[860.Lemonade Change/柠檬水找零](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution860.java)
+
+[881.Boats to Save People/救生艇](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution881.java)
 
 [922.Sort Array By Parity II/按奇偶排序数组 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution922.java)
 
