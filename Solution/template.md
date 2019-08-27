@@ -8,7 +8,7 @@
   * Problem
   *     problem's topic and description
   *     problem's url
-  * Grade of difficulty
+  * Grade of difficulty 
   *     Easy/Medium/Hard   
   * Related topics
   * @author cartoon
