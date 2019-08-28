@@ -171,7 +171,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [350.Intersection of Two Arrays II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution350.java)
 
-[357.Count Numbers with Unique Digits](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution357.java)
+[357.Count Numbers with Unique Digits/计算各个位数不同的数字个数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution357.java)
 
 [367.Valid Perfect Square/有效的完全平方数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution367.java)
 
@@ -199,7 +199,11 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [462.Minimum Moves to Equal Array Elements II/最少移动次数使数组元素相等 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution462.java)
 
+[463.Island Perimeter/岛屿的周长](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution463.java)
+
 [476.Number Complement](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution476.java)
+
+[482.License Key Formatting/密钥格式化](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution482.java)
 
 [485.Max Consecutive Ones](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution485.java)
 
@@ -211,7 +215,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [504.Base 7/七进制数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution504.java)
 
-[507.Perfect Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution507.java)
+[507.Perfect Number/完美数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution507.java)
 
 [509.Fibonacci Number/斐波那契数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution509.java)
 
@@ -221,7 +225,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [538.Convert BST to Greater Tree/把二叉搜索树转换为累加树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution538.java)
 
-[540.Single Element in a Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution540.java)
+[540.Single Element in a Sorted Array/有序数组中的单一元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution540.java)
 
 [541.Reverse String II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution541.java)
 

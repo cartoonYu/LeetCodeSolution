@@ -2,6 +2,7 @@
  * Problem
  *      540.Single Element in a Sorted Array
  *      https://leetcode.com/problems/single-element-in-a-sorted-array/
+ *      https://leetcode-cn.com/problems/single-element-in-a-sorted-array/
  * Grade of difficulty
  *      Medium
  * Related topics
@@ -11,6 +12,17 @@
 public class Solution540 {
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(log n)
+     *     1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *     2.1 这个算法基于二分查找
+     *     2.2 对比当前值以及相邻值，递归继续找到合适的值
+     * 3.提交记录
+     *     3.1 力扣中耗时1ms,消耗59.3MB内存
+     *     3.2 leetcode中耗时0ms,消耗37.4MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(log n)
      *     1.2 Space Complexity is O(1)
