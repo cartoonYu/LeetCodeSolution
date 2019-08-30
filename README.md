@@ -43,6 +43,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [78.Subsets/子集](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution78.java)
 
+[82.Remove Duplicates from Sorted List II/删除排序链表中的重复元素 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution82.java)
+
 [89.Gray Code](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution89.java)
 
 [90.Subsets II/子集 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution90.java)
@@ -238,6 +240,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [654.Maximum Binary Tree/最大二叉树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution654.java)
 
 [655.Print Binary Tree/输出二叉树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution655.java)
+
+[665.Non-decreasing Array/非递减数列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution665.java)
 
 [687.Longest Univalue Path](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution687.java)
 
