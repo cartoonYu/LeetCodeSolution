@@ -25,7 +25,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [46.Permutations](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution46.java)
 
-[50.Pow(x, n)](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution50.java)
+[50.Pow(x, n)/Pow(x, n)](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution50.java)
 
 [53.Maximum Subarray/最大子序和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution53.java)
 
@@ -128,6 +128,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [202.Happy Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution202.java)
 
 [203.Remove Linked List Elements](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution203.java)
+
+[205.Isomorphic Strings/同构字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution205.java)
 
 [206.Reverse Linked List/反转链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution206.java)
 
