@@ -39,6 +39,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [67.Add Binary](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution67.java)
 
+[74.Search a 2D Matrix/搜索二维矩阵](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution74.java)
+
 [77.Combinations](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution77.java)
 
 [78.Subsets/子集](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution78.java)
