@@ -2,6 +2,7 @@
  * Problem
  *     283.Move Zeroes
  *     https://leetcode.com/problems/move-zeroes/submissions/
+ *     https://leetcode-cn.com/problems/move-zeroes/submissions/
  * Grade of difficulty
  *     Easy
  * Related topics
@@ -11,6 +12,18 @@
 public class Solution283 {
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n)
+     *     1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *     2.1 定义两个循环实现功能
+     *     2.2 第一个循环将非0元素移到首部并记录边界
+     *     2.3 第二个循环将边界外的元素设为0
+     * 3.提交记录
+     *     3.1 力扣中耗时1ms,消耗41.6MB内存
+     *     3.2 leetcode中耗时0ms,消耗39.2MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(1)

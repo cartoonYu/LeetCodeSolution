@@ -133,6 +133,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [203.Remove Linked List Elements](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution203.java)
 
+[204.Count Primes/计数质数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution204.java)
+
 [205.Isomorphic Strings/同构字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution205.java)
 
 [206.Reverse Linked List/反转链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution206.java)
@@ -151,9 +153,9 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [235.Lowest Common Ancestor of a Binary Search Tree/二叉搜索树的最近公共祖先](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution237.java)
 
-[237.Delete Node in a Linked List](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution237.java)
+[237.Delete Node in a Linked List/删除链表中的节点](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution237.java)
 
-[257.Binary Tree Paths](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution257.java)
+[257.Binary Tree Paths/二叉树的所有路径](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution257.java)
 
 [258.Add Digits/各位相加](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution258.java)
 
@@ -161,9 +163,9 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [268.Missing Number/缺失数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution268.java)
 
-[283.Move Zeroes](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution283.java)
-
 [278.First Bad Version](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution278.java)
+
+[283.Move Zeroes/移动零](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution283.java)
 
 [300.Longest Increasing Subsequence/最长上升子序列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution300.java)
 
