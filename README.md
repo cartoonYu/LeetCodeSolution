@@ -165,6 +165,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [278.First Bad Version](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution278.java)
 
+[279.Perfect Squares/完全平方数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution279.java)
+
 [283.Move Zeroes/移动零](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution283.java)
 
 [300.Longest Increasing Subsequence/最长上升子序列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution300.java)
