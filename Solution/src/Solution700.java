@@ -4,6 +4,7 @@ import DataStructure.BinaryTreeNode;
  * Problem
  *     700.Search in a Binary Search Tree
  *     https://leetcode.com/problems/search-in-a-binary-search-tree/
+ *     https://leetcode-cn.com/problems/search-in-a-binary-search-tree/
  * Grade of difficulty
  *     Easy
  * Related topics
@@ -13,6 +14,20 @@ import DataStructure.BinaryTreeNode;
 public class Solution700 {
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n)
+     *     1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *     2.1 这个算法基于BST树的特性
+     *     2.2 用val对比当前结点的值，有三种情况
+     *         2.2.1 node.val=val，返回当前结点
+     *         2.2.2 node.val<val，遍历右子树
+     *         2.2.3 node.val>val，遍历左子树
+     * 3.提交记录
+     *     3.1 力扣中耗时1ms,消耗48.7MB内存
+     *     3.2 leetcode中耗时0ms,消耗38.3MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(1)

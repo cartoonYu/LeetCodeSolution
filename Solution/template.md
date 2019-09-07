@@ -21,7 +21,7 @@
     1.1 Time Complexity is O()
     1.2 Space Complexity is O()
 2.how I solve
-
+    2.1 
 3.About submit record
     3.1 ms and MB memory in LeetCode China
     3.2 ms and MB memory in LeetCode
@@ -36,3 +36,6 @@
     3.1 力扣中耗时ms,消耗MB内存
     3.2 leetcode中耗时ms,消耗MB内存
 4. Q&A
+
+
+

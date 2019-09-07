@@ -4,6 +4,7 @@ import DataStructure.BinaryTreeNode;
  * Problem
  *      687.Longest Univalue Path
  *      https://leetcode.com/problems/longest-univalue-path/
+ *      https://leetcode-cn.com/problems/longest-univalue-path/
  * Grade of difficulty
  *      Easy
  * Related topics
@@ -28,6 +29,17 @@ public class Solution687 {
     private int max;
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n)
+     *     1.2 空间负责度为O(n)
+     * 2.我的解题思路
+     *     2.1 这个算法基于深度遍历
+     *     2.2 统计左右子树的深度，同时判断当前结点val是否等于父节点的val
+     * 3.提交记录
+     *     3.1 力扣中耗时9ms,消耗51.8MB内存
+     *     3.2 leetcode中耗时3ms,消耗40.5MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(n)

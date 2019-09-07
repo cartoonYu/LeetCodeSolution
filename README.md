@@ -7,6 +7,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [2.Add Two Numbers/两数相加](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution2.java)
 
+[3.Longest Substring Without Repeating Characters/无重复字符的最长子串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution3.java)
+
 [7.Reverse Integer](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution7.java)
 
 [14.Longest Common Prefix/最长公共前缀](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution14.java)
@@ -127,6 +129,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [199.Binary Tree Right Side View/二叉树的右视图](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution199.java)
 
+[200.Number of Islands/岛屿数量](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution200.java)
+
 [201.Bitwise AND of Numbers Range](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution201.java)
 
 [202.Happy Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution202.java)
@@ -138,6 +142,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [205.Isomorphic Strings/同构字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution205.java)
 
 [206.Reverse Linked List/反转链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution206.java)
+
+[209.Minimum Size Subarray Sum/长度最小的子数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution209.java)
 
 [221.Maximal Square/最大正方形](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution221.java)
 
@@ -195,9 +201,13 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [389.Find the Difference](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution389.java)
 
+[392.Is Subsequence/判断子序列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution389.java)
+
 [398.Random Pick Index](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution398.java)
 
 [404.Sum of Left Leaves](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution404.java)
+
+[412.Fizz Buzz/Fizz Buzz](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution412.java)
 
 [414.Third Maximum Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution414.java)
 
@@ -253,9 +263,9 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [665.Non-decreasing Array/非递减数列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution665.java)
 
-[687.Longest Univalue Path](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution687.java)
+[687.Longest Univalue Path/最长同值路径](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution687.java)
 
-[700.Search in a Binary Search Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution700.java)
+[700.Search in a Binary Search Tree/二叉搜索树中的搜索](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution700.java)
 
 [718.Maximum Length of Repeated Subarray/最长重复子数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution718.java)
 
@@ -276,6 +286,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [860.Lemonade Change/柠檬水找零](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution860.java)
 
 [881.Boats to Save People/救生艇](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution881.java)
+
+[884.Uncommon Words from Two Sentences/两句话中的不常见单词](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution884.java)
 
 [922.Sort Array By Parity II/按奇偶排序数组 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution922.java)
 
