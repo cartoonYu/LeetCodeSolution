@@ -16,7 +16,7 @@ public class Solution462 {
 
     /**
      * 1.关于复杂度
-     *     1.1 时间复杂度为O(n)
+     *     1.1 时间复杂度为O(n log n/n^2)(因jdk版本与底层选择的排序算法不同而不同)
      *     1.2 空间负责度为O(1)
      * 2.我的解题思路
      *     2.1 这个解法基于中位数实现
@@ -27,7 +27,7 @@ public class Solution462 {
      * 4.Q&A
      *
      * 1.About Complexity
-     *     1.1 Time Complexity is O(n)
+     *     1.1 Time Complexity is O(nlogn)(different with jdk version and underlying algorithm)
      *     1.2 Space Complexity is O(1)
      * 2.how I solve
      *     2.1 this solution is base on median idea

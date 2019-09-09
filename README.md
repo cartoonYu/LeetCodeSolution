@@ -175,9 +175,13 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [283.Move Zeroes/移动零](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution283.java)
 
+[290.Word Pattern/单词规律](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution290.java)
+
 [300.Longest Increasing Subsequence/最长上升子序列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution300.java)
 
 [303.Range Sum Query - Immutable](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution303.java)
+
+[322.Coin Change/零钱兑换](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution322.java)
 
 [326.Power of Three](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution326.java)
 
