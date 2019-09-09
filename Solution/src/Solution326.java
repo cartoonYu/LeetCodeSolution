@@ -2,6 +2,7 @@
  * Problem
  *      326. Power of Three
  *      https://leetcode.com/problems/power-of-three/
+ *      https://leetcode-cn.com/problems/power-of-three/
  * Grade of difficulty
  *      Easy
  * Related topics
@@ -12,6 +13,20 @@
 public class Solution326 {
 
     /**
+     * 用取余跟除法计算结果
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n)
+     *     1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *     2.1 手动排除n<=1的情况
+     *     2.2 循环n判断结果
+     *         2.2.1 如果n%3!=0，就明显表明了没有可能返回true，所以返回false
+     *         2.2.2 n自身除3
+     * 3.提交记录
+     *     3.1 力扣中耗时87ms,消耗40.4MB内存
+     *     3.2 leetcode中耗时10ms,消耗35.8MB内存
+     * 4.Q&A
+     *
      *  use mod and divide number in circulation to solve
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)

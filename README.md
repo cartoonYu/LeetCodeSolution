@@ -125,7 +125,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [196.Delete Duplicate Emails/删除重复的电子邮箱](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution196.java)
 
-[197.Rising Temperature](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution197.java)
+[197.Rising Temperature/上升的温度](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution197.java)
 
 [199.Binary Tree Right Side View/二叉树的右视图](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution199.java)
 
@@ -183,7 +183,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [322.Coin Change/零钱兑换](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution322.java)
 
-[326.Power of Three](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution326.java)
+[326.Power of Three/3的幂](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution326.java)
 
 [342.Power of Four/4的幂](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution342.java)
 
@@ -207,7 +207,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [392.Is Subsequence/判断子序列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution389.java)
 
-[398.Random Pick Index](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution398.java)
+[398.Random Pick Index/随机数索引](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution398.java)
 
 [404.Sum of Left Leaves](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution404.java)
 
