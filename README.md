@@ -1,5 +1,5 @@
 # LeetCodeSolution
-This repository is include my LeetCode's problem solution,although some aren't prefect, I will try my best to prefect it.Beside,I will wirte how I solve and its complexity.
+This repository is include my LeetCode's problem solution,although some aren't prefect, I will try my best to prefect it.Beside,I will write how I solve and its complexity.
 
 ## Already Solved
 
@@ -54,6 +54,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [90.Subsets II/子集 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution90.java)
 
 [94.Binary Tree Inorder Traversal/二叉树的中序遍历](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution94.java)
+
+[96.Unique Binary Search Trees/不同的二叉搜索树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution96.java)
 
 [98.Validate Binary Search Tree/验证二叉搜索树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution98.java)
 
@@ -184,6 +186,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [322.Coin Change/零钱兑换](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution322.java)
 
 [326.Power of Three/3的幂](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution326.java)
+
+[338.Counting Bits/比特位计数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution338.java)
 
 [342.Power of Four/4的幂](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution342.java)
 

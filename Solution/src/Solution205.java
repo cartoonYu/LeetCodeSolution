@@ -76,7 +76,7 @@ public class Solution205 {
      * 4. Q&A
      *
      * 1.About Complexity
-     *     1.1 Time Complexity is O(n)
+     *     1.1 Time Complexity is O(n^2)
      *     1.2 Space Complexity is O(n)
      * 2.how I solve
      *     2.1 set a hash to record character position relationship
