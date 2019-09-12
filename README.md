@@ -171,7 +171,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [268.Missing Number/缺失数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution268.java)
 
-[278.First Bad Version](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution278.java)
+[278.First Bad Version/第一个错误的版本](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution278.java)
 
 [279.Perfect Squares/完全平方数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution279.java)
 
@@ -181,7 +181,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [300.Longest Increasing Subsequence/最长上升子序列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution300.java)
 
-[303.Range Sum Query - Immutable](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution303.java)
+[303.Range Sum Query - Immutable/区域和检索 - 数组不可变](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution303.java)
 
 [322.Coin Change/零钱兑换](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution322.java)
 
