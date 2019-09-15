@@ -4,6 +4,7 @@ import java.util.Arrays;
  * Problem
  *     1046.Last Stone Weight
  *     https://leetcode.com/problems/last-stone-weight/
+ *     https://leetcode-cn.com/problems/last-stone-weight/
  * Grade of difficulty
  *     Easy
  * Related topics
@@ -13,6 +14,18 @@ import java.util.Arrays;
 public class Solution1046 {
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n^2)
+     *     1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *     2.1 用两个临时变量存储stones数组的长度以及计算的结果
+     *     2.2 循环1到数组末尾，排序数组，计算最后两个元素相减的结果
+     *     2.3 根据题意操作最后的两个元素
+     * 3.提交记录
+     *     3.1 力扣中耗时2ms,消耗35.1MB内存
+     *     3.2 leetcode中耗时1ms,消耗34.2MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n^2)
      *     1.2 Space Complexity is O(1)

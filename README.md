@@ -309,9 +309,9 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [1009.Complement of Base 10 Integer](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution1009.java)
 
-[1018.Binary Prefix Divisible By 5](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution1018.java)
+[1018.Binary Prefix Divisible By 5/可被 5 整除的二进制前缀](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution1018.java)
 
-[1046.Last Stone Weight](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution1046.java)
+[1046.Last Stone Weight/最后一块石头的重量](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution1046.java)
 
 [1047.Remove All Adjacent Duplicates In String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution1047.java)
 
