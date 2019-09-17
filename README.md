@@ -183,6 +183,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [303.Range Sum Query - Immutable/区域和检索 - 数组不可变](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution303.java)
 
+[309.Best Time to Buy and Sell Stock with Cooldown/最佳买卖股票时机含冷冻期](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution309.java)
+
 [322.Coin Change/零钱兑换](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution322.java)
 
 [326.Power of Three/3的幂](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution326.java)
@@ -274,6 +276,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [687.Longest Univalue Path/最长同值路径](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution687.java)
 
 [700.Search in a Binary Search Tree/二叉搜索树中的搜索](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution700.java)
+
+[714.Best Time to Buy and Sell Stock with Transaction Fee/买卖股票的最佳时机含手续费](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution714.java)
 
 [718.Maximum Length of Repeated Subarray/最长重复子数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution718.java)
 
