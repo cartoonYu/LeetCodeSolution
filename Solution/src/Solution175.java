@@ -2,6 +2,7 @@
  * Problem
  *     175.Combine Two Tables
  *     https://leetcode.com/problems/combine-two-tables/
+ *     https://leetcode-cn.com/problems/combine-two-tables/
  * Grade of difficulty
  *     Easy
  * Related topics
@@ -11,6 +12,15 @@
 public class Solution175 {
 
     /**
+     * 1. 关于复杂度
+     *     None
+     * 2. 我的解题思路
+     *     2.1 根据题意，必须返回所有人的信息，所以用Person表左连接address表
+     * 3. 提交记录
+     *     3.1 力扣中耗时353ms
+     *     3.2 leetcode中耗时204ms
+     * 4. Q&A
+     *
      * 1.About Complexity
      *     None
      * 2.how I solve

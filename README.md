@@ -101,7 +101,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [134.Gas Station/加油站](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution134.java)
 
-[135.Candy](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution135.java)
+[135.Candy/分发糖果](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution135.java)
 
 [144.Binary Tree Preorder Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution144.java)
 
@@ -121,9 +121,11 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [173.Binary Search Tree Iterator](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution173.java)
 
-[175.Combine Two Tables](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution175.java)
+[175.Combine Two Tables/组合两个表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution175.java)
 
 [182.Duplicate Emails](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution182.java)
+
+[189.Rotate Array/旋转数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution182.java)
 
 [196.Delete Duplicate Emails/删除重复的电子邮箱](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution196.java)
 
@@ -135,7 +137,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [201.Bitwise AND of Numbers Range](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution201.java)
 
-[202.Happy Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution202.java)
+[202.Happy Number/快乐数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution202.java)
 
 [203.Remove Linked List Elements/移除链表元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution203.java)
 
@@ -250,6 +252,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [507.Perfect Number/完美数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution507.java)
 
 [509.Fibonacci Number/斐波那契数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution509.java)
+
+[513.Find Bottom Left Tree Value/找树左下角的值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution513.java)
 
 [515.Find Largest Value in Each Tree Row/在每个树行中找最大值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution515.java)
 

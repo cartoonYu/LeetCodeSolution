@@ -2,6 +2,7 @@
  * Problem
  *     135.Candy
  *     https://leetcode.com/problems/candy/
+ *     https://leetcode-cn.com/problems/candy/
  * Grade of difficulty
  *     Hard
  * Related topics
@@ -11,6 +12,21 @@
 public class Solution135 {
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n)
+     *     1.2 空间负责度为O(n)
+     * 2.我的解题思路
+     *     2.1 定义一个数组暂存计算结果，因为第一个人没有左边的人，初始化temp[0]=1
+     *     2.2 循环1到n，对比当前元素以及左边的元素
+     *         2.2.1 如果当前元素大于左元素，temp[current]=temp[current-1]
+     *         2.2.2 其余情况，temp[current]=1
+     *     2.3 循环n-2到0，对比元素以及temp，如果ratings[current]>ratings[right]&&temp[current]<=temp[right]，temp[current]=temp[current+1]+1
+     *     2.4 循环相加temp中的所有元素
+     * 3.提交记录
+     *     3.1 力扣中耗时6ms,消耗49.9MB内存
+     *     3.2 leetcode中耗时2ms,消耗39.6MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(n)
