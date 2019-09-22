@@ -83,7 +83,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [111.Minimum Depth of Binary Tree/二叉树的最小深度](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution111.java)
 
-[112.Path Sum](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution112.java)
+[112.Path Sum/路径总和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution112.java)
 
 [113.Path Sum II/路径总和 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution113.java)
 
@@ -103,9 +103,9 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [135.Candy/分发糖果](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution135.java)
 
-[144.Binary Tree Preorder Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution144.java)
+[144.Binary Tree Preorder Traversal/二叉树的前序遍历](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution144.java)
 
-[145.Binary Tree Postorder Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution145.java)
+[145.Binary Tree Postorder Traversal/二叉树的后序遍历](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution145.java)
 
 [150.Evaluate Reverse Polish Notation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution150.java)
 
@@ -210,6 +210,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [380.Insert Delete GetRandom O(1)](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution380.java)
 
 [383.Ransom Note](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution383.java)
+
+[387.First Unique Character in a String/字符串中的第一个唯一字符](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution387.java)
 
 [389.Find the Difference](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution389.java)
 
