@@ -6,6 +6,7 @@ import java.util.List;
  * Problem
  *      350. Intersection of Two Arrays II
  *      https://leetcode.com/problems/intersection-of-two-arrays-ii/
+ *      https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/
  * Grade of difficulty
  *      Easy
  * Related topics
@@ -16,6 +17,16 @@ import java.util.List;
 public class Solution350 {
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n log n)
+     *     1.2 空间负责度为O(n)
+     * 2.我的解题思路
+     *     2.1 排序两个数组
+     *     2.2 使用两个指针遍历两个数组，因为数组已经排序，所以我可以直接对比当前元素的大小关系判断当前元素是否是交集
+     * 3.提交记录
+     *     3.1 力扣中耗时7ms,消耗36.3MB内存
+     *     3.2 leetcode中耗时2ms,消耗35.9MB内存
+     * 4.Q&A
      *
      * 1.About Complexity
      *      1.1 Time Complexity is O(n)
@@ -65,6 +76,15 @@ public class Solution350 {
     }
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n)
+     *     1.2 空间负责度为O(n)
+     * 2.我的解题思路
+     *     2.1 基本解法与349题类似，但是将哈希换成了list
+     * 3.提交记录
+     *     3.1 力扣中耗时42ms,消耗37.1MB内存
+     * 4.Q&A
+     *
      * Notice
      *      This version is previous solution
      * 1.About Complexity

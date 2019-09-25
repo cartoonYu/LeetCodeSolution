@@ -195,11 +195,11 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [342.Power of Four/4的幂](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution342.java)
 
-[344.Reverse String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution344.java)
+[344.Reverse String/反转字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution344.java)
 
-[349.Intersection of Two Arrays](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution349.java)
+[349.Intersection of Two Arrays/两个数组的交集](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution349.java)
 
-[350.Intersection of Two Arrays II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution350.java)
+[350.Intersection of Two Arrays II/两个数组的交集 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution350.java)
 
 [357.Count Numbers with Unique Digits/计算各个位数不同的数字个数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution357.java)
 

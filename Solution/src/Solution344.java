@@ -2,6 +2,7 @@
  * Problem
  *      344.Reverse String
  *      https://leetcode.com/problems/reverse-string/
+ *      https://leetcode-cn.com/problems/reverse-string/
  * Grade of difficulty
  *      Easy
  * Related topics
