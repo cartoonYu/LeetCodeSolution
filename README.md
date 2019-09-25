@@ -107,6 +107,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [145.Binary Tree Postorder Traversal/二叉树的后序遍历](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution145.java)
 
+[147.Insertion Sort List/对链表进行插入排序](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution147.java)
+
 [150.Evaluate Reverse Polish Notation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution150.java)
 
 [151.Reverse Words in a String/翻转字符串里的单词](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution151.java)
@@ -213,9 +215,11 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [387.First Unique Character in a String/字符串中的第一个唯一字符](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution387.java)
 
-[389.Find the Difference](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution389.java)
+[389.Find the Difference/找不同](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution389.java)
 
 [392.Is Subsequence/判断子序列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution389.java)
+
+[396.Rotate Function/旋转函数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution396.java)
 
 [398.Random Pick Index/随机数索引](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution398.java)
 
