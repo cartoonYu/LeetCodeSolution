@@ -2,6 +2,7 @@
  * Problem
  *      67.Add Binary
  *      https://leetcode.com/problems/add-binary/
+ *      https://leetcode-cn.com/problems/add-binary/
  * Grade of difficulty
  *      Easy
  * Related topics
@@ -11,6 +12,19 @@
 public class Solution67 {
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n)
+     *     1.2 空间负责度为O(n)
+     * 2.我的解题思路
+     *     2.1 定义一个数组存储结果
+     *     2.2 三指针统计每一个索引上1的位数
+     *     2.3 循环按照规律改变1的位数以及进位
+     *     2.4 返回目标字符串
+     * 3.提交记录
+     *     3.1 力扣中耗时2ms,消耗36.1MB内存
+     *     3.2 leetcode中耗时1ms,消耗36MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(n)
@@ -20,8 +34,8 @@ public class Solution67 {
      *     2.3 circulate to shift array's value
      *     2.4 change array to string to return
      * 3.About submit record
-     *     3.1 5ms and 35MB memory in LeetCode China
-     *     3.2 1ms and 35.1MB memory in LeetCode
+     *     3.1 2ms and 36.1MB memory in LeetCode China
+     *     3.2 1ms and 36MB memory in LeetCode
      * 4.Q&A
      *
      * @param a
@@ -68,13 +82,12 @@ public class Solution67 {
                 res[x-1]+=1;
             }
         }
-        StringBuilder builder=new StringBuilder();
-        if(res[0]!='0'){
-            builder.append(res[0]);
+        String str=new String(res);
+        if(res[0]=='0'){
+            return str.substring(1);
         }
-        for(int l=1;l<res.length;l++){
-            builder.append(res[l]);
+        else {
+            return str;
         }
-        return builder.toString();
     }
 }

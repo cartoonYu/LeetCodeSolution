@@ -6,6 +6,7 @@ import java.util.List;
  * Problem
  *     17.Letter Combinations of a Phone Number
  *     https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+ *     https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
  * Grade of difficulty
  *     Medium
  * Related topics
@@ -17,9 +18,21 @@ public class Solution17 {
     private List<String> list;
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n)
+     *     1.2 空间负责度为O(n)
+     * 2.我的解题思路
+     *     2.1 这个算法基于回溯算法
+     *     2.2 计算当前元素与当前键的值
+     *     2.3 循环遍历当前键元素以及递归遍历源字符串
+     * 3.提交记录
+     *     3.1 力扣中耗时1ms,消耗36.2MB内存
+     *     3.2 leetcode中耗时0ms,消耗36MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
-     *     1.2 Space Complexity is O()
+     *     1.2 Space Complexity is O(n)
      * 2.how I solve
      *     2.1 this solution is base on backTrack
      *     2.2 calculate current character value and what character it has
