@@ -9,6 +9,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [3.Longest Substring Without Repeating Characters/无重复字符的最长子串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution3.java)
 
+[6.ZigZag Conversion/Z 字形变换](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution6.java)
+
 [7.Reverse Integer/整数反转](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution7.java)
 
 [14.Longest Common Prefix/最长公共前缀](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution14.java)
@@ -18,6 +20,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [17.Letter Combinations of a Phone Number/电话号码的字母组合](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution17.java)
 
 [19.Remove Nth Node From End of List/删除链表的倒数第N个节点](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution19.java)
+
+[24.Swap Nodes in Pairs/两两交换链表中的节点](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution24.java)
 
 [25.Reverse Nodes in k-Group/K 个一组翻转链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution25.java)
 
