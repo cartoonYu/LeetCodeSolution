@@ -58,7 +58,6 @@ public class Solution414 {
                 }
             }
         }
-        System.out.print(max1+" "+max2+" "+max3);
         if(max3==Long.MIN_VALUE){
             return (int)max1;
         }

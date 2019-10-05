@@ -1,6 +1,8 @@
 /**
  * Problem
  *    41.First Missing Positive
+ *    https://leetcode.com/problems/first-missing-positive/submissions/
+ *    https://leetcode-cn.com/problems/first-missing-positive/submissions/
  * Grade of difficulty
  *    Hard
  * Related topics
@@ -10,6 +12,18 @@
 public class Solution41 {
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(n)
+     *     1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *     2.1 这个解法基于桶排序思想
+     *     2.2 循环将nums[i]放入到索引为nums[i-1]上
+     *     2.3 循环检查索引是否等于当前索引的值减1
+     * 3.提交记录
+     *     3.1 力扣中耗时1ms,消耗34.7MB内存
+     *     3.2 leetcode中耗时0ms,消耗34.7MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(1)

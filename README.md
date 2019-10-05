@@ -13,6 +13,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [7.Reverse Integer/整数反转](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution7.java)
 
+[9.Palindrome Number/回文数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution9.java)
+
 [14.Longest Common Prefix/最长公共前缀](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution14.java)
 
 [15.3Sum/三数之和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution15.java)
@@ -29,7 +31,7 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [35.Search Insert Position/搜索插入位置](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution35.java)
 
-[41.First Missing Positive](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution41.java)
+[41.First Missing Positive/缺失的第一个正数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution41.java)
 
 [46.Permutations](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution46.java)
 
@@ -125,7 +127,9 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [155.Min Stack/最小栈](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution155.java)
 
-[162.Find Peak Element](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution162.java)
+[160.Intersection of Two Linked Lists/相交链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution160.java)
+
+[162.Find Peak Element/寻找峰值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution162.java)
 
 [167.Two Sum II - Input array is sorted/两数之和 II - 输入有序数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution167.java)
 
@@ -231,13 +235,15 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [398.Random Pick Index/随机数索引](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution398.java)
 
-[404.Sum of Left Leaves](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution404.java)
+[404.Sum of Left Leaves/左叶子之和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution404.java)
 
 [412.Fizz Buzz/Fizz Buzz](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution412.java)
 
 [414.Third Maximum Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution414.java)
 
 [437.Path Sum III/路径总和 III](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution437.java)
+
+[448.Find All Numbers Disappeared in an Array/找到所有数组中消失的数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution448.java)
 
 [451.451.Sort Characters By Frequency/根据字符出现频率排序](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution451.java)
 

@@ -2,6 +2,7 @@
  * Problem
  *     162.Find Peak Element
  *     https://leetcode.com/problems/find-peak-element/
+ *     https://leetcode-cn.com/problems/find-peak-element/
  * Grade of difficulty
  *     Medium
  * Related topics
@@ -11,6 +12,19 @@
 public class Solution162 {
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(log n)
+     *     1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *     2.1 这个解法基于二分查找
+     *     2.2 对比中间值以及右侧的值，有两种情况
+     *         2.2.1 中间值大于右侧值，将右指针改成mid
+     *         2.2.2 中间值小于等于右侧值，左指针改为mid+1
+     * 3.提交记录
+     *     3.1 力扣中耗时1ms,消耗36.8MB内存
+     *     3.2 leetcode中耗时0ms,消耗38MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(log n)
      *     1.2 Space Complexity is O(1)
@@ -47,6 +61,21 @@ public class Solution162 {
     private int index;
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(log n)
+     *     1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *     2.1 这个解法基于二分查找
+     *     2.2 利用当前左右边界计算中间索引，对比中间索引的值以及左右侧的值，有三种情况
+     *         2.2.1 mid==0，对比中间值以及右侧的值
+     *         2.2.2 mid==nums.length,对比中间值及其左侧的值
+     *         2.2.3 其余情况同时对比左右侧的值
+     *     2.3 递归遍历基于中间索引的左右边界
+     * 3.提交记录
+     *     3.1 力扣中耗时2ms,消耗36.9MB内存
+     *     3.2 leetcode中耗时0ms,消耗38.2MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(log n)
      *     1.2 Space Complexity is O(1)
