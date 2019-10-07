@@ -16,7 +16,7 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [89.Gray Code](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution89.java)
 
-[201.Bitwise AND of Numbers Range](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution201.java)
+[201.Bitwise AND of Numbers Range/数字范围按位与](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution201.java)
 
 [202.Happy Number/快乐数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution202.java)
 
@@ -40,12 +40,12 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [412.Fizz Buzz/Fizz Buzz](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution412.java)
 
-[476.Number Complement](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution476.java)
+[476.Number Complement/数字的补数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution476.java)
 
 [504.Base 7/七进制数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution504.java)
 
 [507.Perfect Number/完美数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution507.java)
 
-[1009.Complement of Base 10 Integer](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1009.java)
+[1009.Complement of Base 10 Integer/十进制整数的反码](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1009.java)
 
 [1018.Binary Prefix Divisible By 5/可被 5 整除的二进制前缀](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1018.java)

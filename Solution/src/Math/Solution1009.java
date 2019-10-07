@@ -4,16 +4,27 @@ package Math;
  * Problem
  *      1009.Complement of Base 10 Integer
  *      https://leetcode.com/problems/complement-of-base-10-integer/
+ *      https://leetcode-cn.com/problems/complement-of-base-10-integer/
  * Grade of difficulty
  *      Easy
  * Related topics
- *
  * @author cartoon
  * @version 1.0
  */
 public class Solution1009 {
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(log n)
+     *     1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *     2.1 循环计算N的二进制表示
+     *     2.2 返回N的前length-N-1的二进制表示
+     * 3.提交记录
+     *     3.1 力扣中耗时1ms,消耗32.9MB内存
+     *     3.2 leetcode中耗时0ms,消耗32.3MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(log n)
      *     1.2 Space Complexity is O(1)
@@ -42,6 +53,18 @@ public class Solution1009 {
     }
 
     /**
+     * 1.关于复杂度
+     *     1.1 时间复杂度为O(log n)
+     *     1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *     2.1 将N转换成二进制表示
+     *     2.2 循环遍历二进制表示逐位取反
+     *     2.3 转换2.2的字符串成int返回
+     * 3.提交记录
+     *     3.1 力扣中耗时2ms,消耗32.8MB内存
+     *     3.2 leetcode中耗时1ms,消耗32.1MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(log n)
      *     1.2 Space Complexity is O(1)

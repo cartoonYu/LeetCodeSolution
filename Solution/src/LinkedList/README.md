@@ -12,6 +12,8 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [25.Reverse Nodes in k-Group/K 个一组翻转链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution25.java)
 
+[61.Rotate List/旋转链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution61.java)
+
 [82.Remove Duplicates from Sorted List II/删除排序链表中的重复元素 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution82.java)
 
 [147.Insertion Sort List/对链表进行插入排序](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution147.java)
