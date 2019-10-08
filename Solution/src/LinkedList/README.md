@@ -16,6 +16,8 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [82.Remove Duplicates from Sorted List II/删除排序链表中的重复元素 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution82.java)
 
+[92.Reverse Linked List II/反转链表 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution92.java)
+
 [147.Insertion Sort List/对链表进行插入排序](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution147.java)
 
 [160.Intersection of Two Linked Lists/相交链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution160.java)

@@ -11,6 +11,9 @@ import DataStructure.ListNode;
  *     Hard
  * Related topics
  *     24.Swap Nodes in Pairs
+ *     25.Reverse Nodes in k-Group
+ *     92.Reverse Linked List II
+ *     206.Reverse Linked List
  * @author cartoon
  * @version 1.0
  */

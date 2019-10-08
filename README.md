@@ -62,6 +62,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [41.First Missing Positive/缺失的第一个正数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution41.java)
 
+[48.Rotate Image/旋转图像](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution48.java)
+
 [74.Search a 2D Matrix/搜索二维矩阵](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution74.java)
 
 [118.Pascal's Triangle/杨辉三角](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution118.java)
@@ -130,6 +132,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [61.Rotate List/旋转链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution61.java)
 
 [82.Remove Duplicates from Sorted List II/删除排序链表中的重复元素 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution82.java)
+
+[92.Reverse Linked List II/反转链表 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution92.java)
 
 [147.Insertion Sort List/对链表进行插入排序](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution147.java)
 
