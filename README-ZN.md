@@ -1,6 +1,6 @@
-# [English](https://github.com/cartoonYu/LeetCodeSolution/blob/master/README.md) | 简体中文
-
 # LeetCode解题仓库
+[English](https://github.com/cartoonYu/LeetCodeSolution/blob/master/README.md) | 简体中文
+
 这个项目包括我所解决出的所有LeetCode题目，虽然有一些并不是很完美，但是我会尽力写出时间复杂度以及中英文的解题过程
 
 ## 注意

@@ -1,6 +1,6 @@
-# English | [简体中文](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/README-ZN.md)
-
 # Notice
+English | [简体中文](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/README-ZN.md)
+
 This subpackage contains all of the problems I've solved so far with respect to tree. Here is a list of the problems
 
 ### [Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree)

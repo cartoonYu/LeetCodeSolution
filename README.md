@@ -1,5 +1,6 @@
-# English | [简体中文](https://github.com/cartoonYu/LeetCodeSolution/blob/master/README-ZN.md)
 # LeetCodeSolution
+English | [简体中文](https://github.com/cartoonYu/LeetCodeSolution/blob/master/README-ZN.md)
+
 This repository is include my LeetCode's problem solution,although some aren't prefect, I will try my best to prefect it.Beside,I will write how I solve with English and Chinese and its complexity.
 
 ## Already Solved

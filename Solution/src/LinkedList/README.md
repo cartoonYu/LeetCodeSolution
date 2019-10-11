@@ -1,6 +1,6 @@
-# English | [简体中文](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/README-ZN.md)
-
 # Notice
+English | [简体中文](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/README-ZN.md)
+
 This subpackage contains all of the problems I've solved so far with respect to linked list. Here is a list of the problems
 
 ### [LinkedList](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList)
