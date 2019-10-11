@@ -1,0 +1,374 @@
+# [English](https://github.com/cartoonYu/LeetCodeSolution/blob/master/README.md) | 简体中文
+
+# LeetCode解题仓库
+这个项目包括我所解决出的所有LeetCode题目，虽然有一些并不是很完美，但是我会尽力写出时间复杂度以及中英文的解题过程
+
+## 注意
+因历史遗留原因，某些题目尚未完成中文题解的编写，在此markdown文件中以英文为题目标注，后续会逐渐补回力，请谅解
+
+## 已解决
+### [数学](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math)
+[7.整数反转](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution7.java)
+
+[9.回文数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution9.java)
+
+[50.Pow(x, n)](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution50.java)
+
+[53.最大子序和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution53.java)
+
+[67.二进制求和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution67.java)
+
+[89.Gray Code](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution89.java)
+
+[201.数字范围按位与](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution201.java)
+
+[202.快乐数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution202.java)
+
+[204.计数质数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution204.java)
+
+[231.2的幂](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution231.java)
+
+[258.各位相加](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution258.java)
+
+[263.丑数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution263.java)
+
+[326.3的幂](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution326.java)
+
+[342.4的幂](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution342.java)
+
+[367.有效的完全平方数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution367.java)
+
+[396.旋转函数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution396.java)
+
+[398.随机数索引](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution398.java)
+
+[412.Fizz Buzz](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution412.java)
+
+[476.数字的补数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution476.java)
+
+[504.七进制数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution504.java)
+
+[507.完美数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution507.java)
+
+[1009.十进制整数的反码](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1009.java)
+
+[1018.可被 5 整除的二进制前缀](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1018.java)
+
+### [数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array)
+[1.两数之和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1.java)
+
+[15.三数之和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution15.java)
+
+[33.搜索旋转排序数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution33.java)
+
+[34.Find First and Last Position of Element in Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution34.java)
+
+[41.缺失的第一个正数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution41.java)
+
+[48.旋转图像](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution48.java)
+
+[74.搜索二维矩阵](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution74.java)
+
+[118.杨辉三角](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution118.java)
+
+[153.寻找旋转排序数组中的最小值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution153.java)
+
+[162.寻找峰值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution162.java)
+
+[189.旋转数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution182.java)
+
+[200.岛屿数量](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution200.java)
+
+[209.长度最小的子数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution209.java)
+
+[228.汇总区间](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution228.java)
+
+[268.缺失数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution268.java)
+
+[283.移动零](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution283.java)
+
+[349.两个数组的交集](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution349.java)
+
+[350.两个数组的交集 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution350.java)
+
+[380.Insert Delete GetRandom O(1)](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution380.java)
+
+[414.Third Maximum Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution414.java)
+
+[448.找到所有数组中消失的数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution448.java)
+
+[453.最小移动次数使数组元素相等](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution453.java)
+
+[455.分发饼干](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution455.java)
+
+[462.最少移动次数使数组元素相等 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution462.java)
+
+[463.岛屿的周长](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution463.java)
+
+[485.Max Consecutive Ones](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution485.java)
+
+[496.下一个更大元素 I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution496.java)
+
+[500.键盘行](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution500.java)
+
+[540.有序数组中的单一元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution540.java)
+
+[665.非递减数列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution665.java)
+
+[830.Positions of Large Groups](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution830.java)
+
+[922.按奇偶排序数组 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution922.java)
+
+[961.N-Repeated Element in Size 2N Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution961.java)
+
+[989.Add to Array-Form of Integer](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution989.java)
+
+[1046.最后一块石头的重量](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1046.java)
+
+### [LinkedList/链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList)
+[2.两数相加](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution2.java)
+
+[19.删除链表的倒数第N个节点](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution19.java)
+
+[24.两两交换链表中的节点](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution24.java)
+
+[25.K 个一组翻转链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution25.java)
+
+[61.旋转链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution61.java)
+
+[82.删除排序链表中的重复元素 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution82.java)
+
+[92.反转链表 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution92.java)
+
+[147.对链表进行插入排序](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution147.java)
+
+[160.相交链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution160.java)
+
+[203.移除链表元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution203.java)
+
+[206.反转链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution206.java)
+
+[237.删除链表中的节点](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution237.java)
+
+### [字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String)
+[3.无重复字符的最长子串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution3.java)
+
+[6.Z 字形变换](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution6.java)
+
+[14.最长公共前缀](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution14.java)
+
+[58.Length of Last Word](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution58.java)
+
+[151.翻转字符串里的单词](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution151.java)
+
+[205.同构字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution205.java)
+
+[290.单词规律](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution290.java)
+
+[344.反转字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution344.java)
+
+[383.Ransom Note](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution383.java)
+
+[387.字符串中的第一个唯一字符](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution387.java)
+
+[389.找不同](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution389.java)
+
+[451.根据字符出现频率排序](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution451.java)
+
+[482.密钥格式化](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution482.java)
+
+[541.Reverse String II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution541.java)
+
+[551.学生出勤记录 I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution551.java)
+
+[796.旋转字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution796.java)
+
+[844.Backspace String Compare](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution844.java)
+
+[884.两句话中的不常见单词](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution884.java)
+
+[1047.Remove All Adjacent Duplicates In String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1047.java)
+
+### [栈](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack)
+[150.Evaluate Reverse Polish Notation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack/Solution150.java)
+
+[155.最小栈](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack/Solution155.java)
+
+[232.用栈实现队列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack/Solution232.java)
+
+### [树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree)
+[94.二叉树的中序遍历](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution94.java)
+
+[96.不同的二叉搜索树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution96.java)
+
+[98.验证二叉搜索树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution98.java)
+
+[100.相同的树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution100.java)
+
+[101.对称二叉树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution101.java)
+
+[102.Binary Tree Level Order Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution102.java)
+
+[103.二叉树的锯齿形层次遍历](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution103.java)
+
+[104.二叉树的最大深度](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution103.java)
+
+[105.Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution105.java)
+
+[106.Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution106.java)
+
+[107.二叉树的层次遍历 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution107.java)
+
+[108.将有序数组转换为二叉搜索树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution108.java)
+
+[109.有序链表转换二叉搜索树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution109.java)
+
+[110.平衡二叉树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution110.java)
+
+[111.二叉树的最小深度](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution111.java)
+
+[112.路径总和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution112.java)
+
+[113.路径总和 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution113.java)
+
+[114.二叉树展开为链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution114.java)
+
+[116.Populating Next Right Pointers in Each Node](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution116.java)
+
+[124.二叉树中的最大路径和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution124.java)
+
+[129.Sum Root to Leaf Numbers](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution129.java)
+
+[144.二叉树的前序遍历](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution144.java)
+
+[145.二叉树的后序遍历](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution145.java)
+
+[173.Binary Search Tree Iterator](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution173.java)
+
+[199.二叉树的右视图](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution199.java)
+
+[222.完全二叉树的节点个数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution222.java)
+
+[226.翻转二叉树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution226.java)
+
+[230.二叉搜索树中第K小的元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution230.java)
+
+[235.二叉搜索树的最近公共祖先](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution237.java)
+
+[257.二叉树的所有路径](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution257.java)
+
+[404.左叶子之和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution404.java)
+
+[437.路径总和 III](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution437.java)
+
+[501.二叉搜索树中的众数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution501.java)
+
+[513.找树左下角的值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution513.java)
+
+[515.在每个树行中找最大值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution515.java)
+
+[530.二叉搜索树的最小绝对差](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution530.java)
+
+[538.把二叉搜索树转换为累加树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution538.java)
+
+[654.最大二叉树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution654.java)
+
+[655.输出二叉树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution655.java)
+
+[687.最长同值路径](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution687.java)
+
+[700.二叉搜索树中的搜索](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution700.java)
+
+[783.二叉搜索树结点最小距离](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution783.java)
+
+[938.Range Sum of BST](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution938.java)
+
+[965.Univalued Binary Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution965.java)
+
+### [二分查找](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch)
+[278.第一个错误的版本](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution278.java)
+
+[374.Guess Number Higher or Lower](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution374.java)
+
+### [动态规划](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning)
+[35.搜索插入位置](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution35.java)
+
+[62.Unique Paths](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution62.java)
+
+[63.Unique Paths II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution63.java)
+
+[119.杨辉三角 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution119.java)
+
+[121.买卖股票的最佳时机](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution121.java)
+
+[213.打家劫舍 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution213.java)
+
+[221.最大正方形](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution221.java)
+
+[279.完全平方数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution279.java)
+
+[300.最长上升子序列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution300.java)
+
+[303.区域和检索 - 数组不可变](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution303.java)
+
+[309.最佳买卖股票时机含冷冻期](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution309.java)
+
+[338.比特位计数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution338.java)
+
+[357.计算各个位数不同的数字个数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution357.java)
+
+[392.判断子序列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution389.java)
+
+[509.斐波那契数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution509.java)
+
+[714.买卖股票的最佳时机含手续费](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution714.java)
+
+[718.最长重复子数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution718.java)
+
+[746.Min Cost Climbing Stairs](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution746.java)
+
+[838.推多米诺](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution838.java)
+
+### [贪心算法](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy)
+[55.Jump Game](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution55.java)
+
+[134.加油站](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution134.java)
+
+[135.分发糖果](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution135.java)
+
+[322.零钱兑换](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution322.java)
+
+[860.柠檬水找零](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution860.java)
+
+[881.救生艇](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution881.java)
+
+### [回溯算法](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BackTracking)
+[17.电话号码的字母组合](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BackTracking/Solution17.java)
+
+[39.组合总和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BackTracking/Solution39.java)
+
+[40.组合总和 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BackTracking/Solution40.java)
+
+[46.Permutations](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BackTracking/Solution46.java)
+
+[78.子集](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BackTracking/Solution78.java)
+
+[90.子集 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BackTracking/Solution90.java)
+
+[216.组合总和 III](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BackTracking/Solution216.java)
+
+### [分支限界法](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BranchAndBound)
+[77.Combinations](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BranchAndBound/Solution77.java)
+
+### [SQL](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL)
+[175.组合两个表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution175.java)
+
+[182.Duplicate Emails](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution182.java)
+
+[196.删除重复的电子邮箱](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution196.java)
+
+[197.上升的温度](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution197.java)
+
+[595.大的国家](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution595.java)
+
+[627.交换工资](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution627.java)

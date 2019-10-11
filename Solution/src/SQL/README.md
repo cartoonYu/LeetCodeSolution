@@ -1,17 +1,17 @@
+# English | [简体中文](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/README-ZN.md)
+
 # Notice
 This subpackage contains all of the problems I've solved so far with respect to SQL. Here is a list of the problems
 
-这个子包中包含我目前解出的所有关于SQL方面的题目，以下是具体题目列表
-
 ### [SQL](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL)
-[175.Combine Two Tables/组合两个表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution175.java)
+[175.Combine Two Tables](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution175.java)
 
 [182.Duplicate Emails](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution182.java)
 
-[196.Delete Duplicate Emails/删除重复的电子邮箱](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution196.java)
+[196.Delete Duplicate Emails](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution196.java)
 
-[197.Rising Temperature/上升的温度](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution197.java)
+[197.Rising Temperature](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution197.java)
 
-[595.Big Countries/大的国家](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution595.java)
+[595.Big Countries](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution595.java)
 
-[627.Swap Salary/交换工资](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution627.java)
+[627.Swap Salary](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution627.java)
