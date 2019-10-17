@@ -110,6 +110,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [540.Single Element in a Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution540.java)
 
+[561.Array Partition I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution561.java)
+
 [665.Non-decreasing Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution665.java)
 
 [830.Positions of Large Groups](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution830.java)
