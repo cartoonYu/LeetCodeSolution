@@ -61,7 +61,7 @@
 
 [33.搜索旋转排序数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution33.java)
 
-[34.Find First and Last Position of Element in Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution34.java)
+[34.在排序数组中查找元素的第一个和最后一个位置](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution34.java)
 
 [41.缺失的第一个正数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution41.java)
 
@@ -105,7 +105,7 @@
 
 [463.岛屿的周长](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution463.java)
 
-[485.Max Consecutive Ones](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution485.java)
+[485.最大连续1的个数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution485.java)
 
 [496.下一个更大元素 I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution496.java)
 

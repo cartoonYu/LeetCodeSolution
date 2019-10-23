@@ -4,6 +4,7 @@ package Array;
  * Problem
  *      34.Find First and Last Position of Element in Sorted Array
  *      https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+ *      https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
  * Grade of difficulty
  *      Medium
  * Related topics
@@ -16,6 +17,18 @@ package Array;
 public class Solution34 {
 
     /**
+     * 1.关于复杂度
+     *   1.1 时间复杂度为O(log n)
+     *   1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *   2.1 定义两个指针
+     *   2.2 二分查找源数组找出给定target的左边界
+     *   2.3 标记左边界，二分查找左边界到数组末尾找出给定target的右边界
+     * 3.提交记录
+     *   3.1 力扣中耗时1ms,消耗40.8MB内存
+     *   3.2 leetcode中耗时0ms,消耗39.2MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(log n)
      *     1.2 Space Complexity is O(1)
