@@ -16,6 +16,10 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [89.Gray Code](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution89.java)
 
+[172.Factorial Trailing Zeroes](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution172.java)
+
+[191.Number of 1 Bits](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution191.java)
+
 [201.Bitwise AND of Numbers Range](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution201.java)
 
 [202.Happy Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution202.java)

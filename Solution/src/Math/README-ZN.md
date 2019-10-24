@@ -16,6 +16,10 @@
 
 [89.Gray Code](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution89.java)
 
+[172.阶乘后的零](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution172.java)
+
+[191.位1的个数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution191.java)
+
 [201.数字范围按位与](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution201.java)
 
 [202.快乐数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution202.java)
