@@ -86,6 +86,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [268.Missing Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution268.java)
 
+[274.H-Index](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution274.java)
+
 [283.Move Zeroes](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution283.java)
 
 [349.Intersection of Two Arrays](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution349.java)
@@ -367,6 +369,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 ### [SQL](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL)
 [175.Combine Two Tables](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution175.java)
+
+[176.Second Highest Salary](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution176.java)
 
 [182.Duplicate Emails](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution182.java)
 

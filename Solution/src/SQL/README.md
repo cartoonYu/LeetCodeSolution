@@ -6,6 +6,8 @@ This subpackage contains all of the problems I've solved so far with respect to 
 ### [SQL](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL)
 [175.Combine Two Tables](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution175.java)
 
+[176.Second Highest Salary](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution176.java)
+
 [182.Duplicate Emails](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution182.java)
 
 [196.Delete Duplicate Emails](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution196.java)

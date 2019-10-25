@@ -34,6 +34,8 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [268.Missing Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution268.java)
 
+[274.H-Index](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution274.java)
+
 [283.Move Zeroes](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution283.java)
 
 [349.Intersection of Two Arrays](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution349.java)

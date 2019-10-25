@@ -89,6 +89,8 @@
 
 [268.缺失数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution268.java)
 
+[274.H指数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution274.java)
+
 [283.移动零](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution283.java)
 
 [349.两个数组的交集](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution349.java)
@@ -338,7 +340,7 @@
 [838.推多米诺](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution838.java)
 
 ### [贪心算法](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy)
-[55.Jump Game](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution55.java)
+[55.跳跃游戏](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution55.java)
 
 [134.加油站](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution134.java)
 
@@ -370,6 +372,8 @@
 
 ### [SQL](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL)
 [175.组合两个表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution175.java)
+
+[176.第二高的薪水](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution176.java)
 
 [182.Duplicate Emails](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution182.java)
 

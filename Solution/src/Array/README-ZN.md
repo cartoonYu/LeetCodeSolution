@@ -34,6 +34,8 @@
 
 [268.缺失数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution268.java)
 
+[274.H指数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution274.java)
+
 [283.移动零](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution283.java)
 
 [349.两个数组的交集](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution349.java)

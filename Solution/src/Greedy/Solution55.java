@@ -4,6 +4,7 @@ package Greedy;
  * Problem
  *     55.Jump Game
  *     https://leetcode.com/problems/jump-game/
+ *     https://leetcode-cn.com/problems/jump-game/
  * Grade of difficulty
  *     Medium
  * Related topics
@@ -13,6 +14,20 @@ package Greedy;
 public class Solution55 {
 
     /**
+     * 1.关于复杂度
+     *   1.1 时间复杂度为O(n)
+     *   1.2 空间负责度为O(1)
+     * 2.我的解题思路
+     *   2.1 定义一个整数存储起点
+     *   2.2 倒序遍历数组，有两种情况
+     *       2.2.1 当前索引加上索引上的值大于缓存值，这表示在当前索引上有可能到达终点，移动缓存值
+     *       2.2.2 当前索引加上索引上的值小于缓存值，表示无法从当前点到达终点，跳出循环
+     *   2.3 对比2.1定义的整数是否等于0，如果等于0，表示在索引0上有可能到达终点
+     * 3.提交记录
+     *   3.1 力扣中耗时2ms,消耗42.2MB内存
+     *   3.2 leetcode中耗时1ms,消耗37.5MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(1)
