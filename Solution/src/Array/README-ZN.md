@@ -14,6 +14,8 @@
 
 [41.缺失的第一个正数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution41.java)
 
+[42.接雨水](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution42.java)
+
 [48.旋转图像](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution48.java)
 
 [74.搜索二维矩阵](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution74.java)

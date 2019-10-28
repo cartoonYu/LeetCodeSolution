@@ -32,6 +32,8 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [263.Ugly Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution263.java)
 
+[319.Bulb Switcher](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution319.java)
+
 [326.Power of Three](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution326.java)
 
 [342.Power of Four](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution342.java)
@@ -53,3 +55,5 @@ This subpackage contains all of the problems I've solved so far with respect to 
 [1009.Complement of Base 10 Integer](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1009.java)
 
 [1018.Binary Prefix Divisible By 5](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1018.java)
+
+[1232.Check If It Is a Straight Line](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1232.java)

@@ -36,6 +36,8 @@
 
 [263.丑数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution263.java)
 
+[319.灯泡开关](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution319.java)
+
 [326.3的幂](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution326.java)
 
 [342.4的幂](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution342.java)
@@ -58,6 +60,8 @@
 
 [1018.可被 5 整除的二进制前缀](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1018.java)
 
+[1232.缀点成线](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1232.java)
+
 ### [数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array)
 [1.两数之和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1.java)
 
@@ -68,6 +72,8 @@
 [34.在排序数组中查找元素的第一个和最后一个位置](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution34.java)
 
 [41.缺失的第一个正数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution41.java)
+
+[42.接雨水](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution42.java)
 
 [48.旋转图像](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution48.java)
 

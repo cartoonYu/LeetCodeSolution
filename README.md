@@ -33,6 +33,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [263.Ugly Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution263.java)
 
+[319.Bulb Switcher](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution319.java)
+
 [326.Power of Three](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution326.java)
 
 [342.Power of Four](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution342.java)
@@ -55,6 +57,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [1018.Binary Prefix Divisible By 5](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1018.java)
 
+[1232.Check If It Is a Straight Line](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1232.java)
+
 ### [Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array)
 [1.Two Sum](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1.java)
 
@@ -65,6 +69,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [34.Find First and Last Position of Element in Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution34.java)
 
 [41.First Missing Positive](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution41.java)
+
+[42.Trapping Rain Water](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution42.java)
 
 [48.Rotate Image](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution48.java)
 

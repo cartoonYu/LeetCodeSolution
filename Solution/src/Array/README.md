@@ -14,6 +14,8 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [41.First Missing Positive](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution41.java)
 
+[42.Trapping Rain Water](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution42.java)
+
 [48.Rotate Image](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution48.java)
 
 [74.Search a 2D Matrix](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution74.java)

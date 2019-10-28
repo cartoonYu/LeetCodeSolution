@@ -32,6 +32,8 @@
 
 [263.丑数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution263.java)
 
+[319.灯泡开关](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution319.java)
+
 [326.3的幂](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution326.java)
 
 [342.4的幂](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution342.java)
@@ -53,3 +55,5 @@
 [1009.十进制整数的反码](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1009.java)
 
 [1018.可被 5 整除的二进制前缀](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1018.java)
+
+[1232.缀点成线](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1232.java)
