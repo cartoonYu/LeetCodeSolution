@@ -10,6 +10,8 @@
 
 [182.Duplicate Emails](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution182.java)
 
+[184.部门工资最高的员工](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution184.java)
+
 [196.删除重复的电子邮箱](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution196.java)
 
 [197.上升的温度](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution197.java)

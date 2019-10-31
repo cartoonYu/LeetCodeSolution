@@ -24,7 +24,11 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [153.Find Minimum in Rotated Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution153.java)
 
+[154.Find Minimum in Rotated Sorted Array II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution154.java)
+
 [162.Find Peak Element](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution162.java)
+
+[164.Maximum Gap](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution164.java)
 
 [189.Rotate Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution182.java)
 

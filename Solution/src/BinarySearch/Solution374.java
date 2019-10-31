@@ -8,6 +8,7 @@ package BinarySearch;
  *      Easy
  * Related topics
  *      153.Find Minimum in Rotated Sorted Array
+ *      154.Find Minimum in Rotated Sorted Array II
  *      167.Two Sum II - Input array is sorted
  *      367. Valid Perfect Square
  * @author cartoon
@@ -33,7 +34,7 @@ public class Solution374 {
      * @return
      */
     public int guessNumber(int n) {
-        /*int i=1;
+        int i=1;
         int j=n;
         while(i<=j){
             int mid=i+((j-i)>>1);
@@ -47,7 +48,15 @@ public class Solution374 {
                 j=mid-1;
             }
         }
-        return -1;*/
+        return -1;
+    }
+
+    /**
+     * this function is used to imitate source title's function
+     * @param num
+     * @return
+     */
+    private int guess(int num){
         return 0;
     }
 }

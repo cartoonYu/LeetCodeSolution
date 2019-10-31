@@ -10,6 +10,8 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [182.Duplicate Emails](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution182.java)
 
+[184.Department Highest Salary](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution184.java)
+
 [196.Delete Duplicate Emails](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution196.java)
 
 [197.Rising Temperature](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution197.java)

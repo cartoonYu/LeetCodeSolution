@@ -83,7 +83,11 @@
 
 [153.寻找旋转排序数组中的最小值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution153.java)
 
+[154.寻找旋转排序数组中的最小值II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution154.java)
+
 [162.寻找峰值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution162.java)
+
+[164.最大间距](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution164.java)
 
 [189.旋转数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution182.java)
 
@@ -382,6 +386,8 @@
 [176.第二高的薪水](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution176.java)
 
 [182.Duplicate Emails](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution182.java)
+
+[184.部门工资最高的员工](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution184.java)
 
 [196.删除重复的电子邮箱](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution196.java)
 

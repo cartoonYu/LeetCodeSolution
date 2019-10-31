@@ -80,7 +80,11 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [153.Find Minimum in Rotated Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution153.java)
 
+[154.Find Minimum in Rotated Sorted Array II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution154.java)
+
 [162.Find Peak Element](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution162.java)
+
+[164.Maximum Gap](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution164.java)
 
 [189.Rotate Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution182.java)
 
@@ -379,6 +383,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [176.Second Highest Salary](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution176.java)
 
 [182.Duplicate Emails](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution182.java)
+
+[184.Department Highest Salary](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution184.java)
 
 [196.Delete Duplicate Emails](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution196.java)
 
