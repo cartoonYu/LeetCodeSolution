@@ -72,6 +72,8 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [561.Array Partition I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution561.java)
 
+[599.Minimum Index Sum of Two Lists](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution599.java)
+
 [665.Non-decreasing Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution665.java)
 
 [830.Positions of Large Groups](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution830.java)

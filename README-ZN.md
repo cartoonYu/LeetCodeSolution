@@ -56,6 +56,8 @@
 
 [507.完美数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution507.java)
 
+[693.交替位二进制数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution693.java)
+
 [1009.十进制整数的反码](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1009.java)
 
 [1018.可被 5 整除的二进制前缀](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1018.java)
@@ -130,6 +132,8 @@
 [540.有序数组中的单一元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution540.java)
 
 [561.数组拆分 I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution561.java)
+
+[599.两个列表的最小索引总和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution599.java)
 
 [665.非递减数列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution665.java)
 

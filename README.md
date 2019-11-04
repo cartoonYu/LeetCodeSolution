@@ -53,6 +53,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [507.Perfect Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution507.java)
 
+[693.Binary Number with Alternating Bits](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution693.java)
+
 [1009.Complement of Base 10 Integer](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1009.java)
 
 [1018.Binary Prefix Divisible By 5](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1018.java)
@@ -127,6 +129,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [540.Single Element in a Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution540.java)
 
 [561.Array Partition I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution561.java)
+
+[599.Minimum Index Sum of Two Lists](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution599.java)
 
 [665.Non-decreasing Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution665.java)
 

@@ -52,6 +52,8 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [507.Perfect Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution507.java)
 
+[693.Binary Number with Alternating Bits](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution693.java)
+
 [1009.Complement of Base 10 Integer](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1009.java)
 
 [1018.Binary Prefix Divisible By 5](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1018.java)

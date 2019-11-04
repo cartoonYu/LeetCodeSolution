@@ -52,6 +52,8 @@
 
 [507.完美数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution507.java)
 
+[693.交替位二进制数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution693.java)
+
 [1009.十进制整数的反码](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1009.java)
 
 [1018.可被 5 整除的二进制前缀](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution1018.java)
