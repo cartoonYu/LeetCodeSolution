@@ -4,6 +4,7 @@ package Array;
  * Problem
  *     414.Third Maximum Number
  *     https://leetcode.com/problems/third-maximum-number/
+ *     https://leetcode-cn.com/problems/third-maximum-number/
  * Grade of difficulty
  *     Easy
  * Related topics
@@ -13,6 +14,22 @@ package Array;
 public class Solution414 {
 
     /**
+     * 1.关于复杂度
+     *   1.1 时间复杂度为 O(n)
+     *   1.2 空间负责度为 O(1)
+     * 2.我的解题思路
+     *   2.1 定义三个整数缓存三个最大的数
+     *   2.2 循环遍历数组，有4种情况
+     *        2.2.1 max1==nums[i]||max2==nums[i]||max3==nums[i] ，表示当前元素为重复元素，跳过
+     *        2.2.2 nums[i]>max3&&nums[i]>max1 ，轮流对比交换 max1 ，max2 ，max3
+     *        2.2.3 nums[i]>max3&&nums[i]>max2 ，轮流对比交换 max2 ，max3
+     *        2.2.4 nums[i]>max3 ，将当前元素放入 max3 中
+     *   2.3 判断max3的值并返回适当的值
+     * 3.提交记录
+     *   3.1 力扣中耗时2ms,消耗36.9MB内存
+     *   3.2 leetcode中耗时1ms,消耗36.1MB内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(1)

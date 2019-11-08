@@ -136,6 +136,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [830.Positions of Large Groups](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution830.java)
 
+[867.Transpose Matrix](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution867.java)
+
 [922.Sort Array By Parity II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution922.java)
 
 [961.N-Repeated Element in Size 2N Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution961.java)

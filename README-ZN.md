@@ -111,7 +111,7 @@
 
 [380.常数时间插入、删除和获取随机元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution380.java)
 
-[414.Third Maximum Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution414.java)
+[414.第三大的数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution414.java)
 
 [448.找到所有数组中消失的数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution448.java)
 
@@ -138,6 +138,8 @@
 [665.非递减数列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution665.java)
 
 [830.Positions of Large Groups](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution830.java)
+
+[867.转置矩阵](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution867.java)
 
 [922.按奇偶排序数组 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution922.java)
 
