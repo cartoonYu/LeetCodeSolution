@@ -109,7 +109,7 @@
 
 [350.两个数组的交集 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution350.java)
 
-[380.Insert Delete GetRandom O(1)](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution380.java)
+[380.常数时间插入、删除和获取随机元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution380.java)
 
 [414.Third Maximum Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution414.java)
 
