@@ -66,21 +66,13 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [15.3Sum](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution15.java)
 
-[33.Search in Rotated Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution33.java)
-
-[34.Find First and Last Position of Element in Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution34.java)
-
 [41.First Missing Positive](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution41.java)
 
 [42.Trapping Rain Water](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution42.java)
 
 [48.Rotate Image](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution48.java)
 
-[74.Search a 2D Matrix](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution74.java)
-
 [118.Pascal's Triangle](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution118.java)
-
-[153.Find Minimum in Rotated Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution153.java)
 
 [154.Find Minimum in Rotated Sorted Array II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution154.java)
 
@@ -309,9 +301,19 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [965.Univalued Binary Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution965.java)
 
 ### [BinarySearch](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch)
+[33.Search in Rotated Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution33.java)
+
+[34.Find First and Last Position of Element in Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution34.java)
+
+[74.Search a 2D Matrix](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution74.java)
+
+[153.Find Minimum in Rotated Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution153.java)
+
 [278.First Bad Version](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution278.java)
 
 [374.Guess Number Higher or Lower](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution374.java)
+
+[744.Find Smallest Letter Greater Than Target](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution744.java)
 
 ### [DynamicPlanning](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning)
 [35.Search Insert Position](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution35.java)

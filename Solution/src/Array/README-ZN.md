@@ -8,21 +8,13 @@
 
 [15.三数之和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution15.java)
 
-[33.搜索旋转排序数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution33.java)
-
-[34.在排序数组中查找元素的第一个和最后一个位置](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution34.java)
-
 [41.缺失的第一个正数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution41.java)
 
 [42.接雨水](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution42.java)
 
 [48.旋转图像](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution48.java)
 
-[74.搜索二维矩阵](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution74.java)
-
 [118.杨辉三角](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution118.java)
-
-[153.寻找旋转排序数组中的最小值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution153.java)
 
 [154.寻找旋转排序数组中的最小值II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution154.java)
 

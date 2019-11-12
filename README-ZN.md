@@ -69,21 +69,13 @@
 
 [15.三数之和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution15.java)
 
-[33.搜索旋转排序数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution33.java)
-
-[34.在排序数组中查找元素的第一个和最后一个位置](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution34.java)
-
 [41.缺失的第一个正数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution41.java)
 
 [42.接雨水](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution42.java)
 
 [48.旋转图像](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution48.java)
 
-[74.搜索二维矩阵](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution74.java)
-
 [118.杨辉三角](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution118.java)
-
-[153.寻找旋转排序数组中的最小值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution153.java)
 
 [154.寻找旋转排序数组中的最小值II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution154.java)
 
@@ -312,9 +304,19 @@
 [965.Univalued Binary Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Tree/Solution965.java)
 
 ### [二分查找](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch)
+[33.搜索旋转排序数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution33.java)
+
+[34.在排序数组中查找元素的第一个和最后一个位置](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution34.java)
+
+[74.搜索二维矩阵](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution74.java)
+
+[153.寻找旋转排序数组中的最小值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution153.java)
+
 [278.第一个错误的版本](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution278.java)
 
 [374.Guess Number Higher or Lower](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution374.java)
+
+[744.寻找比目标字母大的最小字母](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution744.java)
 
 ### [动态规划](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning)
 [35.搜索插入位置](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution35.java)

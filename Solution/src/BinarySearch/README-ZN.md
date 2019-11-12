@@ -4,6 +4,16 @@
 这个子包中包含我目前解出的所有关于二分查找方面的题目，以下是具体题目列表
 
 ### [二分查找](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch)
+[33.搜索旋转排序数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution33.java)
+
+[34.在排序数组中查找元素的第一个和最后一个位置](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution34.java)
+
+[74.搜索二维矩阵](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution74.java)
+
+[153.寻找旋转排序数组中的最小值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution153.java)
+
 [278.第一个错误的版本](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution278.java)
 
 [374.Guess Number Higher or Lower](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution374.java)
+
+[744.寻找比目标字母大的最小字母](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution744.java)
