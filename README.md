@@ -126,6 +126,8 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [665.Non-decreasing Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution665.java)
 
+[724.Find Pivot Index](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution724.java)
+
 [830.Positions of Large Groups](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution830.java)
 
 [867.Transpose Matrix](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution867.java)
