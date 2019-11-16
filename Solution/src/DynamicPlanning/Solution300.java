@@ -29,8 +29,8 @@ public class Solution300 {
      * 4.Q&A
      *
      * 1.About Complexity
-     *     1.1 Time Complexity is O(n)
-     *     1.2 Space Complexity is O(n log n)
+     *     1.1 Time Complexity is O(n log n)
+     *     1.2 Space Complexity is O(n)
      * 2.how I solve
      *     2.1 define a integer to cache max sequence length and a array to cache maximum sequence
      *     2.2 circulate array from head to tail

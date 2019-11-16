@@ -74,10 +74,6 @@ This repository is include my LeetCode's problem solution,although some aren't p
 
 [118.Pascal's Triangle](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution118.java)
 
-[154.Find Minimum in Rotated Sorted Array II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution154.java)
-
-[162.Find Peak Element](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution162.java)
-
 [164.Maximum Gap](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution164.java)
 
 [189.Rotate Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution182.java)
@@ -310,6 +306,10 @@ This repository is include my LeetCode's problem solution,although some aren't p
 [74.Search a 2D Matrix](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution74.java)
 
 [153.Find Minimum in Rotated Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution153.java)
+
+[154.Find Minimum in Rotated Sorted Array II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution154.java)
+
+[162.Find Peak Element](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution162.java)
 
 [278.First Bad Version](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution278.java)
 

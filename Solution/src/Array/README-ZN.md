@@ -16,10 +16,6 @@
 
 [118.杨辉三角](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution118.java)
 
-[154.寻找旋转排序数组中的最小值II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution154.java)
-
-[162.寻找峰值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution162.java)
-
 [164.最大间距](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution164.java)
 
 [189.旋转数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution182.java)
