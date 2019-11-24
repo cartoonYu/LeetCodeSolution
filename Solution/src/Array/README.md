@@ -56,8 +56,6 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [500.Keyboard Row](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution500.java)
 
-[540.Single Element in a Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution540.java)
-
 [561.Array Partition I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution561.java)
 
 [599.Minimum Index Sum of Two Lists](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution599.java)

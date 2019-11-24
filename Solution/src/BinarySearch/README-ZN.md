@@ -20,4 +20,6 @@
 
 [374.Guess Number Higher or Lower](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution374.java)
 
+[540.有序数组中的单一元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution540.java)
+
 [744.寻找比目标字母大的最小字母](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution744.java)

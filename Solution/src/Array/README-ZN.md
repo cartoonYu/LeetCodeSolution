@@ -56,8 +56,6 @@
 
 [500.键盘行](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution500.java)
 
-[540.有序数组中的单一元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution540.java)
-
 [561.数组拆分 I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution561.java)
 
 [599.两个列表的最小索引总和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution599.java)

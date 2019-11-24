@@ -20,4 +20,6 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [374.Guess Number Higher or Lower](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution374.java)
 
+[540.Single Element in a Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution540.java)
+
 [744.Find Smallest Letter Greater Than Target](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution744.java)
