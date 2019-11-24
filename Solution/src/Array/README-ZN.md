@@ -60,6 +60,8 @@
 
 [599.两个列表的最小索引总和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution599.java)
 
+[628.三个数的最大乘积](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution628.java)
+
 [665.非递减数列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution665.java)
 
 [724.寻找数组的中心索引](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution724.java)

@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * Problem
- *     problem's topic and description
+ *     628.Maximum Product of Three Numbers
  *     https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/
  *     https://leetcode-cn.com/problems/maximum-product-of-three-numbers/submissions/
  * Grade of difficulty

@@ -60,6 +60,8 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [599.Minimum Index Sum of Two Lists](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution599.java)
 
+[628.Maximum Product of Three Numbers](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution628.java)
+
 [665.Non-decreasing Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution665.java)
 
 [724.Find Pivot Index](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution724.java)
