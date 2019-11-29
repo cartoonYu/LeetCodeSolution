@@ -134,6 +134,8 @@
 
 [830.Positions of Large Groups](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution830.java)
 
+[832.翻转图像](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution832.java)
+
 [867.转置矩阵](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution867.java)
 
 [922.按奇偶排序数组 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution922.java)

@@ -68,6 +68,8 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [830.Positions of Large Groups](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution830.java)
 
+[832.Flipping an Image](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution832.java)
+
 [867.Transpose Matrix](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution867.java)
 
 [922.Sort Array By Parity II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution922.java)
