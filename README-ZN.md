@@ -140,7 +140,7 @@
 
 [922.按奇偶排序数组 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution922.java)
 
-[961.N-Repeated Element in Size 2N Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution961.java)
+[961.重复 N 次的元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution961.java)
 
 [989.Add to Array-Form of Integer](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution989.java)
 
