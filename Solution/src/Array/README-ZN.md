@@ -62,6 +62,8 @@
 
 [628.三个数的最大乘积](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution628.java)
 
+[643.子数组最大平均数 I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution643.java)
+
 [665.非递减数列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution665.java)
 
 [724.寻找数组的中心索引](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution724.java)

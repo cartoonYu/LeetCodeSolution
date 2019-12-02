@@ -62,6 +62,8 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [628.Maximum Product of Three Numbers](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution628.java)
 
+[643.Maximum Average Subarray I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution643.java)
+
 [665.Non-decreasing Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution665.java)
 
 [724.Find Pivot Index](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution724.java)
