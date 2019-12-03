@@ -6,7 +6,7 @@
 ### [动态规划](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning)
 [35.搜索插入位置](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution35.java)
 
-[62.Unique Paths](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution62.java)
+[62.不同路径](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution62.java)
 
 [63.Unique Paths II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution63.java)
 
