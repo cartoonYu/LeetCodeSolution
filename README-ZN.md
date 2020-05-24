@@ -148,6 +148,8 @@
 
 [1046.最后一块石头的重量](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1046.java)
 
+[1365.有多少小于当前数字的数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1365.java)
+
 ### [LinkedList/链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList)
 [2.两数相加](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution2.java)
 

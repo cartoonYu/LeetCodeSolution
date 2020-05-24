@@ -81,3 +81,5 @@
 [989.Add to Array-Form of Integer](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution989.java)
 
 [1046.最后一块石头的重量](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1046.java)
+
+[1365.有多少小于当前数字的数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1365.java)

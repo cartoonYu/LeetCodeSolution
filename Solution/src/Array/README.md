@@ -81,3 +81,5 @@ This subpackage contains all of the problems I've solved so far with respect to 
 [989.Add to Array-Form of Integer](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution989.java)
 
 [1046.Last Stone Weight](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1046.java)
+
+[1365.How Many Numbers Are Smaller Than the Current Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1365.java)

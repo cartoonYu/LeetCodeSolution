@@ -145,6 +145,9 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [1046.Last Stone Weight](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1046.java)
 
+[1365.How Many Numbers Are Smaller Than the Current Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1365.java)
+
+
 ### [LinkedList](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList)
 [2.Add Two Numbers](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution2.java)
 
