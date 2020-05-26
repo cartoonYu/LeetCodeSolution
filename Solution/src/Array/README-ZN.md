@@ -85,3 +85,5 @@
 [1342.将数字变成 0 的操作次数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1342.java)
 
 [1365.有多少小于当前数字的数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1365.java)
+
+[1413.逐步求和得到正数的最小值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1413.java)
