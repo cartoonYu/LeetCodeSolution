@@ -87,3 +87,5 @@
 [1365.有多少小于当前数字的数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1365.java)
 
 [1413.逐步求和得到正数的最小值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1413.java)
+
+[1431.拥有最多糖果的孩子](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1431.java)

@@ -87,3 +87,5 @@ This subpackage contains all of the problems I've solved so far with respect to 
 [1365.How Many Numbers Are Smaller Than the Current Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1365.java)
 
 [1413.Minimum Value to Get Positive Step by Step Sum](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1413.java)
+
+[1431.Kids With the Greatest Number of Candies](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1431.java)
