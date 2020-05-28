@@ -45,3 +45,6 @@ This subpackage contains all of the problems I've solved so far with respect to 
 [884.Uncommon Words from Two Sentences](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution884.java)
 
 [1047.Remove All Adjacent Duplicates In String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1047.java)
+
+[1108.Defanging an IP Address](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1108.java)
+

@@ -7,6 +7,7 @@ import java.util.List;
  * Problem
  *      989.Add to Array-Form of Integer
  *      https://leetcode.com/problems/add-to-array-form-of-integer/
+ *      https://leetcode-cn.com/problems/add-to-array-form-of-integer/
  * Grade of difficulty
  *      Easy
  * Related topics
@@ -16,6 +17,19 @@ import java.util.List;
 public class Solution989 {
 
     /**
+     * 1.关于复杂度
+     *   1.1 时间复杂度为 O(n)
+     *   1.2 空间负责度为 O(n)
+     * 2.我的解题思路
+     *   2.1 将k转换成数组
+     *   2.2 定义结果数组，长度为两个数组长度较大值加1
+     *   2.3 循环两个原始数组相加他们的值
+     *   2.4 翻转结果数组转换成 list 返回
+     * 3.提交记录
+     *   3.1 力扣中耗时 13ms,消耗 53MB 内存
+     *   3.2 leetcode 中耗时 4ms,消耗 40.7MB 内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(n)

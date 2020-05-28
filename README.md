@@ -224,6 +224,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [1047.Remove All Adjacent Duplicates In String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1047.java)
 
+[1108.Defanging an IP Address](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1108.java)
+
 ### [Stack](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack)
 [150.Evaluate Reverse Polish Notation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack/Solution150.java)
 

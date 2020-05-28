@@ -68,7 +68,7 @@
 
 [724.寻找数组的中心索引](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution724.java)
 
-[830.Positions of Large Groups](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution830.java)
+[830.较大分组的位置](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution830.java)
 
 [832.翻转图像](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution832.java)
 
@@ -78,7 +78,7 @@
 
 [961.重复 N 次的元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution961.java)
 
-[989.Add to Array-Form of Integer](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution989.java)
+[989.数组形式的整数加法](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution989.java)
 
 [1046.最后一块石头的重量](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1046.java)
 

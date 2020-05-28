@@ -8,6 +8,7 @@ import java.util.List;
  * Problem
  *     830.Positions of Large Groups
  *     https://leetcode.com/problems/positions-of-large-groups/
+ *     https://leetcode-cn.com/problems/positions-of-large-groups/
  * Grade of difficulty
  *     Easy
  * Related topics
@@ -17,6 +18,18 @@ import java.util.List;
 public class Solution830 {
 
     /**
+     * 1.关于复杂度
+     *   1.1 时间复杂度为 O(n)
+     *   1.2 空间负责度为 O(1)
+     * 2.我的解题思路
+     *   2.1 循环计算较大分组的位置
+     *   2.2 对比当前元素以及后两个元素
+     *       2.2.1 如果三个元素相等，记录他们的起始与终止位置
+     * 3.提交记录
+     *   3.1 力扣中耗时 3ms,消耗 37.8MB 内存
+     *   3.2 leetcode 中耗时 1ms,消耗 36.4MB 内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(1)
@@ -50,6 +63,21 @@ public class Solution830 {
     }
 
     /**
+     * 1.关于复杂度
+     *   1.1 时间复杂度为 O(n)
+     *   1.2 空间负责度为 O(1)
+     * 2.我的解题思路
+     *   2.1 循环对比元素
+     *   2.2 设置字符串首元素到 lastChar 临时变量
+     *   2.3 循环遍历字符串
+     *       2.3.1 当前元素等于 lastChar，endIndex++
+     *       2.3.2 当前元素不等于 lastChar，计算较大组并且重置 lastChar
+     *   2.4 对比 startIndex 以及 endIndex，计算最后一个分段的较大组
+     * 3.提交记录
+     *   3.1 力扣中耗时 5ms,消耗 39MB 内存
+     *   3.2 leetcode 中耗时 1ms,消耗 36.2MB 内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(1)
