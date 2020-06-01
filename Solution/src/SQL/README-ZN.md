@@ -8,7 +8,7 @@
 
 [176.第二高的薪水](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution176.java)
 
-[182.Duplicate Emails](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution182.java)
+[182.查找重复的电子邮箱](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution182.java)
 
 [184.部门工资最高的员工](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution184.java)
 

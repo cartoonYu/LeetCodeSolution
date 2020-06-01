@@ -4,6 +4,7 @@ package SQL;
  * Problem
  *      182. Duplicate Emails
  *      https://leetcode.com/problems/duplicate-emails/
+ *      https://leetcode-cn.com/problems/duplicate-emails/
  * Grade of difficulty
  *      Easy
  * Related topics

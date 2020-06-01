@@ -18,7 +18,7 @@
 
 [278.第一个错误的版本](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution278.java)
 
-[374.Guess Number Higher or Lower](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution374.java)
+[374.猜数字大小](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution374.java)
 
 [540.有序数组中的单一元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution540.java)
 

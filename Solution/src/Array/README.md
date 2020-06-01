@@ -82,6 +82,8 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [1046.Last Stone Weight](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1046.java)
 
+[1207.Unique Number of Occurrences](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1207.java)
+
 [1342.Number of Steps to Reduce a Number to Zero](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1342.java)
 
 [1351.Count Negative Numbers in a Sorted Matrix](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1351.java)

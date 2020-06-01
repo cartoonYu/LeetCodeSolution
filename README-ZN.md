@@ -148,6 +148,8 @@
 
 [1046.最后一块石头的重量](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1046.java)
 
+[1207.独一无二的出现次数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1207.java)
+
 [1342.将数字变成 0 的操作次数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1342.java)
 
 [1351.统计有序矩阵中的负数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1351.java)
@@ -339,7 +341,7 @@
 
 [278.第一个错误的版本](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution278.java)
 
-[374.Guess Number Higher or Lower](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution374.java)
+[374.猜数字大小](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution374.java)
 
 [744.寻找比目标字母大的最小字母](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BinarySearch/Solution744.java)
 
@@ -418,7 +420,7 @@
 
 [176.第二高的薪水](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution176.java)
 
-[182.Duplicate Emails](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution182.java)
+[182.查找重复的电子邮箱](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution182.java)
 
 [184.部门工资最高的员工](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution184.java)
 
