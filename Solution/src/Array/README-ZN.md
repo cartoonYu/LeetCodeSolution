@@ -84,6 +84,8 @@
 
 [1207.独一无二的出现次数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1207.java)
 
+[1299.将每个元素替换为右侧最大元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1299.java)
+
 [1342.将数字变成 0 的操作次数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1342.java)
 
 [1351.统计有序矩阵中的负数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1351.java)
