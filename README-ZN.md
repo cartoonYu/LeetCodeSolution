@@ -150,6 +150,8 @@
 
 [1207.独一无二的出现次数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1207.java)
 
+[1299.将每个元素替换为右侧最大元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1299.java)
+
 [1342.将数字变成 0 的操作次数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1342.java)
 
 [1351.统计有序矩阵中的负数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1351.java)
@@ -235,6 +237,8 @@
 [1047.Remove All Adjacent Duplicates In String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1047.java)
 
 [1108.IP 地址无效化](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1108.java)
+
+[1189.“气球” 的最大数量](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1189.java)
 
 ### [栈](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack)
 [150.Evaluate Reverse Polish Notation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack/Solution150.java)

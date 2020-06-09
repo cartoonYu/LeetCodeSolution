@@ -147,6 +147,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [1207.Unique Number of Occurrences](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1207.java)
 
+[1299. Replace Elements with Greatest Element on Right Side](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1299.java)
+
 [1342.Number of Steps to Reduce a Number to Zero](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1342.java)
 
 [1351.Count Negative Numbers in a Sorted Matrix](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1351.java)
@@ -233,6 +235,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 [1047.Remove All Adjacent Duplicates In String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1047.java)
 
 [1108.Defanging an IP Address](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1108.java)
+
+[1189.Maximum Number of Balloons](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1189.java)
 
 ### [Stack](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack)
 [150.Evaluate Reverse Polish Notation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack/Solution150.java)
