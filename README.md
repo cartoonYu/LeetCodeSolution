@@ -157,6 +157,12 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [1431.Kids With the Greatest Number of Candies](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1431.java)
 
+[1450.Number of Students Doing Homework at a Given Time](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1450.java)
+
+[1460.Make Two Arrays Equal by Reversing Sub-arrays](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1460.java)
+
+[1464.Maximum Product of Two Elements in an Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1464.java)
+
 
 ### [LinkedList](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList)
 [2.Add Two Numbers](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution2.java)

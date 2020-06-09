@@ -10,7 +10,7 @@
 
 [14.最长公共前缀](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution14.java)
 
-[58.Length of Last Word](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution58.java)
+[58.最后一个单词的长度](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution58.java)
 
 [151.翻转字符串里的单词](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution151.java)
 

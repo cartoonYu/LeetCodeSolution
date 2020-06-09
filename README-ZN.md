@@ -160,6 +160,12 @@
 
 [1431.拥有最多糖果的孩子](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1431.java)
 
+[1450.在既定时间做作业的学生人数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1450.java)
+
+[1460.通过翻转子数组使两个数组相等](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1460.java)
+
+[1464.数组中两元素的最大乘积](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1464.java)
+
 ### [LinkedList/链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList)
 [2.两数相加](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution2.java)
 
@@ -192,7 +198,7 @@
 
 [14.最长公共前缀](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution14.java)
 
-[58.Length of Last Word](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution58.java)
+[58.最后一个单词的长度](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution58.java)
 
 [151.翻转字符串里的单词](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution151.java)
 

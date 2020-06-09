@@ -93,3 +93,9 @@
 [1413.逐步求和得到正数的最小值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1413.java)
 
 [1431.拥有最多糖果的孩子](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1431.java)
+
+[1450.在既定时间做作业的学生人数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1450.java)
+
+[1460.通过翻转子数组使两个数组相等](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1460.java)
+
+[1464.数组中两元素的最大乘积](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1464.java)
