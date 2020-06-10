@@ -155,6 +155,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [1365.How Many Numbers Are Smaller Than the Current Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1365.java)
 
+[1394.Find Lucky Integer in an Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1394.java)
+
 [1413.Minimum Value to Get Positive Step by Step Sum](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1413.java)
 
 [1431.Kids With the Greatest Number of Candies](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1431.java)
@@ -164,6 +166,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 [1460.Make Two Arrays Equal by Reversing Sub-arrays](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1460.java)
 
 [1464.Maximum Product of Two Elements in an Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1464.java)
+
+[1470.Shuffle the Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1470.java)
 
 
 ### [LinkedList](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList)
@@ -439,3 +443,6 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 [595.Big Countries](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution595.java)
 
 [627.Swap Salary](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/SQL/Solution627.java)
+
+### [Design](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Design)
+[1357.Apply Discount Every n Orders](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Design/Solution1357.java)

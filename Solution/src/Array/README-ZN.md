@@ -92,6 +92,8 @@
 
 [1365.有多少小于当前数字的数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1365.java)
 
+[1394.找出数组中的幸运数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1394.java)
+
 [1413.逐步求和得到正数的最小值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1413.java)
 
 [1431.拥有最多糖果的孩子](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1431.java)
@@ -101,3 +103,5 @@
 [1460.通过翻转子数组使两个数组相等](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1460.java)
 
 [1464.数组中两元素的最大乘积](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1464.java)
+
+[1470.重新排列数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1470.java)
