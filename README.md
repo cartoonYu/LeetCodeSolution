@@ -169,6 +169,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [1470.Shuffle the Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1470.java)
 
+[1480.Running Sum of 1d Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1480.java)
+
 
 ### [LinkedList](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList)
 [2.Add Two Numbers](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution2.java)
@@ -395,6 +397,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 [746.Min Cost Climbing Stairs](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution746.java)
 
 [838.Push Dominoes](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution838.java)
+
+[1025.Divisor Game](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution1025.java)
 
 ### [Greedy](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy)
 [55.Jump Game](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution55.java)

@@ -41,3 +41,5 @@ This subpackage contains all of the problems I've solved so far with respect to 
 [746.Min Cost Climbing Stairs](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution746.java)
 
 [838.Push Dominoes](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution838.java)
+
+[1025.Divisor Game](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution1025.java)

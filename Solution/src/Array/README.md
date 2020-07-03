@@ -105,3 +105,5 @@ This subpackage contains all of the problems I've solved so far with respect to 
 [1464.Maximum Product of Two Elements in an Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1464.java)
 
 [1470.Shuffle the Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1470.java)
+
+[1480.Running Sum of 1d Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1480.java)

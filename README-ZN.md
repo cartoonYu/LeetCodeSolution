@@ -172,6 +172,8 @@
 
 [1470.重新排列数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1470.java)
 
+[1480.一维数组的动态和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1480.java)
+
 ### [LinkedList/链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList)
 [2.两数相加](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution2.java)
 
@@ -397,6 +399,8 @@
 [746.使用最小花费爬楼梯](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution746.java)
 
 [838.推多米诺](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution838.java)
+
+[1025.除数博弈](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution1025.java)
 
 ### [贪心算法](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy)
 [55.跳跃游戏](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution55.java)

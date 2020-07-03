@@ -105,3 +105,5 @@
 [1464.数组中两元素的最大乘积](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1464.java)
 
 [1470.重新排列数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1470.java)
+
+[1480.一维数组的动态和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1480.java)

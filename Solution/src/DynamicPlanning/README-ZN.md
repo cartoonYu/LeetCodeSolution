@@ -41,3 +41,5 @@
 [746.使用最小花费爬楼梯](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution746.java)
 
 [838.推多米诺](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution838.java)
+
+[1025.除数博弈](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/DynamicPlanning/Solution1025.java)
