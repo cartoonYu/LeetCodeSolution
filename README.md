@@ -173,6 +173,7 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [1480.Running Sum of 1d Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1480.java)
 
+[1491.Average Salary Excluding the Minimum and Maximum Salary](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1491.java)
 
 ### [LinkedList](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList)
 [2.Add Two Numbers](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution2.java)
