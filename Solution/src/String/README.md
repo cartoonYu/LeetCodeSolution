@@ -49,3 +49,5 @@ This subpackage contains all of the problems I've solved so far with respect to 
 [1108.Defanging an IP Address](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1108.java)
 
 [1189.Maximum Number of Balloons](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1189.java)
+
+[1496.Path Crossing](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1496.java)

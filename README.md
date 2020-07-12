@@ -247,6 +247,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [1189.Maximum Number of Balloons](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1189.java)
 
+[1496.Path Crossing](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1496.java)
+
 ### [Stack](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack)
 [150.Evaluate Reverse Polish Notation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack/Solution150.java)
 
