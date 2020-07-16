@@ -82,6 +82,8 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [1046.Last Stone Weight](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1046.java)
 
+[1200.Minimum Absolute Difference](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1200.java)
+
 [1207.Unique Number of Occurrences](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1207.java)
 
 [1299. Replace Elements with Greatest Element on Right Side](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1299.java)

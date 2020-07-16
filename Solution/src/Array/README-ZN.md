@@ -82,6 +82,8 @@
 
 [1046.最后一块石头的重量](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1046.java)
 
+[1200.最小绝对差](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1200.java)
+
 [1207.独一无二的出现次数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1207.java)
 
 [1299.将每个元素替换为右侧最大元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1299.java)
