@@ -15,3 +15,7 @@ This subpackage contains all of the problems I've solved so far with respect to 
 [860.Lemonade Change](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution860.java)
 
 [881.Boats to Save People](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution881.java)
+
+[1221.Split a String in Balanced Strings](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution1221.java)
+
+[1518.Water Bottles](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution1518.java)

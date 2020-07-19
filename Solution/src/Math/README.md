@@ -46,6 +46,8 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [412.Fizz Buzz](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution412.java)
 
+[423.Reconstruct Original Digits from English](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution423.java)
+
 [476.Number Complement](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution476.java)
 
 [504.Base 7](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution504.java)

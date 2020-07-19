@@ -55,6 +55,8 @@
 
 [412.Fizz Buzz](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution412.java)
 
+[423.从英文中重建数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution423.java)
+
 [476.数字的补数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution476.java)
 
 [504.七进制数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution504.java)
@@ -105,6 +107,8 @@
 [380.常数时间插入、删除和获取随机元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution380.java)
 
 [414.第三大的数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution414.java)
+
+[442.数组中重复的数据](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution442.java)
 
 [448.找到所有数组中消失的数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution448.java)
 
@@ -178,7 +182,9 @@
 
 [1480.一维数组的动态和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1480.java)
 
-[1491.去掉最低工资和最高工资后的工资平均值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1491.java)
+[1491.好数对的数目](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1491.java)
+
+[1512.Number of Good Pairs](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1512.java)
 
 ### [LinkedList/链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList)
 [2.两数相加](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution2.java)
@@ -422,6 +428,10 @@
 [860.柠檬水找零](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution860.java)
 
 [881.救生艇](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution881.java)
+
+[1221.分割平衡字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution1221.java)
+
+[1518.换酒问题](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution1518.java)
 
 ### [回溯算法](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BackTracking)
 [17.电话号码的字母组合](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BackTracking/Solution17.java)

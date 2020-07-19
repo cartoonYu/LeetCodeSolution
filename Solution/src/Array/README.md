@@ -38,6 +38,8 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [380.Insert Delete GetRandom O(1)](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution380.java)
 
+[442.Find All Duplicates in an Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution442.java)
+
 [414.Third Maximum Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution414.java)
 
 [448.Find All Numbers Disappeared in an Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution448.java)
@@ -113,3 +115,5 @@ This subpackage contains all of the problems I've solved so far with respect to 
 [1480.Running Sum of 1d Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1480.java)
 
 [1491.Average Salary Excluding the Minimum and Maximum Salary](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1491.java)
+
+[1512.Number of Good Pairs](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1512.java)

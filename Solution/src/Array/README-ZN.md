@@ -40,6 +40,8 @@
 
 [414.第三大的数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution414.java)
 
+[442.数组中重复的数据](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution442.java)
+
 [448.找到所有数组中消失的数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution448.java)
 
 [453.最小移动次数使数组元素相等](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution453.java)
@@ -113,3 +115,5 @@
 [1480.一维数组的动态和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1480.java)
 
 [1491.去掉最低工资和最高工资后的工资平均值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1491.java)
+
+[1512.好数对的数目](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1512.java)

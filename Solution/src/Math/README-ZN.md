@@ -46,6 +46,8 @@
 
 [412.Fizz Buzz](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution412.java)
 
+[423.从英文中重建数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution423.java)
+
 [476.数字的补数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution476.java)
 
 [504.七进制数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution504.java)

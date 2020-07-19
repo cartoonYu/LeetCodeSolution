@@ -15,3 +15,7 @@
 [860.柠檬水找零](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution860.java)
 
 [881.救生艇](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution881.java)
+
+[1221.分割平衡字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution1221.java)
+
+[1518.换酒问题](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution1518.java)

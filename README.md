@@ -103,6 +103,10 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [414.Third Maximum Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution414.java)
 
+[423.Reconstruct Original Digits from English](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Math/Solution423.java)
+
+[442.Find All Duplicates in an Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution442.java)
+
 [448.Find All Numbers Disappeared in an Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution448.java)
 
 [453.Minimum Moves to Equal Array Elements](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution453.java)
@@ -176,6 +180,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 [1480.Running Sum of 1d Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1480.java)
 
 [1491.Average Salary Excluding the Minimum and Maximum Salary](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1491.java)
+
+[1512.Number of Good Pairs](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Array/Solution1512.java)
 
 ### [LinkedList](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList)
 [2.Add Two Numbers](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/LinkedList/Solution2.java)
@@ -419,6 +425,10 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 [860.Lemonade Change](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution860.java)
 
 [881.Boats to Save People](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution881.java)
+
+[1221.Split a String in Balanced Strings](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution1221.java)
+
+[1518.Water Bottles](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Greedy/Solution1518.java)
 
 ### [BackTracking](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BackTracking)
 [17.Letter Combinations of a Phone Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/BackTracking/Solution17.java)
