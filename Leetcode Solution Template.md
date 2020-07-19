@@ -1,10 +1,3 @@
-java solution with ms and MB memory
-```
-
-```
-If you have any idea or question,you can make a issue on [my github repositories](https://github.com/cartoonYu/LeetCodeSolution),I will deal it quickly.
-If you appreciate my solution,you can also star [my github repositories](https://github.com/cartoonYu/LeetCodeSolution) to get another problem's solution
-
 ```
 
 ```

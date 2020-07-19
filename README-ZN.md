@@ -258,6 +258,8 @@
 
 [1189.“气球” 的最大数量](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1189.java)
 
+[1422.分割字符串的最大得分](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1422.java)
+
 [1496.判断路径是否相交](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1496.java)
 
 ### [栈](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack)
