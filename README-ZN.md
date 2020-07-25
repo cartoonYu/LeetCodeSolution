@@ -242,7 +242,7 @@
 
 [541.Reverse String II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution541.java)
 
-### [551.学生出勤记录 I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution551.java)
+[551.学生出勤记录 I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution551.java)
 
 [657.机器人能否返回原点](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution657.java)
 
@@ -261,6 +261,8 @@
 [1422.分割字符串的最大得分](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1422.java)
 
 [1496.判断路径是否相交](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1496.java)
+
+[1507.转变日期格式](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1507.java)
 
 ### [栈](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack)
 [150.Evaluate Reverse Polish Notation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack/Solution150.java)
