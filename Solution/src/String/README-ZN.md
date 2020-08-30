@@ -53,3 +53,5 @@
 [1496.判断路径是否相交](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1496.java)
 
 [1507.转变日期格式](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1507.java)
+
+[1528.重新排列字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1528.java)

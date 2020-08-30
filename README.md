@@ -261,6 +261,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [1507.Reformat Date](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1507.java)
 
+[1528. Shuffle String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1528.java)
+
 ### [Stack](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack)
 [150.Evaluate Reverse Polish Notation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack/Solution150.java)
 
