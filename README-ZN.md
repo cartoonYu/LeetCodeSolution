@@ -266,6 +266,8 @@
 
 [1528.重新排列字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1528.java)
 
+[1592. 重新排列单词间的空格](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1592.java)
+
 ### [栈](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack)
 [150.Evaluate Reverse Polish Notation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack/Solution150.java)
 

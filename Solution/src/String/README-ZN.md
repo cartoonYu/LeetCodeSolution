@@ -55,3 +55,5 @@
 [1507.转变日期格式](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1507.java)
 
 [1528.重新排列字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1528.java)
+
+[1592. 重新排列单词间的空格](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1592.java)

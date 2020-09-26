@@ -57,3 +57,5 @@ This subpackage contains all of the problems I've solved so far with respect to 
 [1507.Reformat Date](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1507.java)
 
 [1528. Shuffle String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1528.java)
+
+[1592. Rearrange Spaces Between Words](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1592.java)

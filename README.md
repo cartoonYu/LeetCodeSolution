@@ -263,6 +263,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [1528. Shuffle String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1528.java)
 
+[1592. Rearrange Spaces Between Words](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/String/Solution1592.java)
+
 ### [Stack](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack)
 [150.Evaluate Reverse Polish Notation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Stack/Solution150.java)
 
