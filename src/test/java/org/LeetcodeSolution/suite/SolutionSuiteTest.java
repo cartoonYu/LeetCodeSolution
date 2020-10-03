@@ -1,6 +1,5 @@
-package org.LeetcodeSolution;
+package org.LeetcodeSolution.suite;
 
-import org.LeetcodeSolution.Array.ArraySuiteTest;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
