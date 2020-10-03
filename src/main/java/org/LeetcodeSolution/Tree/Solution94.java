@@ -51,7 +51,7 @@ public class Solution94 {
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(n)
      * 2.how I solve
-     *     2.1 this solution is similar with <a href="https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution144.java">Tree.Solution144</> and <a href="https://github.com/cartoonYu/LeetCodeSolution/blob/master/Solution/src/Solution144.java">Tree.Solution145</>
+     *     2.1 this solution is similar with <a href="https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Solution144.java">Tree.Solution144</> and <a href="https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Solution144.java">Tree.Solution145</>
      *     2.2 define a list and a stack,list for record result and stack for cache treeNode
      *     2.2 circulate with op!=null or stack.size()!=0
      *                   2.2.1 circulate with op pointer to depth traverse left children
