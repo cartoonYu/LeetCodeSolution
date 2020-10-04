@@ -3,6 +3,8 @@ package org.LeetcodeSolution.Array;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.Before;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 /** 
 * Solution1 Tester. 
@@ -13,45 +15,47 @@ import org.junit.Before;
 */ 
 public class Solution1Test {
 
-  private Solution1 solution;
+    private static final Logger log = LoggerFactory.getLogger(Solution1Test.class);
 
-  private int target;
 
-  private int[] source;
+    private Solution1 solution;
 
-  private int[] expect;
+    private int target;
 
-  @Before
-  public void before(){
-      solution = new Solution1();
-      target = 9;
-      source = new int[]{2, 7, 11, 15};
-      expect = new int[]{0, 1};
-  }
+    private int[] source;
 
-    /** 
-   * 
-   * Method: twoSum2(int[] nums, int target) 
-   * 
-  */ 
+    private int[] expect;
 
-  @Test
-  public void testTwoSum2(){
-      //TODO: Test goes here...
-      int[] res = solution.twoSum2(source, target);
-      Assert.assertArrayEquals(expect, res);
-  } 
+    @Before
+    public void before(){
+        solution = new Solution1();
+        target = 9;
+        source = new int[]{2, 7, 11, 15};
+        expect = new int[]{0, 1};
+    }
 
-  /** 
-   * 
-   * Method: twoSum1(int[] nums, int target) 
-   * 
-  */
-  @Test
-  public void testTwoSum1(){
-      int[] res = solution.twoSum1(source, target);
-      Assert.assertArrayEquals(expect, res);
-  } 
+    /**
+     *
+     * Method: twoSum2(int[] nums, int target)
+     *
+     */
+    @Test
+    public void testTwoSum2(){
+        int[] res = solution.twoSum2(source, target);
+        log.info("solution 1 test, function testTwoSum2 calculate: {}, expect: {}", res, expect);
+        Assert.assertArrayEquals(expect, res);
+    }
 
+    /**
+     *
+     * Method: twoSum1(int[] nums, int target)
+     *
+     */
+    @Test
+    public void testTwoSum1(){
+        int[] res = solution.twoSum1(source, target);
+        log.info("solution 1 test, function testTwoSum1 calculate: {}, expect: {}", res, expect);
+        Assert.assertArrayEquals(expect, res);
+    }
 
 } 

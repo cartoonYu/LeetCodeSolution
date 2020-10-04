@@ -3,6 +3,8 @@ package org.LeetcodeSolution.Array;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.Before;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.util.Arrays;
 import java.util.LinkedList;
@@ -16,6 +18,8 @@ import java.util.List;
 */
 public class Solution15Test {
 
+    private static final Logger log = LoggerFactory.getLogger(Solution15Test.class);
+
     private Solution15 solution;
 
     private int[] source;
@@ -23,7 +27,7 @@ public class Solution15Test {
     private List<List<Integer>> expect;
 
     @Before
-    public void before() throws Exception {
+    public void before(){
         solution = new Solution15();
         source = new int[]{-1, 0, 1, 2, -1, -4};
         expect = new LinkedList<>();
@@ -39,6 +43,7 @@ public class Solution15Test {
     @Test
     public void testThreeSum(){
         List<List<Integer>> res = solution.threeSum(source);
+        log.info("solution 15 test, calculate: {}, expect: {}", res, expect);
         Assert.assertEquals(expect, res);
     } 
     
