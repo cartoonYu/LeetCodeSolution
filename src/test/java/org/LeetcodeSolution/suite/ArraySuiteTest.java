@@ -1,9 +1,6 @@
 package org.LeetcodeSolution.suite;
 
-import org.LeetcodeSolution.Array.Solution15Test;
-import org.LeetcodeSolution.Array.Solution1Test;
-import org.LeetcodeSolution.Array.Solution41Test;
-import org.LeetcodeSolution.Array.Solution42Test;
+import org.LeetcodeSolution.Array.*;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
@@ -14,6 +11,6 @@ import org.junit.runners.Suite;
  */
 @RunWith(Suite.class)
 @Suite.SuiteClasses({Solution1Test.class, Solution15Test.class,
-        Solution41Test.class, Solution42Test.class})
+        Solution41Test.class, Solution42Test.class, Solution48Test.class})
 public class ArraySuiteTest {
 }
