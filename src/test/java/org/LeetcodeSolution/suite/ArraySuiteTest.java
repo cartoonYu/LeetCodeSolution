@@ -11,6 +11,6 @@ import org.junit.runners.Suite;
  */
 @RunWith(Suite.class)
 @Suite.SuiteClasses({Solution1Test.class, Solution15Test.class,
-        Solution41Test.class, Solution42Test.class, Solution48Test.class})
+        Solution41Test.class, Solution42Test.class, Solution48Test.class, Solution118Test.class})
 public class ArraySuiteTest {
 }

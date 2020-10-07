@@ -14,7 +14,7 @@ import org.slf4j.LoggerFactory;
 */ 
 public class Solution48Test {
 
-    private static final Logger log = LoggerFactory.getLogger(Solution42Test.class);
+    private static final Logger log = LoggerFactory.getLogger(Solution48Test.class);
 
     private Solution48 solution;
 
@@ -43,7 +43,7 @@ public class Solution48Test {
     @Test
     public void testRotate(){
         solution.rotate(source);
-        log.info("solution 42 test, calculate: {}, expect: {}", source, expect);
+        log.info("solution 48 test, calculate: {}, expect: {}", source, expect);
         Assert.assertArrayEquals(expect, source);
     }
 

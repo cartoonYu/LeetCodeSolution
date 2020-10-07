@@ -41,7 +41,7 @@ public class Solution41Test {
     @Test
     public void testFirstMissingPositive(){
         int res = solution.firstMissingPositive(source);
-        log.info("solution 15 test, calculate: {}, expect: {}", res, expect);
+        log.info("solution 41 test, calculate: {}, expect: {}", res, expect);
         Assert.assertEquals(expect, res);
     } 
     
