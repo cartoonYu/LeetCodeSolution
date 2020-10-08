@@ -14,6 +14,20 @@ package org.LeetcodeSolution.Array;
 public class Solution164 {
 
     /**
+     * 1.关于复杂度
+     *   1.1 时间复杂度为 O(n)
+     *   1.2 空间负责度为 O(n)
+     * 2.我的解题思路
+     *   2.1 本解法基于桶排序
+     *   2.2 统计得到数组内最大最小值
+     *   2.3 根据数组长度形成桶，每个桶都含有一定范围内数组的元素
+     *   2.4 将数组所有元素加入到桶中
+     *   2.5 根据非空桶得到结果
+     * 3.提交记录
+     *   3.1 力扣中耗时 3ms,消耗 37.4MB 内存
+     *   3.2 leetcode 中耗时 2ms,消耗 36.9MB 内存
+     * 4.Q&A
+     *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
      *     1.2 Space Complexity is O(n)
