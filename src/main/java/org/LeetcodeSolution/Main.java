@@ -8,6 +8,6 @@ package org.LeetcodeSolution;
 public class Main {
 
     public static void main(String[] args){
-        System.out.println("dwdw");
+        System.out.println("leetcode solution");
     }
 }

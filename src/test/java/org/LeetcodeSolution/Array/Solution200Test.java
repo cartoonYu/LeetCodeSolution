@@ -33,7 +33,7 @@ public class Solution200Test {
     public void numIslands() {
         int res1 = solution.numIslands(source1);
         int res2 = solution.numIslands(source2);
-        log.info("solution 189 test, calculate data 1: {}, expect result 1: {}, calculate data 2: {}, expect result 2: {}",
+        log.info("solution 200 test, calculate data 1: {}, expect result 1: {}, calculate data 2: {}, expect result 2: {}",
                 res1, expect1, res2, expect2);
         Assert.assertEquals(expect1, res1);
         Assert.assertEquals(expect2, res2);
