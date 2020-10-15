@@ -59,3 +59,5 @@ This subpackage contains all of the problems I've solved so far with respect to 
 [1528. Shuffle String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1528.java)
 
 [1592. Rearrange Spaces Between Words](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1592.java)
+
+[1614. Maximum Nesting Depth of the Parentheses](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1614.java)
