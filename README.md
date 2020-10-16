@@ -477,3 +477,7 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 ### [Design](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Design)
 [1357.Apply Discount Every n Orders](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Design/Solution1357.java)
+
+### [Chart](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Chart)
+[1615.Maximal Network Rank](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Chart/Solution1615.java)
+
