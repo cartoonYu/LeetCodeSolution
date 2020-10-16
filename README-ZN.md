@@ -268,6 +268,8 @@
 
 [1592. 重新排列单词间的空格](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1592.java)
 
+[1614. 括号的最大嵌套深度](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1614.java)
+
 ### [栈](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Stack)
 [150.Evaluate Reverse Polish Notation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Stack/Solution150.java)
 

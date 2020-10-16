@@ -57,3 +57,5 @@
 [1528.重新排列字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1528.java)
 
 [1592. 重新排列单词间的空格](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1592.java)
+
+[1614. 括号的最大嵌套深度](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1614.java)

@@ -265,6 +265,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [1592. Rearrange Spaces Between Words](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1592.java)
 
+[1614. Maximum Nesting Depth of the Parentheses](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1614.java)
+
 ### [Stack](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Stack)
 [150.Evaluate Reverse Polish Notation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Stack/Solution150.java)
 
