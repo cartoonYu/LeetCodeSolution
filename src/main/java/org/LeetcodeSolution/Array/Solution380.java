@@ -52,48 +52,52 @@ public class Solution380 {
      * 4.Q&A
      */
 
-    private Map<Integer,Integer> map1;
+    private Map<Integer, Integer> map1;
 
-    private Map<Integer,Integer> map2;
+    private Map<Integer, Integer> map2;
 
     private int count;
 
-    /** Inserts a value to the set. Returns true if the set did not already contain the specified element. */
+    /**
+     * Inserts a value to the set. Returns true if the set did not already contain the specified element.
+     */
     public boolean insertByHashMap(int val) {
-        if(map2.containsKey(val)){
+        if (map2.containsKey(val)) {
             return false;
-        }
-        else{
-            map1.put(count,val);
-            map2.put(val,count);
+        } else {
+            map1.put(count, val);
+            map2.put(val, count);
             count++;
             return true;
         }
     }
 
-    /** Removes a value from the set. Returns true if the set contained the specified element. */
+    /**
+     * Removes a value from the set. Returns true if the set contained the specified element.
+     */
     public boolean removeByHashMap(int val) {
-        if(map2.containsKey(val)){
+        if (map2.containsKey(val)) {
             count--;
-            int index=map2.get(val);
-            int value=map1.get(count);
-            map1.put(index,value);
-            map2.put(value,index);
+            int index = map2.get(val);
+            int value = map1.get(count);
+            map1.put(index, value);
+            map2.put(value, index);
             map1.remove(count);
             map2.remove(val);
             return true;
-        }
-        else{
+        } else {
             return false;
         }
     }
 
-    /** Get a random element from the set. */
+    /**
+     * Get a random element from the set.
+     */
     public int getRandomByHashMap() {
-        if(count==0){
+        if (count == 0) {
             return 0;
         }
-        int index=(int)(Math.random()*count);
+        int index = (int) (Math.random() * count);
         return map1.get(index);
     }
 
@@ -127,43 +131,49 @@ public class Solution380 {
 
     private Set<Integer> set;
 
-    /** Initialize your data structure here. */
+    /**
+     * Initialize your data structure here.
+     */
     public Solution380() {
-        set=new HashSet<>();
-        map1=new HashMap<>();
-        map2=new HashMap<>();
-        count=0;
+        set = new HashSet<>();
+        map1 = new HashMap<>();
+        map2 = new HashMap<>();
+        count = 0;
     }
 
-    /** Inserts a value to the set. Returns true if the set did not already contain the specified element. */
+    /**
+     * Inserts a value to the set. Returns true if the set did not already contain the specified element.
+     */
     public boolean insert(int val) {
-        if(set.contains(val)){
+        if (set.contains(val)) {
             return false;
-        }
-        else{
+        } else {
             set.add(val);
             return true;
         }
     }
 
-    /** Removes a value from the set. Returns true if the set contained the specified element. */
+    /**
+     * Removes a value from the set. Returns true if the set contained the specified element.
+     */
     public boolean remove(int val) {
-        if(set.contains(val)){
+        if (set.contains(val)) {
             set.remove(val);
             return true;
-        }
-        else{
+        } else {
             return false;
         }
     }
 
-    /** Get a random element from the set. */
+    /**
+     * Get a random element from the set.
+     */
     public int getRandom() {
-        if(set.size()==0){
+        if (set.size() == 0) {
             return 0;
         }
-        Integer[] data=set.toArray(new Integer[set.size()]);
-        int index=(int)(Math.random()*set.size());
+        Integer[] data = set.toArray(new Integer[set.size()]);
+        int index = (int) (Math.random() * set.size());
         return data[index];
     }
 }
