@@ -46,41 +46,41 @@ public class Solution164 {
      * @return
      */
     public int maximumGap(int[] nums) {
-        if (nums == null||nums.length < 2){
+        if (nums == null || nums.length < 2) {
             return 0;
         }
-        int length=nums.length;
-        int min=Integer.MAX_VALUE;
-        int max=Integer.MIN_VALUE;
-        for(int num:nums){
-            min=num<min?num:min;
-            max=num>max?num:max;
+        int length = nums.length;
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
+        for (int num : nums) {
+            min = num < min ? num : min;
+            max = num > max ? num : max;
         }
-        if (max == min){
+        if (max == min) {
             return 0;
         }
-        boolean[] flag=new boolean[length+1];
-        int[] left=new int[length+1];
-        int[] right=new int[length+1];
+        boolean[] flag = new boolean[length + 1];
+        int[] left = new int[length + 1];
+        int[] right = new int[length + 1];
         int index;
-        for (int i=0;i<length; i++) {
-            index=getIndex(nums[i],length,min,max);
-            left[index]=flag[index]?Math.min(left[index],nums[i]):nums[i];
-            right[index]=flag[index]?Math.max(right[index],nums[i]):nums[i];
-            flag[index]=true;
+        for (int i = 0; i < length; i++) {
+            index = getIndex(nums[i], length, min, max);
+            left[index] = flag[index] ? Math.min(left[index], nums[i]) : nums[i];
+            right[index] = flag[index] ? Math.max(right[index], nums[i]) : nums[i];
+            flag[index] = true;
         }
-        int res=0;
-        int pre=right[0];
-        for (int i=1;i<=length;i++) {
-            if(flag[i]){
-                res=Math.max(res,left[i]-pre);
-                pre=right[i];
+        int res = 0;
+        int pre = right[0];
+        for (int i = 1; i <= length; i++) {
+            if (flag[i]) {
+                res = Math.max(res, left[i] - pre);
+                pre = right[i];
             }
         }
         return res;
     }
 
-    public int getIndex(long num,long length,long min,long max) {
-        return (int)((num - min) * length / (max - min));
+    public int getIndex(long num, long length, long min, long max) {
+        return (int) ((num - min) * length / (max - min));
     }
 }

@@ -29,30 +29,30 @@ public class Solution48 {
      * @return
      */
     public void rotate(int[][] matrix) {
-        if(matrix==null||matrix.length<2){
+        if (matrix == null || matrix.length < 2) {
             return;
         }
-        int n=matrix.length;
-        for(int i=0,j=n-1;i<j;i++,j--){
-            for(int k=0;k<n;k++){
-                swap(matrix,i,k,j,k);
+        int n = matrix.length;
+        for (int i = 0, j = n - 1; i < j; i++, j--) {
+            for (int k = 0; k < n; k++) {
+                swap(matrix, i, k, j, k);
             }
         }
-        int temp1,temp2;
-        for(int j=1;j<n;j++){
-            temp1=0;
-            temp2=j;
-            while(temp2>temp1){
-                swap(matrix,temp1,temp2,temp2,temp1);
+        int temp1, temp2;
+        for (int j = 1; j < n; j++) {
+            temp1 = 0;
+            temp2 = j;
+            while (temp2 > temp1) {
+                swap(matrix, temp1, temp2, temp2, temp1);
                 temp1++;
                 temp2--;
             }
         }
-        for(int j=1;j<n;j++){
-            temp1=n-1;
-            temp2=j;
-            while(temp1>temp2){
-                swap(matrix,temp1,temp2,temp2,temp1);
+        for (int j = 1; j < n; j++) {
+            temp1 = n - 1;
+            temp2 = j;
+            while (temp1 > temp2) {
+                swap(matrix, temp1, temp2, temp2, temp1);
                 temp1--;
                 temp2++;
             }
@@ -60,9 +60,9 @@ public class Solution48 {
     }
 
 
-    private void swap(int[][] matrix,int i1,int j1,int i2,int j2){
-        int temp=matrix[i1][j1];
-        matrix[i1][j1]=matrix[i2][j2];
-        matrix[i2][j2]=temp;
+    private void swap(int[][] matrix, int i1, int j1, int i2, int j2) {
+        int temp = matrix[i1][j1];
+        matrix[i1][j1] = matrix[i2][j2];
+        matrix[i2][j2] = temp;
     }
 }

@@ -17,6 +17,7 @@ import java.util.Map;
  */
 public class Solution1 {
 
+
     /**
      *
      * 1.关于复杂度
@@ -49,18 +50,17 @@ public class Solution1 {
      * @return
      */
     public int[] twoSum2(int[] nums, int target) {
-        Map<Integer,Integer> map=new HashMap<>();
-        for(int i=0,length=nums.length;i<length;i++){
-            target-=nums[i];
-            if(map.containsKey(target)){
-                int[] res=new int[2];
-                res[0]=map.get(target);
-                res[1]=i;
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int i = 0, length = nums.length; i < length; i++) {
+            target -= nums[i];
+            if (map.containsKey(target)) {
+                int[] res = new int[2];
+                res[0] = map.get(target);
+                res[1] = i;
                 return res;
-            }
-            else{
-                map.put(nums[i],i);
-                target+=nums[i];
+            } else {
+                map.put(nums[i], i);
+                target += nums[i];
             }
         }
         return null;
@@ -92,18 +92,18 @@ public class Solution1 {
      * @return
      */
     public int[] twoSum1(int[] nums, int target) {
-        int[] a=new int[2];
+        int[] a = new int[2];
         int temp;
-        for(int i=0;i<nums.length;i++){
-            temp=nums[i];
-            for(int j=i+1;j<nums.length;j++){
-                if((nums[j]+temp)==target){
-                    a[0]=i;
-                    a[1]=j;
+        for (int i = 0; i < nums.length; i++) {
+            temp = nums[i];
+            for (int j = i + 1; j < nums.length; j++) {
+                if ((nums[j] + temp) == target) {
+                    a[0] = i;
+                    a[1] = j;
                     break;
                 }
             }
-            if(a[0]!=0||a[1]!=0){
+            if (a[0] != 0 || a[1] != 0) {
                 break;
             }
         }

@@ -42,14 +42,14 @@ public class Solution274 {
      * @return
      */
     public int hIndexBySort(int[] citations) {
-        if(citations==null||citations.length==0){
+        if (citations == null || citations.length == 0) {
             return 0;
         }
         Arrays.sort(citations);
         int res;
-        for(int i=0,length=citations.length;i<length;i++){
-            res=length-i;
-            if(res<=citations[i]){
+        for (int i = 0, length = citations.length; i < length; i++) {
+            res = length - i;
+            if (res <= citations[i]) {
                 return res;
             }
         }

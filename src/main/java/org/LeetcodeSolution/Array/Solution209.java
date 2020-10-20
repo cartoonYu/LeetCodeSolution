@@ -49,20 +49,19 @@ public class Solution209 {
      * @return
      */
     public int minSubArrayLen(int s, int[] nums) {
-        int res=Integer.MAX_VALUE,l=0,r=0,length=nums.length,temp=0;
-        while(r<length){
-            temp+=nums[r];
-            while(l<=r&&temp>=s){
-                temp-=nums[l];
-                res=Math.min(r-l+1,res);
+        int res = Integer.MAX_VALUE, l = 0, r = 0, length = nums.length, temp = 0;
+        while (r < length) {
+            temp += nums[r];
+            while (l <= r && temp >= s) {
+                temp -= nums[l];
+                res = Math.min(r - l + 1, res);
                 l++;
             }
             r++;
         }
-        if(res==Integer.MAX_VALUE){
+        if (res == Integer.MAX_VALUE) {
             return 0;
-        }
-        else{
+        } else {
             return res;
         }
     }

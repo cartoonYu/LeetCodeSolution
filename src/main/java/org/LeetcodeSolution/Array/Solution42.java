@@ -41,32 +41,30 @@ public class Solution42 {
      * @return
      */
     public int trap(int[] height) {
-        if(height==null||height.length<=1){
+        if (height == null || height.length <= 1) {
             return 0;
         }
-        int max=0,flag=0,length=height.length;
-        for(int i=0;i<length;i++){
-            if(height[i]>max){
-                max=height[i];
-                flag=i;
+        int max = 0, flag = 0, length = height.length;
+        for (int i = 0; i < length; i++) {
+            if (height[i] > max) {
+                max = height[i];
+                flag = i;
             }
         }
-        int temp=height[0],res=0;
-        for(int i=1;i<flag;i++){
-            if(height[i]>temp){
-                temp=height[i];
-            }
-            else{
-                res+=temp-height[i];
+        int temp = height[0], res = 0;
+        for (int i = 1; i < flag; i++) {
+            if (height[i] > temp) {
+                temp = height[i];
+            } else {
+                res += temp - height[i];
             }
         }
-        temp=height[length-1];
-        for(int i=length-2;i>flag;i--){
-            if(height[i]>temp){
-                temp=height[i];
-            }
-            else{
-                res+=temp-height[i];
+        temp = height[length - 1];
+        for (int i = length - 2; i > flag; i--) {
+            if (height[i] > temp) {
+                temp = height[i];
+            } else {
+                res += temp - height[i];
             }
         }
         return res;
