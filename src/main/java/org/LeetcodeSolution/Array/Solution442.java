@@ -43,10 +43,10 @@ public class Solution442 {
      */
     public List<Integer> findDuplicates(int[] nums) {
         List<Integer> res = new LinkedList<>();
-        for(int num : nums){
-            if(nums[Math.abs(num) - 1] > 0){
+        for (int num : nums) {
+            if (nums[Math.abs(num) - 1] > 0) {
                 nums[Math.abs(num) - 1] *= -1;
-            } else{
+            } else {
                 res.add(Math.abs(num));
             }
         }
