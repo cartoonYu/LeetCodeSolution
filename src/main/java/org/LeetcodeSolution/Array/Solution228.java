@@ -49,31 +49,28 @@ public class Solution228 {
      * @return
      */
     public List<String> summaryRanges(int[] nums) {
-        if(nums==null||nums.length==0){
+        if (nums == null || nums.length == 0) {
             return Collections.emptyList();
         }
-        int start=nums[0],end=nums[0];
-        List<String> res=new LinkedList<>();
-        for(int i=1,length=nums.length;i<length;i++){
-            if(nums[i]==end+1){
-                end=nums[i];
-            }
-            else{
-                if(start==end){
+        int start = nums[0], end = nums[0];
+        List<String> res = new LinkedList<>();
+        for (int i = 1, length = nums.length; i < length; i++) {
+            if (nums[i] == end + 1) {
+                end = nums[i];
+            } else {
+                if (start == end) {
                     res.add(Integer.toString(start));
+                } else {
+                    res.add(start + "->" + end);
                 }
-                else{
-                    res.add(start+"->"+end);
-                }
-                start=nums[i];
-                end=nums[i];
+                start = nums[i];
+                end = nums[i];
             }
         }
-        if(start==end){
+        if (start == end) {
             res.add(Integer.toString(start));
-        }
-        else{
-            res.add(start+"->"+end);
+        } else {
+            res.add(start + "->" + end);
         }
         return res;
     }

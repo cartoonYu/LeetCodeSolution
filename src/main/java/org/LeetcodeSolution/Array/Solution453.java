@@ -43,14 +43,14 @@ public class Solution453 {
      * @return
      */
     public int minMoves(int[] nums) {
-        int min=nums[0];
-        int res=0;
-        for(int temp:nums){
-            res+=temp;
-            if(min>temp){
-                min=temp;
+        int min = nums[0];
+        int res = 0;
+        for (int temp : nums) {
+            res += temp;
+            if (min > temp) {
+                min = temp;
             }
         }
-        return res-min*nums.length;
+        return res - min * nums.length;
     }
 }

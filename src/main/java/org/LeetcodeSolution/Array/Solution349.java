@@ -50,23 +50,23 @@ public class Solution349 {
      * @return
      */
     public int[] intersection(int[] nums1, int[] nums2) {
-        Set<Integer> set=new HashSet<>();
-        int[] tempNum=nums1.length>nums2.length?nums1:nums2;
-        int[] tempNum2=nums1.length<nums2.length?nums1:nums2;
-        for(int temp:tempNum){
+        Set<Integer> set = new HashSet<>();
+        int[] tempNum = nums1.length > nums2.length ? nums1 : nums2;
+        int[] tempNum2 = nums1.length < nums2.length ? nums1 : nums2;
+        for (int temp : tempNum) {
             set.add(temp);
         }
-        Set<Integer> tempSet=new HashSet<>();
-        for(int temp:tempNum2){
-            if(set.contains(temp)){
+        Set<Integer> tempSet = new HashSet<>();
+        for (int temp : tempNum2) {
+            if (set.contains(temp)) {
                 tempSet.add(temp);
             }
         }
-        int[] result=new int[tempSet.size()];
-        int flag=0;
-        Iterator<Integer> it=tempSet.iterator();
-        while(it.hasNext()){
-            result[flag++]=it.next();
+        int[] result = new int[tempSet.size()];
+        int flag = 0;
+        Iterator<Integer> it = tempSet.iterator();
+        while (it.hasNext()) {
+            result[flag++] = it.next();
         }
         return result;
     }

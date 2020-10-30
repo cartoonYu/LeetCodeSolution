@@ -53,17 +53,16 @@ public class Solution118 {
      * @return
      */
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> list=new ArrayList<>();
-        for(int i=0;i<numRows;i++){
-            List<Integer> temp=new ArrayList<>();
-            for(int j=0;j<i+1;j++){
+        List<List<Integer>> list = new ArrayList<>();
+        for (int i = 0; i < numRows; i++) {
+            List<Integer> temp = new ArrayList<>();
+            for (int j = 0; j < i + 1; j++) {
                 int num;
-                if(j==0||j==i){
-                    num=1;
-                }
-                else{
-                    List<Integer> source=list.get(i-1);
-                    num=source.get(j-1)+source.get(j);
+                if (j == 0 || j == i) {
+                    num = 1;
+                } else {
+                    List<Integer> source = list.get(i - 1);
+                    num = source.get(j - 1) + source.get(j);
                 }
                 temp.add(num);
             }

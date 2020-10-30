@@ -49,21 +49,20 @@ public class Solution485 {
      * @return
      */
     public int findMaxConsecutiveOnes(int[] nums) {
-        if(nums.length==0){
+        if (nums.length == 0) {
             return 0;
         }
-        int result=0;
-        int temp=0;
-        for(int i:nums){
-            if(i==1){
+        int result = 0;
+        int temp = 0;
+        for (int i : nums) {
+            if (i == 1) {
                 temp++;
-            }
-            else{
-                result=result<temp?temp:result;
-                temp=0;
+            } else {
+                result = result < temp ? temp : result;
+                temp = 0;
             }
         }
-        return result<temp?temp:result;
+        return result < temp ? temp : result;
     }
 
     /**
@@ -98,20 +97,20 @@ public class Solution485 {
      * @return
      */
     public int anotherFindMaxConsecutiveOnes(int[] nums) {
-        if(nums.length==0){
+        if (nums.length == 0) {
             return 0;
         }
-        int result=0;
-        int temp=0;
-        for(int i:nums){
-            if(i==0){
-                result=temp>result?temp:result;
-                temp=0;
+        int result = 0;
+        int temp = 0;
+        for (int i : nums) {
+            if (i == 0) {
+                result = temp > result ? temp : result;
+                temp = 0;
                 continue;
             }
             temp++;
         }
-        result=temp>result?temp:result;
+        result = temp > result ? temp : result;
         return result;
     }
 }

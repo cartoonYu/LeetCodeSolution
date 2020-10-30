@@ -43,13 +43,13 @@ public class Solution462 {
      * @return
      */
     public int minMoves2(int[] nums) {
-        if(nums==null||nums.length<2){
+        if (nums == null || nums.length < 2) {
             return 0;
         }
         Arrays.sort(nums);
-        int i=0,j=nums.length-1,res=0;
-        while(i<j){
-            res+=nums[j--]-nums[i++];
+        int i = 0, j = nums.length - 1, res = 0;
+        while (i < j) {
+            res += nums[j--] - nums[i++];
         }
         return res;
     }

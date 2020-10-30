@@ -41,17 +41,17 @@ public class Solution268 {
      * @return
      */
     public int missingNumber(int[] nums) {
-        if(nums.length==0){
+        if (nums.length == 0) {
             return 0;
         }
-        int[] temp=new int[nums.length+1];
-        for(int i=0,length=nums.length;i<length;i++){
-            temp[nums[i]]+=1;
+        int[] temp = new int[nums.length + 1];
+        for (int i = 0, length = nums.length; i < length; i++) {
+            temp[nums[i]] += 1;
         }
-        int result=0;
-        for(int i=0,length=temp.length;i<length;i++){
-            if(temp[i]==0){
-                result=i;
+        int result = 0;
+        for (int i = 0, length = temp.length; i < length; i++) {
+            if (temp[i] == 0) {
+                result = i;
                 break;
             }
         }

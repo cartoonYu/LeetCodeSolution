@@ -51,28 +51,26 @@ public class Solution350 {
     public int[] intersect(int[] nums1, int[] nums2) {
         Arrays.sort(nums1);
         Arrays.sort(nums2);
-        int i=0,j=0;
-        int len1=nums1.length;
-        int len2=nums2.length;
-        List<Integer> list=new ArrayList<>();
-        while(i<len1&&j<len2){
-            if(nums1[i]==nums2[j]){
+        int i = 0, j = 0;
+        int len1 = nums1.length;
+        int len2 = nums2.length;
+        List<Integer> list = new ArrayList<>();
+        while (i < len1 && j < len2) {
+            if (nums1[i] == nums2[j]) {
                 list.add(nums1[i]);
                 i++;
                 j++;
-            }
-            else{
-                if(nums1[i]<nums2[j]){
+            } else {
+                if (nums1[i] < nums2[j]) {
                     i++;
-                }
-                else{
+                } else {
                     j++;
                 }
             }
         }
-        int[] result=new int[list.size()];
-        for(int k=0,size=list.size();k<size;k++){
-            result[k]=list.get(k);
+        int[] result = new int[list.size()];
+        for (int k = 0, size = list.size(); k < size; k++) {
+            result[k] = list.get(k);
         }
         return result;
     }
@@ -107,28 +105,27 @@ public class Solution350 {
      * @return
      */
     public int[] preIntersect(int[] nums1, int[] nums2) {
-        List<Integer> list=new ArrayList<>();
-        int[] tempNum=nums1.length>nums2.length?nums1:nums2;
+        List<Integer> list = new ArrayList<>();
+        int[] tempNum = nums1.length > nums2.length ? nums1 : nums2;
         int[] tempNum2;
-        if(tempNum==nums1){
-            tempNum2=nums2;
+        if (tempNum == nums1) {
+            tempNum2 = nums2;
+        } else {
+            tempNum2 = nums1;
         }
-        else{
-            tempNum2=nums1;
-        }
-        for(int temp:tempNum){
+        for (int temp : tempNum) {
             list.add(temp);
         }
-        List<Integer> tempList=new ArrayList<>();
-        for(int temp:tempNum2){
-            if(list.contains(temp)){
+        List<Integer> tempList = new ArrayList<>();
+        for (int temp : tempNum2) {
+            if (list.contains(temp)) {
                 tempList.add(temp);
                 list.remove(Integer.valueOf(temp));
             }
         }
-        int[] result=new int[tempList.size()];
-        for(int i=0,size=tempList.size();i<size;i++){
-            result[i]=tempList.get(i);
+        int[] result = new int[tempList.size()];
+        for (int i = 0, size = tempList.size(); i < size; i++) {
+            result[i] = tempList.get(i);
         }
         return result;
     }

@@ -47,22 +47,22 @@ public class Solution189 {
      * @param k
      */
     public void rotateByRecurse(int[] nums, int k) {
-        int length=nums.length;
-        if(k==0||k%length==0){
+        int length = nums.length;
+        if (k == 0 || k % length == 0) {
             return;
         }
-        k=k%length;
-        rotate(nums,0,length-1);
-        rotate(nums,0,k-1);
-        rotate(nums,k,length-1);
+        k = k % length;
+        rotate(nums, 0, length - 1);
+        rotate(nums, 0, k - 1);
+        rotate(nums, k, length - 1);
     }
 
-    private void rotate(int[] nums,int left,int right){
+    private void rotate(int[] nums, int left, int right) {
         int temp;
-        while(left<right){
-            temp=nums[left];
-            nums[left]=nums[right];
-            nums[right]=temp;
+        while (left < right) {
+            temp = nums[left];
+            nums[left] = nums[right];
+            nums[right] = temp;
             left++;
             right--;
         }
@@ -98,23 +98,23 @@ public class Solution189 {
      * @param k
      */
     public void rotateByList(int[] nums, int k) {
-        int length=nums.length;
-        if(k==0||k%length==0){
+        int length = nums.length;
+        if (k == 0 || k % length == 0) {
             return;
         }
-        k=k%length;
-        List<Integer> list=new ArrayList<>();
-        for(int i=length-k;i<length;i++){
+        k = k % length;
+        List<Integer> list = new ArrayList<>();
+        for (int i = length - k; i < length; i++) {
             list.add(nums[i]);
         }
-        int i=length-k-1,j=length-1;
-        while(i>=0){
-            nums[j]=nums[i];
+        int i = length - k - 1, j = length - 1;
+        while (i >= 0) {
+            nums[j] = nums[i];
             j--;
             i--;
         }
-        for(int l=0,size=list.size();l<size;l++){
-            nums[l]=list.get(l);
+        for (int l = 0, size = list.size(); l < size; l++) {
+            nums[l] = list.get(l);
         }
     }
 }
