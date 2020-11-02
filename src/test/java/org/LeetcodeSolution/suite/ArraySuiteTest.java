@@ -15,6 +15,6 @@ import org.junit.runners.Suite;
         Solution209Test.class, Solution228Test.class, Solution268Test.class, Solution274Test.class, Solution283Test.class,
         Solution349Test.class, Solution350Test.class, Solution380Test.class, Solution414Test.class, Solution442Test.class,
         Solution448Test.class, Solution453Test.class, Solution455Test.class, Solution462Test.class, Solution463Test.class,
-        Solution485Test.class, Solution496Test.class})
+        Solution485Test.class, Solution496Test.class, Solution500Test.class})
 public class ArraySuiteTest {
 }
