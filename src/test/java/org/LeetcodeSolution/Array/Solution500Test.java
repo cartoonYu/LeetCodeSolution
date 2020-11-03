@@ -39,7 +39,7 @@ public class Solution500Test {
     @Test
     public void testFindWords(){ 
         String[] res = solution.findWords(source);
-        log.info("solution 500 test, calculate data: {}, expect result: {}, ", res, expect);
+        log.info("solution 500 test, calculate data: {}, expect result: {}", res, expect);
         Assert.assertArrayEquals(expect, res);
     }
 
