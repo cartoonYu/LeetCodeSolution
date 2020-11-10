@@ -42,18 +42,18 @@ public class Solution643 {
      * @return
      */
     public double findMaxAverage(int[] nums, int k) {
-        if(nums==null||nums.length<k){
+        if (nums == null || nums.length < k) {
             return 0;
         }
-        int res=0;
-        for(int i=0;i<k;i++){
-            res+=nums[i];
+        int res = 0;
+        for (int i = 0; i < k; i++) {
+            res += nums[i];
         }
-        int temp=res;
-        for(int i=k,length=nums.length;i<length;i++){
-            temp+=nums[i]-nums[i-k];
-            res=Math.max(temp,res);
+        int temp = res;
+        for (int i = k, length = nums.length; i < length; i++) {
+            temp += nums[i] - nums[i - k];
+            res = Math.max(temp, res);
         }
-        return res*1.0/k;
+        return res * 1.0 / k;
     }
 }
