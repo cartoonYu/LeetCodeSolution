@@ -43,19 +43,19 @@ public class Solution1046 {
      * @return
      */
     public int lastStoneWeight(int[] stones) {
-        if(stones==null||stones.length==0){
+        if (stones == null || stones.length == 0) {
             return 0;
         }
-        if(stones.length==1){
+        if (stones.length == 1) {
             return stones[0];
         }
-        int length=stones.length,temp;
-        for(int i=0;i<length;i++){
+        int length = stones.length, temp;
+        for (int i = 0; i < length; i++) {
             Arrays.sort(stones);
-            temp=stones[length-1]-stones[length-2];
-            stones[length-2]=0;
-            stones[length-1]=temp;
+            temp = stones[length - 1] - stones[length - 2];
+            stones[length - 2] = 0;
+            stones[length - 1] = temp;
         }
-        return stones[stones.length-1];
+        return stones[stones.length - 1];
     }
 }

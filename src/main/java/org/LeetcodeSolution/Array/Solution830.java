@@ -45,15 +45,15 @@ public class Solution830 {
      * @return
      */
     public List<List<Integer>> largeGroupPositions(String S) {
-        if(S==null||S.length()==0){
+        if (S == null || S.length() == 0) {
             return Collections.emptyList();
         }
-        List<List<Integer>> res=new ArrayList<>();
-        for(int i=0,length=S.length();i<length-2;i++){
-            if(S.charAt(i)==S.charAt(i+1)&&S.charAt(i+1)==S.charAt(i+2)){
-                List<Integer> list=new ArrayList();
+        List<List<Integer>> res = new ArrayList<>();
+        for (int i = 0, length = S.length(); i < length - 2; i++) {
+            if (S.charAt(i) == S.charAt(i + 1) && S.charAt(i + 1) == S.charAt(i + 2)) {
+                List<Integer> list = new ArrayList();
                 list.add(i);
-                while(++i<length-2&&S.charAt(i)==S.charAt(i+2)){
+                while (++i < length - 2 && S.charAt(i) == S.charAt(i + 2)) {
                 }
                 list.add(++i);
                 res.add(list);
@@ -96,31 +96,30 @@ public class Solution830 {
      * @return
      */
     public List<List<Integer>> largeGroupPositions2(String S) {
-        if(S==null||S.length()==0){
+        if (S == null || S.length() == 0) {
             return Collections.emptyList();
         }
-        List<List<Integer>> res=new ArrayList<>();
-        int startIndex=0,endIndex=0;
-        char lastChar=S.charAt(0);
-        for(int i=1,length=S.length();i<length;i++){
-            char temp=S.charAt(i);
-            if(temp==lastChar){
+        List<List<Integer>> res = new ArrayList<>();
+        int startIndex = 0, endIndex = 0;
+        char lastChar = S.charAt(0);
+        for (int i = 1, length = S.length(); i < length; i++) {
+            char temp = S.charAt(i);
+            if (temp == lastChar) {
                 endIndex++;
-            }
-            else{
-                if((endIndex-startIndex)>1){
-                    List<Integer> list=new ArrayList<>();
+            } else {
+                if ((endIndex - startIndex) > 1) {
+                    List<Integer> list = new ArrayList<>();
                     list.add(startIndex);
                     list.add(endIndex);
                     res.add(list);
                 }
-                lastChar=temp;
-                startIndex=i;
-                endIndex=i;
+                lastChar = temp;
+                startIndex = i;
+                endIndex = i;
             }
         }
-        if((endIndex-startIndex)>1){
-            List<Integer> list=new ArrayList<>();
+        if ((endIndex - startIndex) > 1) {
+            List<Integer> list = new ArrayList<>();
             list.add(startIndex);
             list.add(endIndex);
             res.add(list);

@@ -42,21 +42,21 @@ public class Solution724 {
      * @return
      */
     public int pivotIndex(int[] nums) {
-        if(nums==null||nums.length==0){
+        if (nums == null || nums.length == 0) {
             return -1;
         }
-        int left=0,right=0;
-        for(int num:nums){
-            right+=num;
+        int left = 0, right = 0;
+        for (int num : nums) {
+            right += num;
         }
-        right-=nums[0];
-        if(right==left){
+        right -= nums[0];
+        if (right == left) {
             return 0;
         }
-        for(int i=1,length=nums.length;i<length;i++){
-            right-=nums[i];
-            left+=nums[i-1];
-            if(right==left){
+        for (int i = 1, length = nums.length; i < length; i++) {
+            right -= nums[i];
+            left += nums[i - 1];
+            if (right == left) {
                 return i;
             }
         }

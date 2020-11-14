@@ -47,44 +47,43 @@ public class Solution989 {
      * @return
      */
     public List<Integer> addToArrayForm(int[] A, int K) {
-        List<Integer> list=new ArrayList<>();
-        int power=1;
-        while(K!=0){
-            int temp=K%(int)(Math.pow(10,power));
-            K-=temp;
-            temp=temp/(int)(Math.pow(10,power-1));
+        List<Integer> list = new ArrayList<>();
+        int power = 1;
+        while (K != 0) {
+            int temp = K % (int) (Math.pow(10, power));
+            K -= temp;
+            temp = temp / (int) (Math.pow(10, power - 1));
             list.add(temp);
             power++;
         }
-        int[] nums=new int[A.length>list.size()?A.length+1:list.size()+1];
-        int i=A.length-1,j=0,k=0;
-        int sum=0;
-        while(i>=0||j<list.size()){
-            if(i>=0){
-                sum+=A[i--];
+        int[] nums = new int[A.length > list.size() ? A.length + 1 : list.size() + 1];
+        int i = A.length - 1, j = 0, k = 0;
+        int sum = 0;
+        while (i >= 0 || j < list.size()) {
+            if (i >= 0) {
+                sum += A[i--];
             }
-            if(j<list.size()){
-                sum+=list.get(j++);
+            if (j < list.size()) {
+                sum += list.get(j++);
             }
-            if(sum>9){
-                nums[k]+=sum%10;
-                nums[k+1]+=1;
+            if (sum > 9) {
+                nums[k] += sum % 10;
+                nums[k + 1] += 1;
+            } else {
+                nums[k] += sum;
             }
-            else{
-                nums[k]+=sum;
-            }
-            if(nums[k]>9){
-                nums[k]=nums[k]%10;
-                nums[k+1]+=1;
+            if (nums[k] > 9) {
+                nums[k] = nums[k] % 10;
+                nums[k + 1] += 1;
             }
             k++;
-            sum=0;
+            sum = 0;
         }
-        List<Integer> res=new ArrayList<>();
-        if(nums[nums.length-1]!=0){
-            res.add(nums[nums.length-1]);
+        List<Integer> res = new ArrayList<>();
+        if (nums[nums.length - 1] != 0) {
+            res.add(nums[nums.length - 1]);
         }
-        for(int l=nums.length-2;l>=0;l--){
+        for (int l = nums.length - 2; l >= 0; l--) {
             res.add(nums[l]);
         }
         return res;

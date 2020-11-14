@@ -46,26 +46,25 @@ public class Solution922 {
      * @return
      */
     public int[] sortArrayByParityIIWithTwoPointer(int[] A) {
-        if(A==null||A.length<2){
+        if (A == null || A.length < 2) {
             return A;
         }
-        int i=0,j=1,length=A.length;
-        while(i<length&&j<length){
-            while(i<length&&A[i]%2==0){
-                i+=2;
+        int i = 0, j = 1, length = A.length;
+        while (i < length && j < length) {
+            while (i < length && A[i] % 2 == 0) {
+                i += 2;
             }
-            while(j<length&&A[j]%2!=0){
-                j+=2;
+            while (j < length && A[j] % 2 != 0) {
+                j += 2;
             }
-            if(i<length&&j<length){
-                int temp=A[i];
-                A[i]=A[j];
-                A[j]=temp;
+            if (i < length && j < length) {
+                int temp = A[i];
+                A[i] = A[j];
+                A[j] = temp;
             }
         }
         return A;
     }
-
 
     /**
      * 1.关于复杂度
@@ -99,19 +98,18 @@ public class Solution922 {
      * @return
      */
     public int[] sortArrayByParityIIWithAuxiliaryArray(int[] A) {
-        if(A==null||A.length<2){
+        if (A == null || A.length < 2) {
             return A;
         }
-        int i=0,j=1,length=A.length;
-        int[] data=new int[length];
-        for(int k=0;k<length;k++){
-            if(A[k]%2==0){
-                data[i]=A[k];
-                i+=2;
-            }
-            else{
-                data[j]=A[k];
-                j+=2;
+        int i = 0, j = 1, length = A.length;
+        int[] data = new int[length];
+        for (int k = 0; k < length; k++) {
+            if (A[k] % 2 == 0) {
+                data[i] = A[k];
+                i += 2;
+            } else {
+                data[j] = A[k];
+                j += 2;
             }
         }
         return data;

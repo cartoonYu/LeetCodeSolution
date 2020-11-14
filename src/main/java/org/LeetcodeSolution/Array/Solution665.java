@@ -44,22 +44,21 @@ public class Solution665 {
      * @return
      */
     public boolean checkPossibility(int[] nums) {
-        if(nums==null||nums.length<2){
+        if (nums == null || nums.length < 2) {
             return true;
         }
-        int flag=0;
-        for(int i=1,length=nums.length;i<length&&flag<2;i++){
-            if(nums[i]>=nums[i-1]){
+        int flag = 0;
+        for (int i = 1, length = nums.length; i < length && flag < 2; i++) {
+            if (nums[i] >= nums[i - 1]) {
                 continue;
             }
             flag++;
-            if(i-2>=0&&nums[i]<nums[i-2]){
-                nums[i]=nums[i-1];
-            }
-            else{
-                nums[i-1]=nums[i];
+            if (i - 2 >= 0 && nums[i] < nums[i - 2]) {
+                nums[i] = nums[i - 1];
+            } else {
+                nums[i - 1] = nums[i];
             }
         }
-        return flag<2;
+        return flag < 2;
     }
 }
