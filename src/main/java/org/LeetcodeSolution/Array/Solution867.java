@@ -40,13 +40,13 @@ public class Solution867 {
      * @return
      */
     public int[][] transpose(int[][] A) {
-        if(A==null||A.length==0){
+        if (A == null || A.length == 0) {
             return A;
         }
-        int[][] res=new int[A[0].length][A.length];
-        for(int i=0,len1=A.length;i<len1;i++){
-            for(int j=0,len2=A[i].length;j<len2;j++){
-                res[j][i]=A[i][j];
+        int[][] res = new int[A[0].length][A.length];
+        for (int i = 0, len1 = A.length; i < len1; i++) {
+            for (int j = 0, len2 = A[i].length; j < len2; j++) {
+                res[j][i] = A[i][j];
             }
         }
         return res;

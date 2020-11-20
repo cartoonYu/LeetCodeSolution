@@ -4,7 +4,6 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 
-
 /**
  * Problem
  *     599.Minimum Index Sum of Two Lists
@@ -55,21 +54,20 @@ public class Solution599 {
      * @return
      */
     public String[] findRestaurant(String[] list1, String[] list2) {
-        HashMap<String, Integer> map=new HashMap<>();
-        for(int i=0,length=list1.length;i<length;i++){
-            map.put(list1[i],i);
+        HashMap<String, Integer> map = new HashMap<>();
+        for (int i = 0, length = list1.length; i < length; i++) {
+            map.put(list1[i], i);
         }
-        List<String> list=new LinkedList<>();
-        int flag=Integer.MAX_VALUE;
-        for(int i=0,length=list2.length;i<length;i++){
-            if(map.containsKey(list2[i])){
-                int sum=map.get(list2[i])+i;
-                if(sum<flag){
+        List<String> list = new LinkedList<>();
+        int flag = Integer.MAX_VALUE;
+        for (int i = 0, length = list2.length; i < length; i++) {
+            if (map.containsKey(list2[i])) {
+                int sum = map.get(list2[i]) + i;
+                if (sum < flag) {
                     list.clear();
-                    flag=sum;
+                    flag = sum;
                     list.add(list2[i]);
-                }
-                else if(sum==flag){
+                } else if (sum == flag) {
                     list.add(list2[i]);
                 }
             }

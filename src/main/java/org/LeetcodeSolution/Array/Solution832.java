@@ -43,37 +43,36 @@ public class Solution832 {
      * @return
      */
     public int[][] flipAndInvertImage(int[][] A) {
-        if(A==null||A.length==0){
+        if (A == null || A.length == 0) {
             return A;
         }
-        int left,right;
-        for(int i=0,length=A.length;i<length;i++){
-            left=0;
-            right=A[i].length-1;
-            while(left<right){
-                swap(A,i,left,right);
-                change(A,i,left++);
-                change(A,i,right--);
+        int left, right;
+        for (int i = 0, length = A.length; i < length; i++) {
+            left = 0;
+            right = A[i].length - 1;
+            while (left < right) {
+                swap(A, i, left, right);
+                change(A, i, left++);
+                change(A, i, right--);
             }
-            if(left==right){
-                change(A,i,left);
+            if (left == right) {
+                change(A, i, left);
             }
         }
         return A;
     }
 
-    private void change(int[][] A,int row,int column){
-        if(A[row][column]==0){
-            A[row][column]=1;
-        }
-        else{
-            A[row][column]=0;
+    private void change(int[][] A, int row, int column) {
+        if (A[row][column] == 0) {
+            A[row][column] = 1;
+        } else {
+            A[row][column] = 0;
         }
     }
 
-    private void swap(int[][] A,int row,int left,int right){
-        int temp=A[row][left];
-        A[row][left]=A[row][right];
-        A[row][right]=temp;
+    private void swap(int[][] A, int row, int left, int right) {
+        int temp = A[row][left];
+        A[row][left] = A[row][right];
+        A[row][right] = temp;
     }
 }

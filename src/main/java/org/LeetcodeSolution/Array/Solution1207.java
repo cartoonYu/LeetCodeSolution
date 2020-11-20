@@ -88,7 +88,7 @@ public class Solution1207 {
      * @param arr
      * @return
      */
-    public boolean uniqueOccurrencesByCountinSort(int[] arr) {
+    public boolean uniqueOccurrencesByCountInSort(int[] arr) {
         if(arr == null || arr.length == 0){
             return true;
         }

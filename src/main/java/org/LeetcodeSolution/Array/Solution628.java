@@ -44,39 +44,36 @@ public class Solution628 {
      * @return
      */
     public int maximumProduct(int[] nums) {
-        if(nums==null||nums.length<3){
+        if (nums == null || nums.length < 3) {
             return 0;
         }
-        int[] max=new int[3];
-        int[] min=new int[2];
-        for(int i=0;i<3;i++){
-            max[i]=Integer.MIN_VALUE;
+        int[] max = new int[3];
+        int[] min = new int[2];
+        for (int i = 0; i < 3; i++) {
+            max[i] = Integer.MIN_VALUE;
         }
-        for(int i=0;i<2;i++){
-            min[i]=Integer.MAX_VALUE;
+        for (int i = 0; i < 2; i++) {
+            min[i] = Integer.MAX_VALUE;
         }
-        for(int temp:nums){
-            if(temp>=max[2]){
-                max[0]=max[1];
-                max[1]=max[2];
-                max[2]=temp;
+        for (int temp : nums) {
+            if (temp >= max[2]) {
+                max[0] = max[1];
+                max[1] = max[2];
+                max[2] = temp;
+            } else if (temp >= max[1]) {
+                max[0] = max[1];
+                max[1] = temp;
+            } else if (temp >= max[0]) {
+                max[0] = temp;
             }
-            else if(temp>=max[1]){
-                max[0]=max[1];
-                max[1]=temp;
-            }
-            else if(temp>=max[0]){
-                max[0]=temp;
-            }
-            if(temp<=min[1]){
-                min[0]=min[1];
-                min[1]=temp;
-            }
-            else if(temp<=min[0]){
-                min[0]=temp;
+            if (temp <= min[1]) {
+                min[0] = min[1];
+                min[1] = temp;
+            } else if (temp <= min[0]) {
+                min[0] = temp;
             }
         }
-        return Math.max(min[0]*min[1],max[0]*max[1])*max[2];
+        return Math.max(min[0] * min[1], max[0] * max[1]) * max[2];
     }
 
     /**
@@ -108,12 +105,12 @@ public class Solution628 {
      * @return
      */
     public int maximumProductBySort(int[] nums) {
-        if(nums==null||nums.length<3){
+        if (nums == null || nums.length < 3) {
             return 0;
         }
         Arrays.sort(nums);
-        int length=nums.length;
-        int res=Math.max(nums[length-2]*nums[length-3],nums[0]*nums[1])*nums[length-1];
+        int length = nums.length;
+        int res = Math.max(nums[length - 2] * nums[length - 3], nums[0] * nums[1]) * nums[length - 1];
         return res;
     }
 

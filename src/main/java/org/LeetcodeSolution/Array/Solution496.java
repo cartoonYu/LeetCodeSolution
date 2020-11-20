@@ -53,20 +53,17 @@ public class Solution496 {
      * @return
      */
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        Deque<Integer> stack=new LinkedList<>();
-        Map<Integer,Integer> map=new HashMap<>();
-        for(int temp:nums2){
-            while(stack.size()!=0&&stack.peekFirst()<temp){
-                map.put(stack.removeFirst(),temp);
+        Deque<Integer> stack = new LinkedList<>();
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int temp : nums2) {
+            while (stack.size() != 0 && stack.peekFirst() < temp) {
+                map.put(stack.removeFirst(), temp);
             }
             stack.addFirst(temp);
         }
-        map.forEach((key,value)->{
-            System.out.println(key+" "+value);
-        });
-        int[] res=new int[nums1.length];
-        for(int i=0,length=res.length;i<length;i++){
-            res[i]=map.getOrDefault(nums1[i],-1);
+        int[] res = new int[nums1.length];
+        for (int i = 0, length = res.length; i < length; i++) {
+            res[i] = map.getOrDefault(nums1[i], -1);
         }
         return res;
     }
