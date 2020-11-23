@@ -3,8 +3,8 @@ package org.LeetcodeSolution.Array;
 /**
  * Problem
  *     1365. How Many Numbers Are Smaller Than the Current Number
- *     https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number
  *     https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number
+ *     https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number
  * Grade of difficulty
  *     Easy
  * Related topics
