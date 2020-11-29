@@ -17,7 +17,6 @@ public class Solution1Test {
 
     private static final Logger log = LoggerFactory.getLogger(Solution1Test.class);
 
-
     private Solution1 solution;
 
     private int target;
