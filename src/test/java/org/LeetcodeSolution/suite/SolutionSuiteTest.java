@@ -9,6 +9,6 @@ import org.junit.runners.Suite;
  * @date 2020/10/3
  */
 @RunWith(Suite.class)
-@Suite.SuiteClasses({ArraySuiteTest.class, StringSuiteTest.class})
+@Suite.SuiteClasses({ArraySuiteTest.class, BackTrackingSuiteTest.class, StringSuiteTest.class})
 public class SolutionSuiteTest {
 }
