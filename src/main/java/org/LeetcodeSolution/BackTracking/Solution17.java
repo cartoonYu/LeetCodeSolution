@@ -47,42 +47,40 @@ public class Solution17 {
      * @return
      */
     public List<String> letterCombinations(String digits) {
-        if(digits==null||digits.length()==0){
+        if (digits == null || digits.length() == 0) {
             return Collections.emptyList();
         }
-        list=new ArrayList<>();
-        backTracking(digits,0,new StringBuilder());
+        list = new ArrayList<>();
+        backTracking(digits, 0, new StringBuilder());
         return list;
     }
 
-    private void backTracking(String digits,int index,StringBuilder builder){
-        if(index==digits.length()){
+    private void backTracking(String digits, int index, StringBuilder builder) {
+        if (index == digits.length()) {
             list.add(builder.toString());
             return;
         }
-        int temp=Character.digit(digits.charAt(index),10);
-        int border=temp==7||temp==9?4:3;
-        char[] c=new char[border];
-        int startElement=0;
-        if(temp==8){
-            startElement=116;
-        }
-        else{
-            if(temp==9){
-                startElement=119;
-            }
-            else{
-                startElement=(temp-2)*3+97;
+        int temp = Character.digit(digits.charAt(index), 10);
+        int border = temp == 7 || temp == 9 ? 4 : 3;
+        char[] c = new char[border];
+        int startElement = 0;
+        if (temp == 8) {
+            startElement = 116;
+        } else {
+            if (temp == 9) {
+                startElement = 119;
+            } else {
+                startElement = (temp - 2) * 3 + 97;
             }
         }
-        for(int i=0;i<border;i++){
-            c[i]=(char)startElement;
+        for (int i = 0; i < border; i++) {
+            c[i] = (char) startElement;
             startElement++;
         }
-        for(int i=0;i<border;i++){
+        for (int i = 0; i < border; i++) {
             builder.append(c[i]);
-            backTracking(digits,index+1,builder);
-            builder.deleteCharAt(builder.length()-1);
+            backTracking(digits, index + 1, builder);
+            builder.deleteCharAt(builder.length() - 1);
         }
     }
 }

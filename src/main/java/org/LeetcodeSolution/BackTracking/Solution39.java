@@ -46,30 +46,30 @@ public class Solution39 {
      * @return
      */
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        if(candidates==null||candidates.length==0||target==0){
+        if (candidates == null || candidates.length == 0 || target == 0) {
             return Collections.emptyList();
         }
-        res=new LinkedList<>();
+        res = new LinkedList<>();
         Arrays.sort(candidates);
-        backTracking(candidates,0,target,candidates.length,new ArrayList<>());
+        backTracking(candidates, 0, target, candidates.length, new ArrayList<>());
         return res;
     }
 
     private List<List<Integer>> res;
 
-    private void backTracking(int[] nums,int cur,int n,int length,List<Integer> list){
-        if(n<0){
+    private void backTracking(int[] nums, int cur, int n, int length, List<Integer> list) {
+        if (n < 0) {
             return;
         }
-        if(n==0){
+        if (n == 0) {
             res.add(new ArrayList<>(list));
         }
-        for(int i=cur;i<length;i++){
+        for (int i = cur; i < length; i++) {
             list.add(nums[i]);
-            n-=nums[i];
-            backTracking(nums,i,n,length,list);
-            list.remove(list.size()-1);
-            n+=nums[i];
+            n -= nums[i];
+            backTracking(nums, i, n, length, list);
+            list.remove(list.size() - 1);
+            n += nums[i];
         }
     }
 }
