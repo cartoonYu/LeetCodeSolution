@@ -54,22 +54,22 @@ public class Solution78 {
      * @return
      */
     public List<List<Integer>> subsets(int[] nums) {
-        if(nums==null||nums.length==0){
+        if (nums == null || nums.length == 0) {
             return Collections.emptyList();
         }
-        res=new ArrayList<>();
-        backTracking(nums,0,new ArrayList<>());
+        res = new ArrayList<>();
+        backTracking(nums, 0, new ArrayList<>());
         return res;
     }
 
     private List<List<Integer>> res;
 
-    private void backTracking(int[] nums,int position,List<Integer> list){
+    private void backTracking(int[] nums, int position, List<Integer> list) {
         res.add(new ArrayList<>(list));
-        for(int i=position,size=nums.length;i<size;i++){
+        for (int i = position, size = nums.length; i < size; i++) {
             list.add(nums[i]);
-            backTracking(nums,i+1,list);
-            list.remove(list.size()-1);
+            backTracking(nums, i + 1, list);
+            list.remove(list.size() - 1);
         }
     }
 }

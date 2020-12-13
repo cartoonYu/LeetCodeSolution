@@ -1,7 +1,6 @@
 package org.LeetcodeSolution.suite;
 
-import org.LeetcodeSolution.BackTracking.Solution17Test;
-import org.LeetcodeSolution.BackTracking.Solution39Test;
+import org.LeetcodeSolution.BackTracking.*;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
@@ -11,6 +10,7 @@ import org.junit.runners.Suite;
  * @date 2020/12/3 14:09
  */
 @RunWith(Suite.class)
-@Suite.SuiteClasses({Solution17Test.class, Solution39Test.class})
+@Suite.SuiteClasses({Solution17Test.class, Solution39Test.class,
+        Solution40Test.class, Solution46Test.class, Solution78Test.class})
 public class BackTrackingSuiteTest {
 }

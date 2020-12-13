@@ -46,31 +46,31 @@ public class Solution40 {
      * @return
      */
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        if(candidates==null||candidates.length==0||target==0){
+        if (candidates == null || candidates.length == 0 || target == 0) {
             return Collections.emptyList();
         }
         Arrays.sort(candidates);
-        res=new LinkedList<>();
-        backTracking(candidates,0,target,new ArrayList<>(),candidates.length);
+        res = new LinkedList<>();
+        backTracking(candidates, 0, target, new ArrayList<>(), candidates.length);
         return res;
     }
 
     private List<List<Integer>> res;
 
-    private void backTracking(int[] nums,int cur,int n,List<Integer> list,int length){
-        if(n<0){
+    private void backTracking(int[] nums, int cur, int n, List<Integer> list, int length) {
+        if (n < 0) {
             return;
         }
-        if(n==0){
+        if (n == 0) {
             res.add(new ArrayList<>(list));
         }
-        for(int i=cur;i<length;i++){
+        for (int i = cur; i < length; i++) {
             list.add(nums[i]);
-            n-=nums[i];
-            backTracking(nums,i+1,n,list,length);
-            n+=nums[i];
-            list.remove(list.size()-1);
-            while(i!=length-1&&nums[i]==nums[i+1]){
+            n -= nums[i];
+            backTracking(nums, i + 1, n, list, length);
+            n += nums[i];
+            list.remove(list.size() - 1);
+            while (i != length - 1 && nums[i] == nums[i + 1]) {
                 i++;
             }
         }
