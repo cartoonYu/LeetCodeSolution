@@ -60,24 +60,24 @@ public class Solution90 {
      * @return
      */
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        if(nums==null||nums.length==0){
+        if (nums == null || nums.length == 0) {
             return Collections.emptyList();
         }
-        res=new ArrayList<>();
+        res = new ArrayList<>();
         Arrays.sort(nums);
-        backTracking(nums,0,new ArrayList<>());
+        backTracking(nums, 0, new ArrayList<>());
         return res;
     }
 
     private List<List<Integer>> res;
 
-    private void backTracking(int[] nums,int index,List<Integer> list){
+    private void backTracking(int[] nums, int index, List<Integer> list) {
         res.add(new ArrayList<>(list));
-        for(int i=index,length=nums.length;i<length;i++){
+        for (int i = index, length = nums.length; i < length; i++) {
             list.add(nums[i]);
-            backTracking(nums,i+1,list);
-            list.remove(list.size()-1);
-            while(i+1<nums.length&&nums[i]==nums[i+1]){
+            backTracking(nums, i + 1, list);
+            list.remove(list.size() - 1);
+            while (i + 1 < nums.length && nums[i] == nums[i + 1]) {
                 i++;
             }
         }

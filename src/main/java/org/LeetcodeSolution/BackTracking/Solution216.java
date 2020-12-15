@@ -48,32 +48,32 @@ public class Solution216 {
      * @return
      */
     public List<List<Integer>> combinationSum3(int k, int n) {
-        if(k==0||n==0){
+        if (k == 0 || n == 0) {
             return Collections.emptyList();
         }
-        res=new LinkedList<>();
-        backTracking(1,k,n,new ArrayList<>());
+        res = new LinkedList<>();
+        backTracking(1, k, n, new ArrayList<>());
         return res;
     }
 
     private List<List<Integer>> res;
 
-    private void backTracking(int cur,int k,int n,List<Integer> list){
-        if(n<0){
+    private void backTracking(int cur, int k, int n, List<Integer> list) {
+        if (n < 0) {
             return;
         }
-        if(n==0){
-            if(list.size()==k){
+        if (n == 0) {
+            if (list.size() == k) {
                 res.add(new LinkedList<>(list));
             }
             return;
         }
-        for(int i=cur;i<10;i++){
+        for (int i = cur; i < 10; i++) {
             list.add(i);
-            n-=i;
-            backTracking(i+1,k,n,list);
-            list.remove(list.size()-1);
-            n+=i;
+            n -= i;
+            backTracking(i + 1, k, n, list);
+            list.remove(list.size() - 1);
+            n += i;
         }
     }
 }
