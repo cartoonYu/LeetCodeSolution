@@ -46,38 +46,36 @@ public class Solution34 {
      * @return
      */
     public int[] searchRange(int[] nums, int target) {
-        int[] res=new int[]{-1,-1};
-        if(nums.length==0){
+        int[] res = new int[]{-1, -1};
+        if (nums.length == 0) {
             return res;
         }
-        if(target<nums[0]||target>nums[nums.length-1]){
+        if (target < nums[0] || target > nums[nums.length - 1]) {
             return res;
         }
-        int i=0,j=nums.length-1;
-        while(i<=j){
-            int mid=i+((j-i)>>1);
-            if(nums[mid]>=target){
-                j=mid-1;
-            }
-            else{
-                i=mid+1;
+        int i = 0, j = nums.length - 1;
+        while (i <= j) {
+            int mid = i + ((j - i) >> 1);
+            if (nums[mid] >= target) {
+                j = mid - 1;
+            } else {
+                i = mid + 1;
             }
         }
-        if(nums[i]!=target){
+        if (nums[i] != target) {
             return res;
         }
-        res[0]=i;
-        j=nums.length-1;
-        while(i<=j){
-            int mid=i+((j-i)>>1);
-            if(nums[mid]>target){
-                j=mid-1;
-            }
-            else{
-                i=mid+1;
+        res[0] = i;
+        j = nums.length - 1;
+        while (i <= j) {
+            int mid = i + ((j - i) >> 1);
+            if (nums[mid] > target) {
+                j = mid - 1;
+            } else {
+                i = mid + 1;
             }
         }
-        res[1]=j;
+        res[1] = j;
         return res;
     }
 }

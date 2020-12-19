@@ -43,15 +43,14 @@ public class Solution278 {
      * @return
      */
     public int firstBadVersion(int n) {
-        int i=1;
-        int j=n;
-        while(i<j){
-            int mid=i+((j-i)>>1);
-            if(isBadVersion(mid)){
-                j=mid;
-            }
-            else{
-                i=mid+1;
+        int i = 1;
+        int j = n;
+        while (i < j) {
+            int mid = i + ((j - i) >> 1);
+            if (isBadVersion(mid)) {
+                j = mid;
+            } else {
+                i = mid + 1;
             }
         }
         return i;
@@ -62,7 +61,7 @@ public class Solution278 {
      * @param mid
      * @return
      */
-    private boolean isBadVersion(int mid){
-        return true;
+    private boolean isBadVersion(int mid) {
+        return mid == 5 || mid == 4;
     }
 }

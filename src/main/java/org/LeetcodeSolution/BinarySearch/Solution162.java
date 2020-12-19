@@ -44,17 +44,16 @@ public class Solution162 {
      * @return
      */
     public int findPeakElement(int[] nums) {
-        if(nums==null||nums.length==0){
+        if (nums == null || nums.length == 0) {
             return 0;
         }
-        int i=0,j=nums.length-1;
-        while(i<j){
-            int mid=i+((j-i)>>1);
-            if(nums[mid]>nums[mid+1]){
-                j=mid;
-            }
-            else{
-                i=mid+1;
+        int i = 0, j = nums.length - 1;
+        while (i < j) {
+            int mid = i + ((j - i) >> 1);
+            if (nums[mid] > nums[mid + 1]) {
+                j = mid;
+            } else {
+                i = mid + 1;
             }
         }
         return i;
@@ -96,45 +95,43 @@ public class Solution162 {
      * @return
      */
     public int findPeakElementByTraditionalSearch(int[] nums) {
-        if(nums==null||nums.length==0){
+        if (nums == null || nums.length == 0) {
             return 0;
         }
-        if(nums.length<2){
+        if (nums.length < 2) {
             return 0;
         }
-        if(nums.length<3){
-            return nums[0]>nums[1]?0:1;
+        if (nums.length < 3) {
+            return nums[0] > nums[1] ? 0 : 1;
         }
-        binarySearch(nums,0,nums.length-1);
+        binarySearch(nums, 0, nums.length - 1);
         return index;
     }
 
-    private void binarySearch(int[] nums,int i,int j){
-        if(i>j){
+    private void binarySearch(int[] nums, int i, int j) {
+        if (i > j) {
             return;
         }
-        int mid=i+((j-i)>>1);
-        if(mid>0&&mid<nums.length-1){
-            if(nums[mid]>nums[mid-1]&&nums[mid]>nums[mid+1]){
-                index=mid;
+        int mid = i + ((j - i) >> 1);
+        if (mid > 0 && mid < nums.length - 1) {
+            if (nums[mid] > nums[mid - 1] && nums[mid] > nums[mid + 1]) {
+                index = mid;
                 return;
             }
-        }
-        else{
-            if(mid==0){
-                if(nums[mid]>nums[mid+1]){
-                    index=mid;
+        } else {
+            if (mid == 0) {
+                if (nums[mid] > nums[mid + 1]) {
+                    index = mid;
                     return;
                 }
-            }
-            else{
-                if(nums[mid]>nums[mid-1]){
-                    index=mid;
+            } else {
+                if (nums[mid] > nums[mid - 1]) {
+                    index = mid;
                     return;
                 }
             }
         }
-        binarySearch(nums,i,mid-1);
-        binarySearch(nums,mid+1,j);
+        binarySearch(nums, i, mid - 1);
+        binarySearch(nums, mid + 1, j);
     }
 }

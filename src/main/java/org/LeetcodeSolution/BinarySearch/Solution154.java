@@ -43,22 +43,20 @@ public class Solution154 {
      * @return
      */
     public int findMin(int[] nums) {
-        if(nums==null||nums.length==0){
+        if (nums == null || nums.length == 0) {
             return 0;
         }
-        int left=0;
-        int right=nums.length-1;
+        int left = 0;
+        int right = nums.length - 1;
         int mid;
-        while(left<right){
-            mid=left+((right-left)>>1);
-            if(nums[mid]==nums[right]){
+        while (left < right) {
+            mid = left + ((right - left) >> 1);
+            if (nums[mid] == nums[right]) {
                 right--;
-            }
-            else if(nums[mid]<nums[right]){
-                right=mid;
-            }
-            else{
-                left=mid+1;
+            } else if (nums[mid] < nums[right]) {
+                right = mid;
+            } else {
+                left = mid + 1;
             }
         }
         return nums[left];

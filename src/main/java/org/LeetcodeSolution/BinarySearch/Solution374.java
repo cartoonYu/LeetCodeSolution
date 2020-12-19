@@ -49,18 +49,17 @@ public class Solution374 {
      * @return
      */
     public int guessNumber(int n) {
-        int i=1;
-        int j=n;
-        while(i<=j){
-            int mid=i+((j-i)>>1);
-            if(guess(mid)==0){
+        int i = 1;
+        int j = n;
+        while (i <= j) {
+            int mid = i + ((j - i) >> 1);
+            if (guess(mid) == 0) {
                 return mid;
             }
-            if(guess(mid)==1){
-                i=mid+1;
-            }
-            else{
-                j=mid-1;
+            if (guess(mid) == 1) {
+                i = mid + 1;
+            } else {
+                j = mid - 1;
             }
         }
         return -1;
@@ -71,7 +70,7 @@ public class Solution374 {
      * @param num
      * @return
      */
-    private int guess(int num){
+    private int guess(int num) {
         return 0;
     }
 }

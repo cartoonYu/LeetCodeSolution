@@ -45,24 +45,22 @@ public class Solution74 {
      * @return
      */
     public boolean searchMatrix(int[][] matrix, int target) {
-        if(matrix==null||matrix.length==0){
+        if (matrix == null || matrix.length == 0) {
             return false;
         }
-        int row=matrix.length,column=matrix[0].length;
-        int left=0,right=row*column-1;
-        int midx,midy;
-        while(left<=right){
-            int mid=left+((right-left)>>1);
-            midx=mid/column;
-            midy=mid%column;
-            if(matrix[midx][midy]==target){
+        int row = matrix.length, column = matrix[0].length;
+        int left = 0, right = row * column - 1;
+        int midx, midy;
+        while (left <= right) {
+            int mid = left + ((right - left) >> 1);
+            midx = mid / column;
+            midy = mid % column;
+            if (matrix[midx][midy] == target) {
                 return true;
-            }
-            else if(matrix[midx][midy]<target){
-                left=mid+1;
-            }
-            else{
-                right=mid-1;
+            } else if (matrix[midx][midy] < target) {
+                left = mid + 1;
+            } else {
+                right = mid - 1;
             }
         }
         return false;
