@@ -11,6 +11,6 @@ import org.junit.runners.Suite;
  */
 @RunWith(Suite.class)
 @Suite.SuiteClasses({Solution17Test.class, Solution39Test.class, Solution40Test.class, Solution46Test.class,
-        Solution78Test.class, Solution90Test.class, Solution216Test.class})
+        Solution78Test.class, Solution90Test.class, Solution216Test.class, Solution540Test.class})
 public class BackTrackingSuiteTest {
 }

@@ -36,45 +36,43 @@ public class Solution540 {
      *     3.2 0ms and 37.4MB memory in LeetCode
      * 4.Q&A
      */
-    private int num=-1;
+    private int num = -1;
 
     public int singleNonDuplicate(int[] nums) {
-        if(nums.length==0){
+        if (nums.length == 0) {
             return 0;
         }
-        if(nums.length==1){
+        if (nums.length == 1) {
             return nums[0];
         }
-        binarySearch(nums,0,nums.length-1);
+        binarySearch(nums, 0, nums.length - 1);
         return num;
     }
 
-    private void binarySearch(int[] nums,int i,int j){
-        if(i<0||j>nums.length-1||i>j){
+    private void binarySearch(int[] nums, int i, int j) {
+        if (i < 0 || j > nums.length - 1 || i > j) {
             return;
         }
-        int mid=i+((j-i)>>1);
-        if(mid==0){
-            if(nums[mid]!=nums[mid+1]){
-                num=nums[mid];
+        int mid = i + ((j - i) >> 1);
+        if (mid == 0) {
+            if (nums[mid] != nums[mid + 1]) {
+                num = nums[mid];
                 return;
             }
-        }
-        else{
-            if(mid==nums.length-1){
-                if(nums[mid]!=nums[mid-1]){
-                    num=nums[mid];
+        } else {
+            if (mid == nums.length - 1) {
+                if (nums[mid] != nums[mid - 1]) {
+                    num = nums[mid];
                     return;
                 }
-            }
-            else{
-                if(nums[mid]!=nums[mid-1]&&nums[mid]!=nums[mid+1]){
-                    num=nums[mid];
+            } else {
+                if (nums[mid] != nums[mid - 1] && nums[mid] != nums[mid + 1]) {
+                    num = nums[mid];
                     return;
                 }
             }
         }
-        binarySearch(nums,mid+1,j);
-        binarySearch(nums,i,mid-1);
+        binarySearch(nums, mid + 1, j);
+        binarySearch(nums, i, mid - 1);
     }
 }
