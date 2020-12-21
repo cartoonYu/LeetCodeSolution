@@ -1,6 +1,5 @@
-package org.LeetcodeSolution.BackTracking;
+package org.LeetcodeSolution.BinarySearch;
 
-import org.LeetcodeSolution.BinarySearch.Solution540;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
@@ -38,7 +37,7 @@ public class Solution540Test {
     public void testSingleNonDuplicate(){
         int res1 = solution.singleNonDuplicate(source1);
         int res2 = solution.singleNonDuplicate(source2);
-        log.info("solution 216 test, calculate data1: {}, expect result1: {}, " +
+        log.info("solution 540 test, calculate data1: {}, expect result1: {}, " +
                         "calculate data2: {}, expect result2: {}",
                 res1, expect1, res2, expect2);
         Assert.assertEquals(expect1, res1);

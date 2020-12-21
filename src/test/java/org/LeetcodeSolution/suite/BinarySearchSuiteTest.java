@@ -10,6 +10,6 @@ import org.junit.runners.Suite;
  */
 @RunWith(Suite.class)
 @Suite.SuiteClasses({Solution33Test.class, Solution34Test.class, Solution153Test.class, Solution154Test.class,
-        Solution162Test.class, Solution278Test.class, Solution744Test.class})
+        Solution162Test.class, Solution278Test.class, Solution540Test.class, Solution744Test.class})
 public class BinarySearchSuiteTest {
 }

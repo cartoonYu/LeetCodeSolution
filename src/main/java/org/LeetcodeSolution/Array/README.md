@@ -117,3 +117,5 @@ This subpackage contains all of the problems I've solved so far with respect to 
 [1491.Average Salary Excluding the Minimum and Maximum Salary](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1491.java)
 
 [1512.Number of Good Pairs](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1512.java)
+
+[1672.Richest Customer Wealth](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1672.java)

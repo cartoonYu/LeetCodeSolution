@@ -117,3 +117,5 @@
 [1491.去掉最低工资和最高工资后的工资平均值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1491.java)
 
 [1512.好数对的数目](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1512.java)
+
+[1672.最富有客户的资产总量](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1672.java)
