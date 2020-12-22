@@ -47,20 +47,18 @@ public class Solution744 {
      * @return
      */
     public char nextGreatestLetterByBinarySearch(char[] letters, char target) {
-        char res=letters[0];
-        int i=1,j=letters.length-1,mid;
-        while(i<=j){
-            mid=i+((j-i)>>1);
-            if(letters[mid]<=target){
-                i=mid+1;
-            }
-            else{
-                if(letters[mid-1]<=target){
-                    res=letters[mid];
+        char res = letters[0];
+        int i = 1, j = letters.length - 1, mid;
+        while (i <= j) {
+            mid = i + ((j - i) >> 1);
+            if (letters[mid] <= target) {
+                i = mid + 1;
+            } else {
+                if (letters[mid - 1] <= target) {
+                    res = letters[mid];
                     break;
-                }
-                else{
-                    j=mid-1;
+                } else {
+                    j = mid - 1;
                 }
             }
         }
@@ -99,10 +97,10 @@ public class Solution744 {
      * @return
      */
     public char nextGreatestLetterByCirculate(char[] letters, char target) {
-        char res=letters[0];
-        for(char temp:letters){
-            if(target<temp){
-                res=temp;
+        char res = letters[0];
+        for (char temp : letters) {
+            if (target < temp) {
+                res = temp;
                 break;
             }
         }
