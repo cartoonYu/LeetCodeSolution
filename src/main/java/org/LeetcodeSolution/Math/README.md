@@ -61,3 +61,5 @@ This subpackage contains all of the problems I've solved so far with respect to 
 [1018.Binary Prefix Divisible By 5](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Math/Solution1018.java)
 
 [1232.Check If It Is a Straight Line](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Math/Solution1232.java)
+
+[1486.XOR Operation in an Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Math/Solution1486.java)
