@@ -44,27 +44,27 @@ public class Solution1615 {
      */
     public int maximalNetworkRank(int n, int[][] roads) {
         int[][] source = new int[n][n];
-        for(int[] road : roads){
+        for (int[] road : roads) {
             source[road[0]][road[1]] = 1;
             source[road[1]][road[0]] = 1;
         }
         int[] roadCnt = new int[n];
         int roadCntTemp;
-        for(int i = 0; i < n; i++){
+        for (int i = 0; i < n; i++) {
             roadCntTemp = 0;
-            for(int j = 0; j < n; j++){
+            for (int j = 0; j < n; j++) {
                 roadCntTemp += source[i][j];
             }
             roadCnt[i] = roadCntTemp;
         }
         int res = 0, temp;
-        for(int i = 0; i < n; i++){
-            for(int j = i + 1; j < n; j++){
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
                 temp = roadCnt[i] + roadCnt[j];
-                if(source[i][j] == 1 && source[j][i] == 1){
+                if (source[i][j] == 1 && source[j][i] == 1) {
                     temp -= 1;
                 }
-                if(temp > res){
+                if (temp > res) {
                     res = temp;
                 }
             }
