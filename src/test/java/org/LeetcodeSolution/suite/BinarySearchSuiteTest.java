@@ -9,7 +9,7 @@ import org.junit.runners.Suite;
  * @date 2020/12/20
  */
 @RunWith(Suite.class)
-@Suite.SuiteClasses({Solution33Test.class, Solution34Test.class, Solution153Test.class, Solution154Test.class,
-        Solution162Test.class, Solution278Test.class, Solution540Test.class, Solution744Test.class})
+@Suite.SuiteClasses({Solution33Test.class, Solution34Test.class, Solution74Test.class, Solution153Test.class,
+        Solution154Test.class, Solution162Test.class, Solution278Test.class, Solution540Test.class, Solution744Test.class})
 public class BinarySearchSuiteTest {
 }

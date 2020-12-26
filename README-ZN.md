@@ -272,9 +272,11 @@
 
 [1528.重新排列字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1528.java)
 
-[1592. 重新排列单词间的空格](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1592.java)
+[1592.重新排列单词间的空格](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1592.java)
 
-[1614. 括号的最大嵌套深度](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1614.java)
+[1614.括号的最大嵌套深度](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1614.java)
+
+[1684.统计一致字符串的数目](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1684.java)
 
 ### [栈](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Stack)
 [150.Evaluate Reverse Polish Notation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Stack/Solution150.java)

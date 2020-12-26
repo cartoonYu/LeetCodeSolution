@@ -1,5 +1,6 @@
 package org.LeetcodeSolution.suite;
 
+import org.LeetcodeSolution.String.Solution1684Test;
 import org.LeetcodeSolution.String.Solution748Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
@@ -10,6 +11,6 @@ import org.junit.runners.Suite;
  * @date 2020/11/27 20:19
  */
 @RunWith(Suite.class)
-@Suite.SuiteClasses({Solution748Test.class})
+@Suite.SuiteClasses({Solution748Test.class, Solution1684Test.class})
 public class StringSuiteTest {
 }

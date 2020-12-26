@@ -58,8 +58,10 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [1507.Reformat Date](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1507.java)
 
-[1528. Shuffle String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1528.java)
+[1528.Shuffle String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1528.java)
 
-[1592. Rearrange Spaces Between Words](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1592.java)
+[1592.Rearrange Spaces Between Words](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1592.java)
 
-[1614. Maximum Nesting Depth of the Parentheses](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1614.java)
+[1614.Maximum Nesting Depth of the Parentheses](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1614.java)
+
+[1684.Count the Number of Consistent Strings](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1684.java)

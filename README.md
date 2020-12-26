@@ -269,9 +269,11 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [1528. Shuffle String](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1528.java)
 
-[1592. Rearrange Spaces Between Words](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1592.java)
+[1592.Rearrange Spaces Between Words](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1592.java)
 
-[1614. Maximum Nesting Depth of the Parentheses](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1614.java)
+[1614.Maximum Nesting Depth of the Parentheses](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1614.java)
+
+[1684.Count the Number of Consistent Strings](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1684.java)
 
 ### [Stack](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Stack)
 [150.Evaluate Reverse Polish Notation](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Stack/Solution150.java)
