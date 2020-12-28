@@ -97,6 +97,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [283.Move Zeroes](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution283.java)
 
+[347.Top K Frequent Elements](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution347.java)
+
 [349.Intersection of Two Arrays](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution349.java)
 
 [350.Intersection of Two Arrays II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution350.java)

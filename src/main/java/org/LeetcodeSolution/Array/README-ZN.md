@@ -32,6 +32,8 @@
 
 [283.移动零](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution283.java)
 
+[347.前 K 个高频元素](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution347.java)
+
 [349.两个数组的交集](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution349.java)
 
 [350.两个数组的交集 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution350.java)
