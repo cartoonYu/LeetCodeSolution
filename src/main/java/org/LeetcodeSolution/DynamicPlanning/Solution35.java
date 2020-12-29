@@ -63,6 +63,16 @@ public class Solution35 {
     }
 
     /**
+     * 1.关于复杂度
+     *   1.1 时间复杂度为 O(n)
+     *   1.2 空间负责度为 O(1)
+     * 2.我的解题思路
+     *   2.1 循环遍历数组，对比 target 与遍历元素的大小
+     *   2.2 这个解法很简单，但是不是最快的
+     * 3.提交记录
+     *   3.1 力扣中耗时 2ms,消耗 39.8MB 内存
+     *   3.2 leetcode 中耗时 2ms,消耗 39.8MB 内存
+     * 4.Q&A
      *
      * 1.About Complexity
      *     1.1 Time Complexity is O(n)
