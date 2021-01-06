@@ -489,5 +489,7 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 [1357.Apply Discount Every n Orders](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Design/Solution1357.java)
 
 ### [Chart](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Chart)
+[997.Find the Town Judge](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Chart/Solution997.java)
+
 [1615.Maximal Network Rank](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Chart/Solution1615.java)
 

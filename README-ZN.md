@@ -492,4 +492,6 @@
 [1357.每隔 n 个顾客打折](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Design/Solution1357.java)
 
 ### [图](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Chart)
+[997.找到小镇的法官](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Chart/Solution997.java)
+
 [1615.最大网络秩](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Chart/Solution1615.java)
