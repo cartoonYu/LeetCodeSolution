@@ -55,33 +55,33 @@ public class Solution63 {
      * @return
      */
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
-        if(obstacleGrid==null||obstacleGrid.length==0){
+        if (obstacleGrid == null || obstacleGrid.length == 0) {
             return 0;
         }
-        int length=obstacleGrid.length;
-        int[][] temp=new int[length][];
-        for(int i=0;i<length;i++){
-            temp[i]=new int[obstacleGrid[i].length];
-            for(int j=0,size=obstacleGrid[i].length;j<size;j++){
-                if(obstacleGrid[i][j]==1){
-                    temp[i][j]=0;
+        int length = obstacleGrid.length;
+        int[][] temp = new int[length][];
+        for (int i = 0; i < length; i++) {
+            temp[i] = new int[obstacleGrid[i].length];
+            for (int j = 0, size = obstacleGrid[i].length; j < size; j++) {
+                if (obstacleGrid[i][j] == 1) {
+                    temp[i][j] = 0;
                     continue;
                 }
-                if(i==0&&j==0){
-                    temp[i][j]=1;
+                if (i == 0 && j == 0) {
+                    temp[i][j] = 1;
                     continue;
                 }
-                if(i==0){
-                    temp[i][j]=temp[i][j-1];
+                if (i == 0) {
+                    temp[i][j] = temp[i][j - 1];
                     continue;
                 }
-                if(j==0){
-                    temp[i][j]=temp[i-1][j];
+                if (j == 0) {
+                    temp[i][j] = temp[i - 1][j];
                     continue;
                 }
-                temp[i][j]=temp[i-1][j]+temp[i][j-1];
+                temp[i][j] = temp[i - 1][j] + temp[i][j - 1];
             }
         }
-        return temp[obstacleGrid.length-1][obstacleGrid[obstacleGrid.length-1].length-1];
+        return temp[obstacleGrid.length - 1][obstacleGrid[obstacleGrid.length - 1].length - 1];
     }
 }
