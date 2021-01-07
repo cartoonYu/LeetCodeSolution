@@ -47,23 +47,23 @@ public class Solution119 {
      * @return
      */
     public List<Integer> getRow(int rowIndex) {
-        List<Integer> result=new ArrayList<>();
-        nums=new int[rowIndex+1][rowIndex+1];
-        int column=0;
-        while(column<=rowIndex){
-            result.add(getNum(rowIndex,column++,rowIndex));
+        List<Integer> result = new ArrayList<>();
+        nums = new int[rowIndex + 1][rowIndex + 1];
+        int column = 0;
+        while (column <= rowIndex) {
+            result.add(getNum(rowIndex, column++, rowIndex));
         }
         return result;
     }
 
-    private int getNum(int row,int column,int flag){
-        if(row==0||column==0||column==flag){
-            nums[row][column]=1;
+    private int getNum(int row, int column, int flag) {
+        if (row == 0 || column == 0 || column == flag) {
+            nums[row][column] = 1;
         }
-        if(nums[row][column]!=0){
+        if (nums[row][column] != 0) {
             return nums[row][column];
         }
-        nums[row][column]=getNum(row-1,column,flag-1)+getNum(row-1,column-1,flag-1);
+        nums[row][column] = getNum(row - 1, column, flag - 1) + getNum(row - 1, column - 1, flag - 1);
         return nums[row][column];
     }
 }

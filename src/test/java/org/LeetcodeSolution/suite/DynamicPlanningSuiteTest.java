@@ -1,5 +1,6 @@
 package org.LeetcodeSolution.suite;
 
+import org.LeetcodeSolution.DynamicPlanning.Solution119Test;
 import org.LeetcodeSolution.DynamicPlanning.Solution35Test;
 import org.LeetcodeSolution.DynamicPlanning.Solution62Test;
 import org.LeetcodeSolution.DynamicPlanning.Solution63Test;
@@ -11,6 +12,6 @@ import org.junit.runners.Suite;
  * @date 2020/12/29
  */
 @RunWith(Suite.class)
-@Suite.SuiteClasses({Solution35Test.class, Solution62Test.class, Solution63Test.class})
+@Suite.SuiteClasses({Solution35Test.class, Solution62Test.class, Solution63Test.class, Solution119Test.class})
 public class DynamicPlanningSuiteTest {
 }
