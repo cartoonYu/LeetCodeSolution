@@ -16,7 +16,7 @@ import org.slf4j.LoggerFactory;
 */ 
 public class Solution63Test {
     
-    private static Logger log = LoggerFactory.getLogger(Solution63.class);
+    private static Logger log = LoggerFactory.getLogger(Solution63Test.class);
     
     private Solution63 solution;
 

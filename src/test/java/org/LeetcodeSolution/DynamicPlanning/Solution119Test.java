@@ -21,7 +21,7 @@ import java.util.List;
 */ 
 public class Solution119Test {
     
-    private static Logger log = LoggerFactory.getLogger(Solution119.class);
+    private static Logger log = LoggerFactory.getLogger(Solution119Test.class);
     
     private Solution119 solution;
 
