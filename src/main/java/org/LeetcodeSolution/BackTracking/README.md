@@ -17,3 +17,5 @@ This subpackage contains all of the problems I've solved so far with respect to 
 [90.Subsets II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/BackTracking/Solution90.java)
 
 [216.Combination Sum III](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/BackTracking/Solution216.java)
+
+[1137.N-th Tribonacci Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/BackTracking/Solution1137.java)

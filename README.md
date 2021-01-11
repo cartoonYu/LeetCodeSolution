@@ -465,6 +465,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [216.Combination Sum III](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/BackTracking/Solution216.java)
 
+[1137.N-th Tribonacci Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/BackTracking/Solution1137.java)
+
 ### [Branch And Bound](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/BranchAndBound)
 [77.Combinations](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/BranchAndBound/Solution77.java)
 
