@@ -47,26 +47,26 @@ public class Solution213 {
      * @return
      */
     public int rob(int[] nums) {
-        if(nums==null||nums.length==0){
+        if (nums == null || nums.length == 0) {
             return 0;
         }
-        if(nums.length==1){
+        if (nums.length == 1) {
             return nums[0];
         }
-        int res=0,length=nums.length;
-        int[] temp=new int[length];
-        temp[1]=nums[1];
-        res=temp[1];
-        for(int i=2;i<length;i++){
-            temp[i]=Math.max(temp[i-1],temp[i-2]+nums[i]);
-            res=Math.max(temp[i],res);
+        int res = 0, length = nums.length;
+        int[] temp = new int[length];
+        temp[1] = nums[1];
+        res = temp[1];
+        for (int i = 2; i < length; i++) {
+            temp[i] = Math.max(temp[i - 1], temp[i - 2] + nums[i]);
+            res = Math.max(temp[i], res);
         }
-        temp[length-1]=0;
-        temp[length-2]=nums[length-2];
-        res=Math.max(res,temp[length-2]);
-        for(int i=length-3;i>=0;i--){
-            temp[i]=Math.max(temp[i+1],temp[i+2]+nums[i]);
-            res=Math.max(temp[i],res);
+        temp[length - 1] = 0;
+        temp[length - 2] = nums[length - 2];
+        res = Math.max(res, temp[length - 2]);
+        for (int i = length - 3; i >= 0; i--) {
+            temp[i] = Math.max(temp[i + 1], temp[i + 2] + nums[i]);
+            res = Math.max(temp[i], res);
         }
         return res;
     }
