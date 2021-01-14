@@ -52,14 +52,14 @@ public class Solution279 {
      * @return
      */
     public int numSquares(int n) {
-        int[] temp=new int[n+1];
+        int[] temp = new int[n + 1];
         int min;
-        for(int i=1;i<=n;i++){
-            min=Integer.MAX_VALUE;
-            for(int j=1;j*j<=i;j++){
-                min=Math.min(min,temp[i-j*j]);
+        for (int i = 1; i <= n; i++) {
+            min = Integer.MAX_VALUE;
+            for (int j = 1; j * j <= i; j++) {
+                min = Math.min(min, temp[i - j * j]);
             }
-            temp[i]=min+1;
+            temp[i] = min + 1;
         }
         return temp[n];
     }

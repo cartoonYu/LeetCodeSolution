@@ -10,6 +10,6 @@ import org.junit.runners.Suite;
  */
 @RunWith(Suite.class)
 @Suite.SuiteClasses({Solution35Test.class, Solution62Test.class, Solution63Test.class, Solution119Test.class,
-        Solution121Test.class, Solution213Test.class})
+        Solution121Test.class, Solution213Test.class, Solution221Test.class, Solution279Test.class})
 public class DynamicPlanningSuiteTest {
 }
