@@ -45,24 +45,23 @@ public class Solution300 {
      * @return
      */
     public int lengthOfLISByBinarySearch(int[] nums) {
-        if(nums==null||nums.length==0){
+        if (nums == null || nums.length == 0) {
             return 0;
         }
-        int[] dp=new int[nums.length];
-        int res=0;
-        for(int i=0,length=nums.length;i<length;i++){
-            int low=0,high=res;
-            while(low<high){
-                int mid=low+((high-low)>>1);
-                if(dp[mid]<nums[i]){
-                    low=mid+1;
-                }
-                else{
-                    high=mid;
+        int[] dp = new int[nums.length];
+        int res = 0;
+        for (int i = 0, length = nums.length; i < length; i++) {
+            int low = 0, high = res;
+            while (low < high) {
+                int mid = low + ((high - low) >> 1);
+                if (dp[mid] < nums[i]) {
+                    low = mid + 1;
+                } else {
+                    high = mid;
                 }
             }
-            dp[low]=nums[i];
-            if(low==res){
+            dp[low] = nums[i];
+            if (low == res) {
                 res++;
             }
         }
@@ -103,20 +102,20 @@ public class Solution300 {
      * @return
      */
     public int lengthOfLIS(int[] nums) {
-        if(nums==null||nums.length==0){
+        if (nums == null || nums.length == 0) {
             return 0;
         }
-        int[] dp=new int[nums.length];
-        dp[0]=1;
-        int res=dp[0];
-        for(int i=1,length=nums.length;i<length;i++){
-            dp[i]=1;
-            for(int j=0;j<i;j++){
-                if(nums[j]<nums[i]){
-                    dp[i]=Math.max(dp[i],dp[j]+1);
+        int[] dp = new int[nums.length];
+        dp[0] = 1;
+        int res = dp[0];
+        for (int i = 1, length = nums.length; i < length; i++) {
+            dp[i] = 1;
+            for (int j = 0; j < i; j++) {
+                if (nums[j] < nums[i]) {
+                    dp[i] = Math.max(dp[i], dp[j] + 1);
                 }
             }
-            res=dp[i]>res?dp[i]:res;
+            res = dp[i] > res ? dp[i] : res;
         }
         return res;
     }

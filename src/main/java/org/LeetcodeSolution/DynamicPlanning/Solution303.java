@@ -18,18 +18,18 @@ public class Solution303 {
     private int[] sum;
 
     public Solution303(int[] nums) {
-        this.nums=nums;
+        this.nums = nums;
         initSum();
     }
 
-    private void initSum(){
-        if(nums.length==0){
+    private void initSum() {
+        if (nums.length == 0) {
             return;
         }
-        sum=new int[nums.length];
-        sum[0]=nums[0];
-        for(int i=1,length=nums.length;i<length;i++){
-            sum[i]=sum[i-1]+nums[i];
+        sum = new int[nums.length];
+        sum[0] = nums[0];
+        for (int i = 1, length = nums.length; i < length; i++) {
+            sum[i] = sum[i - 1] + nums[i];
         }
     }
 
@@ -61,12 +61,12 @@ public class Solution303 {
      * @return
      */
     public int sumRange(int i, int j) {
-        if(i>=j){
+        if (i >= j) {
             return nums[i];
         }
-        if(i==0){
+        if (i == 0) {
             return sum[j];
         }
-        return sum[j]-sum[i-1];
+        return sum[j] - sum[i - 1];
     }
 }
