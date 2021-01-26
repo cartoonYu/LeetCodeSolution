@@ -43,21 +43,20 @@ public class Solution309 {
      * @return
      */
     public int maxProfit(int[] prices) {
-        if(prices==null||prices.length==0){
+        if (prices == null || prices.length == 0) {
             return 0;
         }
-        int length=prices.length;
-        int[] profit=new int[length],hold=new int[length];
-        hold[0]=-prices[0];
-        for(int i=1;i<length;i++){
-            if(i==1){
-                hold[i]=Math.max(hold[i-1],-prices[i]);
+        int length = prices.length;
+        int[] profit = new int[length], hold = new int[length];
+        hold[0] = -prices[0];
+        for (int i = 1; i < length; i++) {
+            if (i == 1) {
+                hold[i] = Math.max(hold[i - 1], -prices[i]);
+            } else {
+                hold[i] = Math.max(hold[i - 1], profit[i - 2] - prices[i]);
             }
-            else{
-                hold[i]=Math.max(hold[i-1],profit[i-2]-prices[i]);
-            }
-            profit[i]=Math.max(profit[i-1],hold[i-1]+prices[i]);
+            profit[i] = Math.max(profit[i - 1], hold[i - 1] + prices[i]);
         }
-        return profit[length-1];
+        return profit[length - 1];
     }
 }
