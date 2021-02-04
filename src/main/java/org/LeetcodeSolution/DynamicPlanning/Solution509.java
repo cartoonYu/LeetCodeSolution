@@ -51,18 +51,18 @@ public class Solution509 {
      * @return
      */
     public int fib(int N) {
-        if(nums[N]!=0){
+        if (nums[N] != 0) {
             return nums[N];
         }
-        if(N==0||N==1){
+        if (N == 0 || N == 1) {
             return N;
         }
-        nums[N]=fib(N-1)+fib(N-2);
+        nums[N] = fib(N - 1) + fib(N - 2);
         return nums[N];
     }
 
-    public Solution509(){
-        nums=new int[31];
+    public Solution509() {
+        nums = new int[31];
     }
 
 }

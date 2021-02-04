@@ -38,11 +38,11 @@ public class Solution392 {
      * @return
      */
     public boolean isSubsequence(String s, String t) {
-        char[] chars=s.toCharArray();
-        int index=-1;
-        for(char temp:chars){
-            index=t.indexOf(temp,index+1);
-            if(index==-1){
+        char[] chars = s.toCharArray();
+        int index = -1;
+        for (char temp : chars) {
+            index = t.indexOf(temp, index + 1);
+            if (index == -1) {
                 return false;
             }
         }
