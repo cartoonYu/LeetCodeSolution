@@ -41,13 +41,13 @@ public class Solution714 {
      * @return
      */
     public int maxProfit(int[] prices, int fee) {
-        if(prices==null|prices.length<2){
+        if (prices == null | prices.length < 2) {
             return 0;
         }
-        int cost=Integer.MIN_VALUE,pro=0;
-        for(int price:prices){
-            cost=Math.max(cost,pro-price-fee);
-            pro=Math.max(pro,price+cost);
+        int cost = Integer.MIN_VALUE, pro = 0;
+        for (int price : prices) {
+            cost = Math.max(cost, pro - price - fee);
+            pro = Math.max(pro, price + cost);
         }
         return pro;
     }

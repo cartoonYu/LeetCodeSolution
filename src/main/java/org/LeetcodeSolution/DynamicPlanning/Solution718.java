@@ -40,22 +40,21 @@ public class Solution718 {
      * @return
      */
     public int findLength(int[] A, int[] B) {
-        if(A==null||B==null||A.length==0||B.length==0){
+        if (A == null || B == null || A.length == 0 || B.length == 0) {
             return 0;
         }
-        int[][] temp=new int[A.length][B.length];
-        int res=Integer.MIN_VALUE;
-        for(int i=0,l1=A.length;i<l1;i++){
-            for(int j=0,l2=B.length;j<l2;j++){
-                if(A[j]==B[i]){
-                    if(i==0||j==0){
-                        temp[i][j]=1;
-                    }
-                    else{
-                        temp[i][j]=temp[i-1][j-1]+1;
+        int[][] temp = new int[A.length][B.length];
+        int res = Integer.MIN_VALUE;
+        for (int i = 0, l1 = A.length; i < l1; i++) {
+            for (int j = 0, l2 = B.length; j < l2; j++) {
+                if (A[j] == B[i]) {
+                    if (i == 0 || j == 0) {
+                        temp[i][j] = 1;
+                    } else {
+                        temp[i][j] = temp[i - 1][j - 1] + 1;
                     }
                 }
-                res=Math.max(temp[i][j],res);
+                res = Math.max(temp[i][j], res);
             }
         }
         return res;
