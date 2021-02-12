@@ -45,19 +45,19 @@ public class Solution746 {
      * @return
      */
     public int minCostClimbingStairs(int[] cost) {
-        if(cost.length==0||cost.length==1){
+        if (cost.length == 0 || cost.length == 1) {
             return 0;
         }
-        if(cost.length==2){
-            return cost[0]<cost[1]?cost[0]:cost[1];
+        if (cost.length == 2) {
+            return cost[0] < cost[1] ? cost[0] : cost[1];
         }
-        int length=cost.length;
-        int[] sum=new int[length];
-        sum[0]=cost[0];
-        sum[1]=Math.min(cost[1]+sum[0],cost[1]);
-        for(int i=2;i<length;i++){
-            sum[i]=cost[i]+Math.min(sum[i-1],sum[i-2]);
+        int length = cost.length;
+        int[] sum = new int[length];
+        sum[0] = cost[0];
+        sum[1] = Math.min(cost[1] + sum[0], cost[1]);
+        for (int i = 2; i < length; i++) {
+            sum[i] = cost[i] + Math.min(sum[i - 1], sum[i - 2]);
         }
-        return Math.min(sum[length-1],sum[length-2]);
+        return Math.min(sum[length - 1], sum[length - 2]);
     }
 }

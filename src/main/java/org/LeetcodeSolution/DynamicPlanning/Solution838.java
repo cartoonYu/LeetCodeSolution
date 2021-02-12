@@ -43,40 +43,40 @@ public class Solution838 {
      * @return
      */
     public String pushDominoes(String dominoes) {
-        if(dominoes==null||dominoes.length()<2){
+        if (dominoes == null || dominoes.length() < 2) {
             return dominoes;
         }
-        char[] chars=dominoes.toCharArray();
-        int[] temp=new int[chars.length];
-        int length=chars.length;
-        for(int i=0;i<length;i++){
-            if(chars[i]=='.'&&i>0&&temp[i-1]>0){
-                temp[i]=temp[i-1]+1;
-            } else if(chars[i]=='L'){
-                temp[i]=-1;
-            } else if(chars[i]=='R'){
-                temp[i]=1;
+        char[] chars = dominoes.toCharArray();
+        int[] temp = new int[chars.length];
+        int length = chars.length;
+        for (int i = 0; i < length; i++) {
+            if (chars[i] == '.' && i > 0 && temp[i - 1] > 0) {
+                temp[i] = temp[i - 1] + 1;
+            } else if (chars[i] == 'L') {
+                temp[i] = -1;
+            } else if (chars[i] == 'R') {
+                temp[i] = 1;
             }
         }
-        for(int i=length-1;i>=0;i--){
-            if(chars[i]=='.'){
-                if(i<length-1&&temp[i+1]<0){
-                    int num=temp[i]+temp[i+1]-1;
-                    if(num>0||temp[i]<=0){
-                        temp[i]=temp[i+1]-1;
-                    } else if(num==0){
-                        temp[i]=0;
+        for (int i = length - 1; i >= 0; i--) {
+            if (chars[i] == '.') {
+                if (i < length - 1 && temp[i + 1] < 0) {
+                    int num = temp[i] + temp[i + 1] - 1;
+                    if (num > 0 || temp[i] <= 0) {
+                        temp[i] = temp[i + 1] - 1;
+                    } else if (num == 0) {
+                        temp[i] = 0;
                     }
                 }
             }
         }
-        for(int i=0;i<length;i++){
-            if(temp[i]==0){
-                chars[i]='.';
-            } else if(temp[i]<0){
-                chars[i]='L';
-            } else{
-                chars[i]='R';
+        for (int i = 0; i < length; i++) {
+            if (temp[i] == 0) {
+                chars[i] = '.';
+            } else if (temp[i] < 0) {
+                chars[i] = 'L';
+            } else {
+                chars[i] = 'R';
             }
         }
         return new String(chars);
