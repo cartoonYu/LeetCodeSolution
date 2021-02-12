@@ -153,6 +153,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [1046.Last Stone Weight](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1046.java)
 
+[1122.Relative Sort Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1122.java)
+
 [1200.Minimum Absolute Difference](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1200.java)
 
 [1207.Unique Number of Occurrences](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1207.java)
@@ -494,4 +496,7 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 [997.Find the Town Judge](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Chart/Solution997.java)
 
 [1615.Maximal Network Rank](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Chart/Solution1615.java)
+
+### [Multithreading](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Multithreading)
+[1114.Print in Order](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Multithreading/Solution1114.java)
 

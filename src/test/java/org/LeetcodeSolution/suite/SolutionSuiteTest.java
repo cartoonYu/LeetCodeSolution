@@ -9,6 +9,7 @@ import org.junit.runners.Suite;
  */
 @RunWith(Suite.class)
 @Suite.SuiteClasses({ArraySuiteTest.class, BackTrackingSuiteTest.class, BinarySearchSuiteTest.class,
-        StringSuiteTest.class, ChartSuiteTest.class, DesignSuiteTest.class, DynamicPlanningSuiteTest.class})
+        StringSuiteTest.class, ChartSuiteTest.class, DesignSuiteTest.class, DynamicPlanningSuiteTest.class,
+        MultithreadingSuiteTest.class})
 public class SolutionSuiteTest {
 }
