@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 
 /** 
 * Solution55 Tester. 
-* @author cartoon.yu
+* @author cartoon
 * @date 02/16/2021
 * @version 1.0 
 */ 

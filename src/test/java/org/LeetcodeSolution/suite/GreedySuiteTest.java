@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
 /**
- * @author cartoon.yu
+ * @author cartoon
  * @date 2021/2/16 19:23
  */
 @RunWith(Suite.class)
