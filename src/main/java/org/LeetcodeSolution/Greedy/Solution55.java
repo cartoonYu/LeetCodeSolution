@@ -47,16 +47,16 @@ public class Solution55 {
      * @return
      */
     public boolean canJumpByInvertedOrder(int[] nums) {
-        if(nums==null||nums.length==0){
+        if (nums == null || nums.length == 0) {
             return true;
         }
-        int index=nums.length-1;
-        for(int i=nums.length-1;i>=0;i--){
-            if(i+nums[i]>=index){
-                index=i;
+        int index = nums.length - 1;
+        for (int i = nums.length - 1; i >= 0; i--) {
+            if (i + nums[i] >= index) {
+                index = i;
             }
         }
-        return index==0;
+        return index == 0;
     }
 
     /**
@@ -78,20 +78,18 @@ public class Solution55 {
      * @return
      */
     public boolean canJumpByPositiveSequence(int[] nums) {
-        if(nums==null||nums.length==0){
+        if (nums == null || nums.length == 0) {
             return true;
         }
-        int temp=0;
-        for(int i=0,length=nums.length;i<length;i++){
-            if(temp<i){
+        int temp = 0;
+        for (int i = 0, length = nums.length; i < length; i++) {
+            if (temp < i) {
                 return false;
-            }
-            else{
-                if(temp>=length-1){
+            } else {
+                if (temp >= length - 1) {
                     return true;
-                }
-                else{
-                    temp=Math.max(temp,i+nums[i]);
+                } else {
+                    temp = Math.max(temp, i + nums[i]);
                 }
             }
         }
@@ -118,18 +116,18 @@ public class Solution55 {
      * @return
      */
     public boolean canJumpByBackTracking(int[] nums) {
-        return cal(nums,0);
+        return cal(nums, 0);
     }
 
-    private boolean cal(int[] nums,int index){
-        if(index>=nums.length-1){
+    private boolean cal(int[] nums, int index) {
+        if (index >= nums.length - 1) {
             return true;
         }
-        if(nums[index]==0){
+        if (nums[index] == 0) {
             return false;
         }
-        for(int i=1;i<=nums[index];i++){
-            if(cal(nums,index+i)){
+        for (int i = 1; i <= nums[index]; i++) {
+            if (cal(nums, index + i)) {
                 return true;
             }
         }

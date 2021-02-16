@@ -53,15 +53,15 @@ public class Solution134 {
      * @return
      */
     public int canCompleteCircuit(int[] gas, int[] cost) {
-        int cur=0,total=0,start=0;
-        for(int i=0,length=cost.length;i<length;i++){
-            cur+=gas[i]-cost[i];
-            total+=gas[i]-cost[i];
-            if(cur<0){
-                start=i+1;
-                cur=0;
+        int cur = 0, total = 0, start = 0;
+        for (int i = 0, length = cost.length; i < length; i++) {
+            cur += gas[i] - cost[i];
+            total += gas[i] - cost[i];
+            if (cur < 0) {
+                start = i + 1;
+                cur = 0;
             }
         }
-        return total<0?-1:start;
+        return total < 0 ? -1 : start;
     }
 }

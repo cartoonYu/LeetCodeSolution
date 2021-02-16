@@ -44,8 +44,8 @@ public class Solution838Test {
     public void testPushDominoes(){
         String res1 = solution.pushDominoes(source1);
         String res2 = solution.pushDominoes(source2);
-        log.info("solution  test, calculate data1: {}, expect result1: {}, " +
-                        "calculate838 data2: {}, expect result2: {}",
+        log.info("solution 838 test, calculate data1: {}, expect result1: {}, " +
+                        "calculate data2: {}, expect result2: {}",
                 res1, expect1, res2, expect2);
         Assert.assertEquals(expect1, res1);
         Assert.assertEquals(expect2, res2);
