@@ -96,6 +96,8 @@
 
 [1304.和为零的N个唯一整数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1304.java)
 
+[1313.解压缩编码列表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1313.java)
+
 [1342.将数字变成 0 的操作次数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1342.java)
 
 [1351.统计有序矩阵中的负数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1351.java)
@@ -120,6 +122,10 @@
 
 [1491.去掉最低工资和最高工资后的工资平均值](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1491.java)
 
+[1502.判断能否形成等差数列](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1502.java)
+
 [1512.好数对的数目](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1512.java)
+
+[1550.存在连续三个奇数的数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1550.java)
 
 [1672.最富有客户的资产总量](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1672.java)

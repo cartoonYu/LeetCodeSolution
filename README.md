@@ -163,6 +163,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [1304.Find N Unique Integers Sum up to Zero](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1304.java)
 
+[1313.Decompress Run-Length Encoded List](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1313.java)
+
 [1342.Number of Steps to Reduce a Number to Zero](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1342.java)
 
 [1351.Count Negative Numbers in a Sorted Matrix](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1351.java)
@@ -187,7 +189,11 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [1491.Average Salary Excluding the Minimum and Maximum Salary](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1491.java)
 
+[1502.Can Make Arithmetic Progression From Sequence](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1502.java)
+
 [1512.Number of Good Pairs](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1512.java)
+
+[1550.Three Consecutive Odds](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1550.java)
 
 [1672.Richest Customer Wealth](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1672.java)
 
