@@ -47,28 +47,27 @@ public class Solution135 {
      * @return
      */
     public int candy(int[] ratings) {
-        if(ratings==null||ratings.length==0){
+        if (ratings == null || ratings.length == 0) {
             return 0;
         }
-        int[] temp=new int[ratings.length];
-        int length=ratings.length;
-        temp[0]=1;
-        for(int i=1;i<length;i++){
-            if(ratings[i]>ratings[i-1]){
-                temp[i]=temp[i-1]+1;
-            }
-            else{
-                temp[i]=1;
-            }
-        }
-        for(int i=length-2;i>=0;i--){
-            if(ratings[i]>ratings[i+1]&&temp[i]<=temp[i+1]){
-                temp[i]=temp[i+1]+1;
+        int[] temp = new int[ratings.length];
+        int length = ratings.length;
+        temp[0] = 1;
+        for (int i = 1; i < length; i++) {
+            if (ratings[i] > ratings[i - 1]) {
+                temp[i] = temp[i - 1] + 1;
+            } else {
+                temp[i] = 1;
             }
         }
-        int res=0;
-        for(int num:temp){
-            res+=num;
+        for (int i = length - 2; i >= 0; i--) {
+            if (ratings[i] > ratings[i + 1] && temp[i] <= temp[i + 1]) {
+                temp[i] = temp[i + 1] + 1;
+            }
+        }
+        int res = 0;
+        for (int num : temp) {
+            res += num;
         }
         return res;
     }
