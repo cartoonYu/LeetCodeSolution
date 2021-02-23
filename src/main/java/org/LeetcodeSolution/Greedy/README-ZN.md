@@ -19,3 +19,5 @@
 [1221.分割平衡字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy/Solution1221.java)
 
 [1518.换酒问题](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy/Solution1518.java)
+
+[1725.可以形成最大正方形的矩形数目](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy/Solution1725.java)

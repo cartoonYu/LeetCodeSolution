@@ -19,3 +19,5 @@ This subpackage contains all of the problems I've solved so far with respect to 
 [1221.Split a String in Balanced Strings](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy/Solution1221.java)
 
 [1518.Water Bottles](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy/Solution1518.java)
+
+[1725.Number Of Rectangles That Can Form The Largest Square](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy/Solution1725.java)
