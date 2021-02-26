@@ -43,34 +43,32 @@ public class Solution860 {
      * @return
      */
     public boolean lemonadeChange(int[] bills) {
-        if(bills.length==0){
+        if (bills.length == 0) {
             return true;
         }
-        int five=0,ten=0;
-        for(int temp:bills){
-            switch(temp){
-                case 5:{
+        int five = 0, ten = 0;
+        for (int temp : bills) {
+            switch (temp) {
+                case 5: {
                     five++;
                     break;
                 }
-                case 10:{
-                    if(five==0){
+                case 10: {
+                    if (five == 0) {
                         return false;
                     }
                     five--;
                     ten++;
                     break;
                 }
-                case 20:{
-                    if(ten>0&&five>0){
+                case 20: {
+                    if (ten > 0 && five > 0) {
                         ten--;
                         five--;
-                    }
-                    else{
-                        if(five>2){
-                            five-=3;
-                        }
-                        else{
+                    } else {
+                        if (five > 2) {
+                            five -= 3;
+                        } else {
                             return false;
                         }
                     }

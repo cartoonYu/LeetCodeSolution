@@ -53,27 +53,25 @@ public class Solution322 {
      * @return
      */
     public int coinChange(int[] coins, int amount) {
-        if(amount==0||coins==null||coins.length==0){
+        if (amount == 0 || coins == null || coins.length == 0) {
             return 0;
         }
-        int[] temp=new int[amount+1];
-        int size=amount+1;
-        for(int coin:coins){
-            for(int j=coin;j<size;j++){
-                if(coin==j){
-                    temp[j]=1;
-                }
-                else if(temp[j-coin]!=0){
-                    if(temp[j]==0){
-                        temp[j]=temp[j-coin]+1;
-                    }
-                    else{
-                        temp[j]=Math.min(temp[j],temp[j-coin]+1);
+        int[] temp = new int[amount + 1];
+        int size = amount + 1;
+        for (int coin : coins) {
+            for (int j = coin; j < size; j++) {
+                if (coin == j) {
+                    temp[j] = 1;
+                } else if (temp[j - coin] != 0) {
+                    if (temp[j] == 0) {
+                        temp[j] = temp[j - coin] + 1;
+                    } else {
+                        temp[j] = Math.min(temp[j], temp[j - coin] + 1);
                     }
                 }
             }
         }
-        return temp[amount]==0?-1:temp[amount];
+        return temp[amount] == 0 ? -1 : temp[amount];
     }
 
 }
