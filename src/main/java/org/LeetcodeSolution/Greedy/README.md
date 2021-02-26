@@ -20,4 +20,8 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 [1518.Water Bottles](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy/Solution1518.java)
 
+[1710.Maximum Units on a Truck](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy/Solution1710.java)
+
 [1725.Number Of Rectangles That Can Form The Largest Square](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy/Solution1725.java)
+
+[1736.Latest Time by Replacing Hidden Digits](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy/Solution1736.java)
