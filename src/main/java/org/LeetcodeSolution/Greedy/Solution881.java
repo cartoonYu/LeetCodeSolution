@@ -48,18 +48,18 @@ public class Solution881 {
      * @return
      */
     public int numRescueBoats(int[] people, int limit) {
-        if(people==null||people.length==0){
+        if (people == null || people.length == 0) {
             return 0;
         }
         Arrays.sort(people);
-        int res=0,i=0,j=people.length-1;
-        while(i<j){
-            if(people[i]+people[j]<=limit){
+        int res = 0, i = 0, j = people.length - 1;
+        while (i < j) {
+            if (people[i] + people[j] <= limit) {
                 i++;
             }
             res++;
             j--;
         }
-        return i==j?res+1:res;
+        return i == j ? res + 1 : res;
     }
 }
