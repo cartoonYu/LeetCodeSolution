@@ -51,28 +51,28 @@ public class Solution24 {
      * @return
      */
     public ListNode swapPairs(ListNode head) {
-        if(head==null||head.next==null){
+        if (head == null || head.next == null) {
             return head;
         }
-        ListNode node=new ListNode(-1);
-        node.next=head;
-        ListNode op=head;
-        int length=0;
-        while(op!=null){
-            op=op.next;
+        ListNode node = new ListNode(-1);
+        node.next = head;
+        ListNode op = head;
+        int length = 0;
+        while (op != null) {
+            op = op.next;
             length++;
         }
-        ListNode border=node,cur=head,temp;
-        while(length>=2){
-            for(int i=1;i<2;i++){
-                temp=cur.next;
-                cur.next=temp.next;
-                temp.next=border.next;
-                border.next=temp;
+        ListNode border = node, cur = head, temp;
+        while (length >= 2) {
+            for (int i = 1; i < 2; i++) {
+                temp = cur.next;
+                cur.next = temp.next;
+                temp.next = border.next;
+                border.next = temp;
             }
-            border=cur;
-            cur=border.next;
-            length-=2;
+            border = cur;
+            cur = border.next;
+            length -= 2;
         }
         return node.next;
     }

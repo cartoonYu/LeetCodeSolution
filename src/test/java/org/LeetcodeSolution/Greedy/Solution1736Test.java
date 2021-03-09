@@ -54,7 +54,7 @@ public class Solution1736Test {
         log.info("solution 1736 test, calculate data1: {}, expect result1: {}, " +
                         "calculate data2: {}, expect result2: {}" +
                         "calculate data3: {}, expect result3: {}",
-                res1, expect1, res2, expect2);
+                res1, expect1, res2, expect2, res3, expect3);
         Assert.assertEquals(expect1, res1);
         Assert.assertEquals(expect2, res2);
         Assert.assertEquals(expect3, res3);

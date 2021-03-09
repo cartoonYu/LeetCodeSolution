@@ -1,8 +1,5 @@
 package org.LeetcodeSolution.LinkedList;
 
-
-import org.LeetcodeSolution.DataStructure.linkedlist.ListNode;
-
 /**
  * Problem
  *      2.Add Two Numbers/两数相加
@@ -14,6 +11,9 @@ import org.LeetcodeSolution.DataStructure.linkedlist.ListNode;
  * @author cartoon
  * @version 1.0
  */
+import org.LeetcodeSolution.DataStructure.linkedlist.ListNode;
+
+
 public class Solution2 {
 
     /**
@@ -45,37 +45,35 @@ public class Solution2 {
      * @return
      */
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode result=new ListNode(0);
-        ListNode temp=result;
-        ListNode t1=l1;
-        ListNode t2=l2;
-        while(t1!=null||t2!=null){
-            ListNode node=new ListNode(0);
-            if(t1!=null){
-                node.val=node.val+t1.val;
-                t1=t1.next;
+        ListNode result = new ListNode(0);
+        ListNode temp = result;
+        ListNode t1 = l1;
+        ListNode t2 = l2;
+        while (t1 != null || t2 != null) {
+            ListNode node = new ListNode(0);
+            if (t1 != null) {
+                node.val = node.val + t1.val;
+                t1 = t1.next;
             }
-            if(t2!=null){
-                node.val=node.val+t2.val;
-                t2=t2.next;
+            if (t2 != null) {
+                node.val = node.val + t2.val;
+                t2 = t2.next;
             }
-            if(node.val>=10){
-                int i=node.val/10;
-                node.val=node.val-i*10;
-                if(t1!=null){
-                    t1.val=t1.val+i;
-                }
-                else {
-                    if(t2!=null){
-                        t2.val=t2.val+i;
-                    }
-                    else {
-                        t1=new ListNode(i);
+            if (node.val >= 10) {
+                int i = node.val / 10;
+                node.val = node.val - i * 10;
+                if (t1 != null) {
+                    t1.val = t1.val + i;
+                } else {
+                    if (t2 != null) {
+                        t2.val = t2.val + i;
+                    } else {
+                        t1 = new ListNode(i);
                     }
                 }
             }
-            temp.next=node;
-            temp=temp.next;
+            temp.next = node;
+            temp = temp.next;
         }
         return result.next;
     }
