@@ -61,28 +61,28 @@ public class Solution25 {
      * @return
      */
     public ListNode reverseKGroup2(ListNode head, int k) {
-        if(head==null||head.next==null||k==0){
+        if (head == null || head.next == null || k == 0) {
             return head;
         }
-        int length=0;
-        ListNode op=head;
-        while(op!=null){
-            op=op.next;
+        int length = 0;
+        ListNode op = head;
+        while (op != null) {
+            op = op.next;
             length++;
         }
-        ListNode node=new ListNode(-1);
-        node.next=head;
-        ListNode pre=node,cur=head,temp;
-        while(length>=k){
-            for(int i=1;i<k;i++){
-                temp=cur.next;
-                cur.next=temp.next;
-                temp.next=pre.next;
-                pre.next=temp;
+        ListNode node = new ListNode(-1);
+        node.next = head;
+        ListNode pre = node, cur = head, temp;
+        while (length >= k) {
+            for (int i = 1; i < k; i++) {
+                temp = cur.next;
+                cur.next = temp.next;
+                temp.next = pre.next;
+                pre.next = temp;
             }
-            pre=cur;
-            cur=pre.next;
-            length-=k;
+            pre = cur;
+            cur = pre.next;
+            length -= k;
         }
         return node.next;
     }

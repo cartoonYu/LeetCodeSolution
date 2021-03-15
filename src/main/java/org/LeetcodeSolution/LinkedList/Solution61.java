@@ -51,30 +51,30 @@ public class Solution61 {
      * @return
      */
     public ListNode rotateRight(ListNode head, int k) {
-        if(head==null||head.next==null){
+        if (head == null || head.next == null) {
             return head;
         }
-        ListNode temp=head;
-        int length=0;
-        while(temp!=null){
+        ListNode temp = head;
+        int length = 0;
+        while (temp != null) {
             length++;
-            temp=temp.next;
+            temp = temp.next;
         }
-        k=k%length;
-        if(k==0){
+        k = k % length;
+        if (k == 0) {
             return head;
         }
-        ListNode slow=head,fast=head;
-        for(int i=0;i<k;i++){
-            fast=fast.next;
+        ListNode slow = head, fast = head;
+        for (int i = 0; i < k; i++) {
+            fast = fast.next;
         }
-        while(fast.next!=null){
-            slow=slow.next;
-            fast=fast.next;
+        while (fast.next != null) {
+            slow = slow.next;
+            fast = fast.next;
         }
-        ListNode res=slow.next;
-        slow.next=fast.next;
-        fast.next=head;
+        ListNode res = slow.next;
+        slow.next = fast.next;
+        fast.next = head;
         return res;
     }
 }

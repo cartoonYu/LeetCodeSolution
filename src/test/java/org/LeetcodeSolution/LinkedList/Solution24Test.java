@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 
 /** 
 * Solution24 Tester. 
-* @author cartoon.yu
+* @author cartoon
 * @date 03/09/2021
 * @version 1.0 
 */ 

@@ -50,25 +50,24 @@ public class Solution82 {
      * @return
      */
     public ListNode deleteDuplicates(ListNode head) {
-        if(head==null){
+        if (head == null) {
             return head;
         }
-        ListNode node=new ListNode(head.val-1);
-        node.next=head;
-        ListNode slow=node,fast=head;
+        ListNode node = new ListNode(head.val - 1);
+        node.next = head;
+        ListNode slow = node, fast = head;
         ListNode tempFast;
-        while(fast!=null){
-            tempFast=fast;
-            while(fast.next!=null&&fast.next.val==fast.val){
-                fast=fast.next;
+        while (fast != null) {
+            tempFast = fast;
+            while (fast.next != null && fast.next.val == fast.val) {
+                fast = fast.next;
             }
-            if(tempFast==fast){
-                slow=slow.next;
-                fast=fast.next;
-            }
-            else{
-                fast=fast.next;
-                slow.next=fast;
+            if (tempFast == fast) {
+                slow = slow.next;
+                fast = fast.next;
+            } else {
+                fast = fast.next;
+                slow.next = fast;
             }
         }
         return node.next;
