@@ -37,27 +37,15 @@ public class Solution25Test {
 
     private ListNode expect3;
 
-    private int[] source1Param1Array;
-
-    private int[] source2Param1Array;
-
-    private int[] source3Param1Array;
-
-    private int[] expect1Array;
-
-    private int[] expect2Array;
-
-    private int[] expect3Array;
-
     @Before
     public void before(){ 
         solution = new Solution25();
-        source1Param1Array = new int[]{1, 2, 3, 4, 5};
-        source2Param1Array = new int[]{1, 2, 3, 4, 5};
-        source3Param1Array = new int[]{1};
-        expect1Array = new int[]{3, 2, 1, 4, 5};
-        expect2Array = new int[]{1, 2, 3, 4, 5};
-        expect3Array = new int[]{1};
+        int[] source1Param1Array = new int[]{1, 2, 3, 4, 5};
+        int[] source2Param1Array = new int[]{1, 2, 3, 4, 5};
+        int[] source3Param1Array = new int[]{1};
+        int[] expect1Array = new int[]{3, 2, 1, 4, 5};
+        int[] expect2Array = new int[]{1, 2, 3, 4, 5};
+        int[] expect3Array = new int[]{1};
         source1Param2 = 3;
         source2Param2 = 1;
         source3Param2 = 1;

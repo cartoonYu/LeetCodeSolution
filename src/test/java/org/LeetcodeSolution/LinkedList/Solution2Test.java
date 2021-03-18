@@ -37,36 +37,18 @@ public class Solution2Test {
 
     private ListNode expect3;
 
-    private int[] source1Param1Array;
-
-    private int[] source1Param2Array;
-
-    private int[] source2Param1Array;
-
-    private int[] source2Param2Array;
-
-    private int[] source3Param1Array;
-
-    private int[] source3Param2Array;
-
-    private int[] expect1Array;
-
-    private int[] expect2Array;
-
-    private int[] expect3Array;
-
     @Before
     public void before(){ 
         solution = new Solution2();
-        source1Param1Array = new int[]{2, 4, 3};
-        source1Param2Array = new int[]{5, 6, 4};
-        source2Param1Array = new int[]{0};
-        source2Param2Array = new int[]{0};
-        source3Param1Array = new int[]{9, 9, 9, 9, 9, 9, 9};
-        source3Param2Array = new int[]{9, 9, 9, 9};
-        expect1Array = new int[]{7, 0, 8};
-        expect2Array = new int[]{0};
-        expect3Array = new int[]{8, 9, 9, 9, 0, 0, 0, 1};
+        int[] source1Param1Array = new int[]{2, 4, 3};
+        int[] source1Param2Array = new int[]{5, 6, 4};
+        int[] source2Param1Array = new int[]{0};
+        int[] source2Param2Array = new int[]{0};
+        int[] source3Param1Array = new int[]{9, 9, 9, 9, 9, 9, 9};
+        int[] source3Param2Array = new int[]{9, 9, 9, 9};
+        int[] expect1Array = new int[]{7, 0, 8};
+        int[] expect2Array = new int[]{0};
+        int[] expect3Array = new int[]{8, 9, 9, 9, 0, 0, 0, 1};
         source1Param1 = FormLinkedListUtil.getInstance().form(source1Param1Array);
         source1Param2 = FormLinkedListUtil.getInstance().form(source1Param2Array);
         source2Param1 = FormLinkedListUtil.getInstance().form(source2Param1Array);

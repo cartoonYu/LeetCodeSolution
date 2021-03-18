@@ -48,25 +48,24 @@ public class Solution92 {
      * @return
      */
     public ListNode reverseBetween(ListNode head, int m, int n) {
-        if(head==null||head.next==null){
+        if (head == null || head.next == null) {
             return head;
         }
-        ListNode res=new ListNode(-1);
-        res.next=head;
-        ListNode start=res;
-        for(int i=1;i<m;i++){
-            start=start.next;
+        ListNode res = new ListNode(-1);
+        res.next = head;
+        ListNode start = res;
+        for (int i = 1; i < m; i++) {
+            start = start.next;
         }
-        ListNode temp=null,op;
-        for(int i=m-1;i<n;i++){
-            if(temp==null){
-                temp=start.next;
-            }
-            else{
-                op=temp.next;
-                temp.next=op.next;
-                op.next=start.next;
-                start.next=op;
+        ListNode temp = null, op;
+        for (int i = m - 1; i < n; i++) {
+            if (temp == null) {
+                temp = start.next;
+            } else {
+                op = temp.next;
+                temp.next = op.next;
+                op.next = start.next;
+                start.next = op;
             }
         }
         return res.next;

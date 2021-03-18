@@ -31,27 +31,15 @@ public class Solution24Test {
 
     private ListNode expect3;
 
-    private int[] source1Array;
-
-    private int[] source2Array;
-
-    private int[] source3Array;
-
-    private int[] expect1Array;
-
-    private int[] expect2Array;
-
-    private int[] expect3Array;
-
     @Before
     public void before(){ 
         solution = new Solution24();
-        source1Array = new int[]{1, 2, 3, 4};
-        source2Array = new int[]{};
-        source3Array = new int[]{1};
-        expect1Array = new int[]{2, 1, 4, 3};
-        expect2Array = new int[]{};
-        expect3Array = new int[]{1};
+        int[] source1Array = new int[]{1, 2, 3, 4};
+        int[] source2Array = new int[]{};
+        int[] source3Array = new int[]{1};
+        int[] expect1Array = new int[]{2, 1, 4, 3};
+        int[] expect2Array = new int[]{};
+        int[] expect3Array = new int[]{1};
         source1 = FormLinkedListUtil.getInstance().form(source1Array);
         source2 = FormLinkedListUtil.getInstance().form(source2Array);
         source3 = FormLinkedListUtil.getInstance().form(source3Array);
