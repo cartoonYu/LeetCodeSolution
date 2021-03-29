@@ -40,13 +40,13 @@ public class Solution58 {
      * @return
      */
     public int lengthOfLastWord(String s) {
-        if(s == null || s.length() == 0){
+        if (s == null || s.length() == 0) {
             return 0;
         }
         s = s.trim();
         int cnt = 0;
-        for(int i = s.length() - 1; i >= 0; i--){
-            if(s.charAt(i) == ' '){
+        for (int i = s.length() - 1; i >= 0; i--) {
+            if (s.charAt(i) == ' ') {
                 return cnt;
             }
             cnt++;

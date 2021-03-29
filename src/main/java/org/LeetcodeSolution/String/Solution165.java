@@ -52,30 +52,29 @@ public class Solution165 {
      * @return
      */
     public int compareVersion2(String version1, String version2) {
-        if(version1.length()==0||version2.length()==0){
+        if (version1.length() == 0 || version2.length() == 0) {
             return 0;
         }
-        int len1=version1.length(),len2=version2.length();
-        int i=0,j=0,k,l,temp1,temp2;
-        while(i<len1||j<len2){
-            k=i;
-            l=j;
-            while(k<len1&&version1.charAt(k)!='.'){
+        int len1 = version1.length(), len2 = version2.length();
+        int i = 0, j = 0, k, l, temp1, temp2;
+        while (i < len1 || j < len2) {
+            k = i;
+            l = j;
+            while (k < len1 && version1.charAt(k) != '.') {
                 k++;
             }
-            while(l<len2&&version2.charAt(l)!='.'){
+            while (l < len2 && version2.charAt(l) != '.') {
                 l++;
             }
-            temp1=k==i?0:Integer.valueOf(version1.substring(i,k));
-            temp2=l==j?0:Integer.valueOf(version2.substring(j,l));
-            if(temp1>temp2){
+            temp1 = k == i ? 0 : Integer.valueOf(version1.substring(i, k));
+            temp2 = l == j ? 0 : Integer.valueOf(version2.substring(j, l));
+            if (temp1 > temp2) {
                 return 1;
-            }
-            else if(temp1<temp2){
+            } else if (temp1 < temp2) {
                 return -1;
             }
-            i=k+1;
-            j=l+1;
+            i = k + 1;
+            j = l + 1;
         }
         return 0;
     }
@@ -108,19 +107,18 @@ public class Solution165 {
      * @return
      */
     public int compareVersion1(String version1, String version2) {
-        if(version1.length()==0||version2.length()==0){
+        if (version1.length() == 0 || version2.length() == 0) {
             return 0;
         }
-        String[] v1=version1.split("\\."),v2=version2.split("\\.");
-        int len1=v1.length,len2=v2.length,len=Math.max(len1,len2);
-        int temp1,temp2;
-        for(int i=0;i<len;i++){
-            temp1=i<len1?Integer.valueOf(v1[i]):0;
-            temp2=i<len2?Integer.valueOf(v2[i]):0;
-            if(temp1<temp2){
+        String[] v1 = version1.split("\\."), v2 = version2.split("\\.");
+        int len1 = v1.length, len2 = v2.length, len = Math.max(len1, len2);
+        int temp1, temp2;
+        for (int i = 0; i < len; i++) {
+            temp1 = i < len1 ? Integer.valueOf(v1[i]) : 0;
+            temp2 = i < len2 ? Integer.valueOf(v2[i]) : 0;
+            if (temp1 < temp2) {
                 return -1;
-            }
-            else if(temp1>temp2){
+            } else if (temp1 > temp2) {
                 return 1;
             }
         }

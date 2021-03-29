@@ -47,21 +47,21 @@ public class Solution14 {
      * @return
      */
     public String longestCommonPrefixWithoutSort(String[] strs) {
-        if(strs==null||strs.length==0){
+        if (strs == null || strs.length == 0) {
             return "";
         }
-        if(strs.length==1){
+        if (strs.length == 1) {
             return strs[0];
         }
-        String temp=strs[0];
-        for(int i=0,length=strs.length;i<length;i++){
-            if(strs[i].length()<temp.length()){
-                temp=strs[i];
+        String temp = strs[0];
+        for (int i = 0, length = strs.length; i < length; i++) {
+            if (strs[i].length() < temp.length()) {
+                temp = strs[i];
             }
         }
-        for(int i=0,length=strs.length;i<length;i++){
-            while(strs[i].indexOf(temp)!=0){
-                temp=temp.substring(0,temp.length()-1);
+        for (int i = 0, length = strs.length; i < length; i++) {
+            while (strs[i].indexOf(temp) != 0) {
+                temp = temp.substring(0, temp.length() - 1);
             }
         }
         return temp;
@@ -98,23 +98,22 @@ public class Solution14 {
      * @return
      */
     public String longestCommonPrefixWithSort(String[] strs) {
-        if(strs==null||strs.length==0){
+        if (strs == null || strs.length == 0) {
             return "";
         }
-        if(strs.length==1){
+        if (strs.length == 1) {
             return strs[0];
         }
-        StringBuilder builder=new StringBuilder();
+        StringBuilder builder = new StringBuilder();
         Arrays.sort(strs);
-        String first=strs[0],last=strs[strs.length-1];
-        int i=0,j=0;
-        while(i<first.length()&&j<last.length()){
-            if(first.charAt(i)==last.charAt(j)){
+        String first = strs[0], last = strs[strs.length - 1];
+        int i = 0, j = 0;
+        while (i < first.length() && j < last.length()) {
+            if (first.charAt(i) == last.charAt(j)) {
                 builder.append(first.charAt(i));
                 i++;
                 j++;
-            }
-            else{
+            } else {
                 break;
             }
         }

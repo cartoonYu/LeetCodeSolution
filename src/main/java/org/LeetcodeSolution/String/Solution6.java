@@ -45,27 +45,26 @@ public class Solution6 {
      * @return
      */
     public String convert(String s, int numRows) {
-        if(s==null||s.length()==0||numRows<2){
+        if (s == null || s.length() == 0 || numRows < 2) {
             return s;
         }
-        char[] chars=s.toCharArray();
-        StringBuilder[] builders=new StringBuilder[numRows];
-        for(int i=0;i<numRows;i++){
-            builders[i]=new StringBuilder();
+        char[] chars = s.toCharArray();
+        StringBuilder[] builders = new StringBuilder[numRows];
+        for (int i = 0; i < numRows; i++) {
+            builders[i] = new StringBuilder();
         }
-        int temp1,temp2;
-        for(int i=0,length=chars.length;i<length;i++){
-            temp1=i/(numRows-1);
-            temp2=i%(numRows-1);
-            if(temp1%2==0){
+        int temp1, temp2;
+        for (int i = 0, length = chars.length; i < length; i++) {
+            temp1 = i / (numRows - 1);
+            temp2 = i % (numRows - 1);
+            if (temp1 % 2 == 0) {
                 builders[temp2].append(chars[i]);
-            }
-            else{
-                builders[numRows-temp2-1].append(chars[i]);
+            } else {
+                builders[numRows - temp2 - 1].append(chars[i]);
             }
         }
-        StringBuilder res=new StringBuilder();
-        for(StringBuilder temp:builders){
+        StringBuilder res = new StringBuilder();
+        for (StringBuilder temp : builders) {
             res.append(temp);
         }
         return res.toString();

@@ -44,15 +44,15 @@ public class Solution151 {
      * @return
      */
     public String reverseWordsBySplit(String s) {
-        if(s==null||s.length()==0){
+        if (s == null || s.length() == 0) {
             return s;
         }
-        String[] strs=s.trim().split(" ");
-        StringBuilder builder=new StringBuilder();
-        for(int i=strs.length-1;i>-1;i--){
-            if(!strs[i].equals("")){
+        String[] strs = s.trim().split(" ");
+        StringBuilder builder = new StringBuilder();
+        for (int i = strs.length - 1; i > -1; i--) {
+            if (!strs[i].equals("")) {
                 builder.append(strs[i].trim());
-                if(i!=0){
+                if (i != 0) {
                     builder.append(' ');
                 }
             }
@@ -82,41 +82,38 @@ public class Solution151 {
      * @return
      */
     public String reverseWordsByChars(String s) {
-        if(s==null||s.length()==0){
+        if (s == null || s.length() == 0) {
             return s;
         }
-        StringBuilder builder=new StringBuilder();
-        StringBuilder temp=new StringBuilder();
+        StringBuilder builder = new StringBuilder();
+        StringBuilder temp = new StringBuilder();
         s.trim();
-        char[] chars=s.toCharArray();
-        int index=s.length()-1;
-        while(index>=0){
-            while(index>0&&chars[index]==' '&&chars[index-1]==' '){
-                index-=2;
+        char[] chars = s.toCharArray();
+        int index = s.length() - 1;
+        while (index >= 0) {
+            while (index > 0 && chars[index] == ' ' && chars[index - 1] == ' ') {
+                index -= 2;
             }
-            if(index>=0){
-                if(chars[index]==' '){
+            if (index >= 0) {
+                if (chars[index] == ' ') {
                     index--;
-                }
-                else if(index>0&&chars[index]!=' '&&chars[index-1]==' '){
+                } else if (index > 0 && chars[index] != ' ' && chars[index - 1] == ' ') {
                     temp.append(chars[index]);
                     builder.append(temp.reverse().toString()).append(' ');
-                    temp=new StringBuilder();
-                    index-=2;
-                }
-                else{
+                    temp = new StringBuilder();
+                    index -= 2;
+                } else {
                     temp.append(chars[index--]);
                 }
             }
 
         }
-        if(temp.length()!=0){
+        if (temp.length() != 0) {
             builder.append(temp.reverse().toString());
         }
-        if(builder.length()>0&&builder.charAt(builder.length()-1)==' '){
-            return builder.substring(0,builder.length()-1);
-        }
-        else{
+        if (builder.length() > 0 && builder.charAt(builder.length() - 1) == ' ') {
+            return builder.substring(0, builder.length() - 1);
+        } else {
             return builder.toString();
         }
     }

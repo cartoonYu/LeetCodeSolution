@@ -3,8 +3,8 @@ package org.LeetcodeSolution.String;
 /**
  * Problem
  *     3.Longest Substring Without Repeating Characters
- *     https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/
- *     https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/submissions/
+ *     https://leetcode.com/problems/longest-substring-without-repeating-characters
+ *     https://leetcode-cn.com/problems/longest-substring-without-repeating-characters
  * Grade of difficulty
  *     Medium
  * Related topics
@@ -44,23 +44,23 @@ public class Solution3 {
      * @return
      */
     public int lengthOfLongestSubstring(String s) {
-        if(s==null||s.length()==0){
+        if (s == null || s.length() == 0) {
             return 0;
         }
-        if(s.length()<2){
+        if (s.length() < 2) {
             return s.length();
         }
-        int res=0,flag=0;
-        char[] chars=s.toCharArray();
-        for(int i=0,length=chars.length;i<length;i++){
-            for(int j=flag;j<i;j++){
-                if(chars[i]==chars[j]){
-                    res=Math.max(res,i-flag);
-                    flag=j+1;
+        int res = 0, flag = 0;
+        char[] chars = s.toCharArray();
+        for (int i = 0, length = chars.length; i < length; i++) {
+            for (int j = flag; j < i; j++) {
+                if (chars[i] == chars[j]) {
+                    res = Math.max(res, i - flag);
+                    flag = j + 1;
                     break;
                 }
             }
         }
-        return Math.max(chars.length-flag,res);
+        return Math.max(chars.length - flag, res);
     }
 }
