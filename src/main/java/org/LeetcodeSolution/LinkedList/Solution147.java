@@ -50,25 +50,24 @@ public class Solution147 {
      * @return
      */
     public ListNode insertionSortList(ListNode head) {
-        if(head==null||head.next==null){
+        if (head == null || head.next == null) {
             return head;
         }
-        ListNode node=new ListNode(Integer.MIN_VALUE);
-        node.next=head;
-        ListNode right=node,op,temp;
-        while(right.next!=null){
-            op=right.next;
-            if(op.val>=right.val){
-                right=right.next;
-            }
-            else{
-                temp=node;
-                while(temp.next.val<op.val){
-                    temp=temp.next;
+        ListNode node = new ListNode(Integer.MIN_VALUE);
+        node.next = head;
+        ListNode right = node, op, temp;
+        while (right.next != null) {
+            op = right.next;
+            if (op.val >= right.val) {
+                right = right.next;
+            } else {
+                temp = node;
+                while (temp.next.val < op.val) {
+                    temp = temp.next;
                 }
-                right.next=op.next;
-                op.next=temp.next;
-                temp.next=op;
+                right.next = op.next;
+                op.next = temp.next;
+                temp.next = op;
             }
         }
         return node.next;

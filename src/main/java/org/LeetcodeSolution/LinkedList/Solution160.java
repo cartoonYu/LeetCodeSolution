@@ -42,10 +42,10 @@ public class Solution160 {
      * @return
      */
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        ListNode op1=headA,op2=headB;
-        while(op1!=op2){
-            op1=op1==null?headB:op1.next;
-            op2=op2==null?headA:op2.next;
+        ListNode op1 = headA, op2 = headB;
+        while (op1 != op2) {
+            op1 = op1 == null ? headB : op1.next;
+            op2 = op2 == null ? headA : op2.next;
         }
         return op1;
     }

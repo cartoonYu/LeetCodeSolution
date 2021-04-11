@@ -10,6 +10,6 @@ import org.junit.runners.Suite;
  */
 @RunWith(Suite.class)
 @Suite.SuiteClasses({Solution2Test.class, Solution19Test.class, Solution24Test.class, Solution25Test.class,
-        Solution82Test.class, Solution92Test.class})
+        Solution82Test.class, Solution92Test.class, Solution147Test.class})
 public class LinkedListSuiteTest {
 }
