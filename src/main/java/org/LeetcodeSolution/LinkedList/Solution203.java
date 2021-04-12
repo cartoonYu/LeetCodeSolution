@@ -48,28 +48,27 @@ public class Solution203 {
      * @return
      */
     public ListNode removeElements(ListNode head, int val) {
-        if(head==null){
+        if (head == null) {
             return head;
         }
-        if(head.next==null){
-            if(head.val==val){
-                head=head.next;
+        if (head.next == null) {
+            if (head.val == val) {
+                head = head.next;
             }
             return head;
         }
-        ListNode slow=head,fast=head.next;
-        while(fast!=null){
-            if(fast.val==val){
-                fast=fast.next;
-                slow.next=fast;
-            }
-            else{
-                fast=fast.next;
-                slow=slow.next;
+        ListNode slow = head, fast = head.next;
+        while (fast != null) {
+            if (fast.val == val) {
+                fast = fast.next;
+                slow.next = fast;
+            } else {
+                fast = fast.next;
+                slow = slow.next;
             }
         }
-        if(head.val==val){
-            head=head.next;
+        if (head.val == val) {
+            head = head.next;
         }
         return head;
     }
@@ -103,21 +102,20 @@ public class Solution203 {
      * @return
      */
     public ListNode removeElementsByOnePointer(ListNode head, int val) {
-        if(head==null){
+        if (head == null) {
             return head;
         }
-        ListNode temp=head;
-        while(temp!=null){
-            ListNode node=temp.next;
-            if(node!=null&&node.val==val){
-                temp.next=node.next;
-            }
-            else{
-                temp=temp.next;
+        ListNode temp = head;
+        while (temp != null) {
+            ListNode node = temp.next;
+            if (node != null && node.val == val) {
+                temp.next = node.next;
+            } else {
+                temp = temp.next;
             }
         }
-        if(head.val==val){
-            return removeElements(head.next,val);
+        if (head.val == val) {
+            return removeElements(head.next, val);
         }
         return head;
     }

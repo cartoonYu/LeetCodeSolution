@@ -44,12 +44,12 @@ public class Solution206 {
      * @return
      */
     public ListNode reverseList(ListNode head) {
-        ListNode result=null;
-        while(head!=null){
-            ListNode temp=new ListNode(head.val);
-            temp.next=result;
-            result=temp;
-            head=head.next;
+        ListNode result = null;
+        while (head != null) {
+            ListNode temp = new ListNode(head.val);
+            temp.next = result;
+            result = temp;
+            head = head.next;
         }
         return result;
     }

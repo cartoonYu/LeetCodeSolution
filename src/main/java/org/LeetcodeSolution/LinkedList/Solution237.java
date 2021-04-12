@@ -46,14 +46,13 @@ public class Solution237 {
      * @param node
      */
     public void deleteNode(ListNode node) {
-        if(node==null||node.next==null){
+        if (node == null || node.next == null) {
             return;
-        }
-        else{
-            ListNode temp=node.next;
-            node.val=temp.val;
-            node.next=temp.next;
-            temp=null;
+        } else {
+            ListNode temp = node.next;
+            node.val = temp.val;
+            node.next = temp.next;
+            temp = null;
         }
     }
 }
