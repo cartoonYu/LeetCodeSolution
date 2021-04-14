@@ -71,6 +71,8 @@
 
 [1232.缀点成线](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Math/Solution1232.java)
 
+[1447.最简分数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Math/Solution1447.java)
+
 [1486.数组异或操作](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Math/Solution1486.java)
 
 ### [数组](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array)
