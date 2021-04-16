@@ -46,22 +46,23 @@ public class Solution205 {
      * @return
      */
     public boolean isIsomorphicByMarkLastPosition(String s, String t) {
-        if(s.length()==0&&t.length()==0){
+        if (s.length() == 0 && t.length() == 0) {
             return true;
         }
-        int[] temp1=new int[128],temp2=new int[128];
-        char c1,c2;
-        for(int i=s.length()-1;i>=0;i--){
-            c1=s.charAt(i);
-            c2=t.charAt(i);
-            if(temp1[c1]!=temp2[c2]){
+        int[] temp1 = new int[128], temp2 = new int[128];
+        char c1, c2;
+        for (int i = s.length() - 1; i >= 0; i--) {
+            c1 = s.charAt(i);
+            c2 = t.charAt(i);
+            if (temp1[c1] != temp2[c2]) {
                 return false;
             }
-            temp1[c1]=i;
-            temp2[c2]=i;
+            temp1[c1] = i;
+            temp2[c2] = i;
         }
         return true;
     }
+
 
     /**
      * 1.关于复杂度
@@ -95,24 +96,23 @@ public class Solution205 {
      * @return
      */
     public boolean isIsomorphicByHash(String s, String t) {
-        if(s.length()==0&&t.length()==0){
+        if (s.length() == 0 && t.length() == 0) {
             return true;
         }
-        Map<Character,Character> map=new HashMap<>();
-        char c1,c2;
-        for(int i=0,length=s.length();i<length;i++){
-            c1=s.charAt(i);
-            c2=t.charAt(i);
-            if(map.containsKey(c1)){
-                if(!map.get(c1).equals(c2)){
+        Map<Character, Character> map = new HashMap<>();
+        char c1, c2;
+        for (int i = 0, length = s.length(); i < length; i++) {
+            c1 = s.charAt(i);
+            c2 = t.charAt(i);
+            if (map.containsKey(c1)) {
+                if (!map.get(c1).equals(c2)) {
                     return false;
                 }
-            }
-            else{
-                if(map.containsValue(c2)){
+            } else {
+                if (map.containsValue(c2)) {
                     return false;
                 }
-                map.put(c1,c2);
+                map.put(c1, c2);
             }
         }
         return true;
