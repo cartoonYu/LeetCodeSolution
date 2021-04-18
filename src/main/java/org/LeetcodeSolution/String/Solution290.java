@@ -54,27 +54,26 @@ public class Solution290 {
      * @return
      */
     public boolean wordPattern(String pattern, String str) {
-        if(pattern==null||str==null){
+        if (pattern == null || str == null) {
             return false;
         }
-        char[] chars=pattern.toCharArray();
-        String[] strs=str.split(" ");
-        if(chars.length!=strs.length){
+        char[] chars = pattern.toCharArray();
+        String[] strs = str.split(" ");
+        if (chars.length != strs.length) {
             return false;
         }
-        Map<Character,String> map=new HashMap<>();
-        int i=0,length=strs.length;
-        while(i<length){
-            if(map.containsKey(chars[i])){
-                if(!map.get(chars[i]).equals(strs[i])){
+        Map<Character, String> map = new HashMap<>();
+        int i = 0, length = strs.length;
+        while (i < length) {
+            if (map.containsKey(chars[i])) {
+                if (!map.get(chars[i]).equals(strs[i])) {
                     return false;
                 }
-            }
-            else{
-                if(map.containsValue(strs[i])){
+            } else {
+                if (map.containsValue(strs[i])) {
                     return false;
                 }
-                map.put(chars[i],strs[i]);
+                map.put(chars[i], strs[i]);
             }
             i++;
         }
