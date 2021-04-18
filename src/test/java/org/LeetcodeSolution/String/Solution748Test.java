@@ -75,7 +75,7 @@ public class Solution748Test {
         String res3 = solution.shortestCompletingWord(source3Param1, source3Param2);
         String res4 = solution.shortestCompletingWord(source4Param1, source4Param2);
         String res5 = solution.shortestCompletingWord(source5Param1, source5Param2);
-        log.info("solution 1394 test, calculate data1: {}, expect result1: {}, " +
+        log.info("solution 748 test, calculate data1: {}, expect result1: {}, " +
                         "calculate data2: {}, expect result2: {}, " +
                         "calculate data3: {}, expect result3: {}, " +
                         "calculate data4: {}, expect result4: {}, " +

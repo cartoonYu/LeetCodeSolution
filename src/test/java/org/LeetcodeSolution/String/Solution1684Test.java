@@ -53,7 +53,7 @@ public class Solution1684Test {
         int res1 = solution.countConsistentStrings(source1Param1, source1Param2);
         int res2 = solution.countConsistentStrings(source2Param1, source2Param2);
         int res3 = solution.countConsistentStrings(source3Param1, source3Param2);
-        log.info("solution 1394 test, calculate data1: {}, expect result1: {}, " +
+        log.info("solution 1684 test, calculate data1: {}, expect result1: {}, " +
                         "calculate data2: {}, expect result2: {}, " +
                         "calculate data3: {}, expect result3: {}",
                 res1, expect1, res2, expect2, res3, expect3);

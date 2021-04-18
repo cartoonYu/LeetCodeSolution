@@ -278,6 +278,8 @@
 
 [1422.分割字符串的最大得分](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1422.java)
 
+[1436.旅行终点站](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1436.java)
+
 [1496.判断路径是否相交](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1496.java)
 
 [1507.转变日期格式](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1507.java)
