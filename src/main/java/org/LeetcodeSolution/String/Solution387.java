@@ -46,16 +46,15 @@ public class Solution387 {
      * @return
      */
     public int firstUniqChar(String s) {
-        int res=-1,begin,end;
-        for(char i='a';i<='z';i++){
-            begin=s.indexOf(i);
-            end=s.lastIndexOf(i);
-            if(begin==end&&begin!=-1){
-                if(res==-1){
-                    res=begin;
-                }
-                else{
-                    res=res>begin?begin:res;
+        int res = -1, begin, end;
+        for (char i = 'a'; i <= 'z'; i++) {
+            begin = s.indexOf(i);
+            end = s.lastIndexOf(i);
+            if (begin == end && begin != -1) {
+                if (res == -1) {
+                    res = begin;
+                } else {
+                    res = res > begin ? begin : res;
                 }
             }
         }
@@ -88,13 +87,13 @@ public class Solution387 {
      * @return
      */
     public int firstUniqCharByHashMap(String s) {
-        Map<Character,Integer> map=new HashMap<>();
-        char[] chars=s.toCharArray();
-        for(char temp:chars){
-            map.put(temp,map.getOrDefault(temp,0)+1);
+        Map<Character, Integer> map = new HashMap<>();
+        char[] chars = s.toCharArray();
+        for (char temp : chars) {
+            map.put(temp, map.getOrDefault(temp, 0) + 1);
         }
-        for(int i=0,length=chars.length;i<length;i++){
-            if(map.get(chars[i])==1){
+        for (int i = 0, length = chars.length; i < length; i++) {
+            if (map.get(chars[i]) == 1) {
                 return i;
             }
         }

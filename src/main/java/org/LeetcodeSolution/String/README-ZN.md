@@ -22,7 +22,7 @@
 
 [344.反转字符串](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution344.java)
 
-[383.Ransom Note](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution383.java)
+[383.赎金信](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution383.java)
 
 [387.字符串中的第一个唯一字符](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution387.java)
 
@@ -32,7 +32,7 @@
 
 [482.密钥格式化](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution482.java)
 
-[541.Reverse String II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution541.java)
+[541.反转字符串 II](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution541.java)
 
 [551.学生出勤记录 I](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution551.java)
 

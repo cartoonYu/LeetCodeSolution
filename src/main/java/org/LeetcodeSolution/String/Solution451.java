@@ -57,37 +57,36 @@ public class Solution451 {
      * @return
      */
     public String frequencySortByBucketSort(String s) {
-        if(s==null||s.length()<2){
+        if (s == null || s.length() < 2) {
             return s;
         }
-        Map<Character,Integer> map=new HashMap<>();
+        Map<Character, Integer> map = new HashMap<>();
         char c;
-        int max=0;
-        for(int i=0,length=s.length();i<length;i++){
-            c=s.charAt(i);
-            if(map.containsKey(c)){
-                map.put(c,map.get(c)+1);
+        int max = 0;
+        for (int i = 0, length = s.length(); i < length; i++) {
+            c = s.charAt(i);
+            if (map.containsKey(c)) {
+                map.put(c, map.get(c) + 1);
+            } else {
+                map.put(c, 1);
             }
-            else{
-                map.put(c,1);
-            }
-            max=max>map.get(c)?max:map.get(c);
+            max = max > map.get(c) ? max : map.get(c);
         }
-        StringBuilder[] builders=new StringBuilder[max+1];
-        Set<Character> set=map.keySet();
-        for(Character temp:set){
-            int time=map.get(temp);
-            if(builders[time]==null){
-                builders[time]=new StringBuilder();
+        StringBuilder[] builders = new StringBuilder[max + 1];
+        Set<Character> set = map.keySet();
+        for (Character temp : set) {
+            int time = map.get(temp);
+            if (builders[time] == null) {
+                builders[time] = new StringBuilder();
             }
             builders[time].append(temp);
         }
-        StringBuilder res=new StringBuilder();
-        for(int i=builders.length-1;i>-1;i--){
-            if(builders[i]!=null){
-                for(int j=0,size=builders[i].length();j<size;j++){
-                    char temp=builders[i].charAt(j);
-                    for(int k=i;k>0;k--){
+        StringBuilder res = new StringBuilder();
+        for (int i = builders.length - 1; i > -1; i--) {
+            if (builders[i] != null) {
+                for (int j = 0, size = builders[i].length(); j < size; j++) {
+                    char temp = builders[i].charAt(j);
+                    for (int k = i; k > 0; k--) {
                         res.append(temp);
                     }
                 }
@@ -97,29 +96,29 @@ public class Solution451 {
     }
 
     public String frequencySortByTreeMap(String s) {
-        if(s==null||s.length()<2){
+        if (s == null || s.length() < 2) {
             return s;
         }
-        Map<Character,Integer> map=new HashMap<>();
+        Map<Character, Integer> map = new HashMap<>();
         char c;
-        int max=0;
-        for(int i=0,length=s.length();i<length;i++){
-            c=s.charAt(i);
-            map.put(c,map.getOrDefault(c,0)+1);
-            max=max>map.get(c)?max:map.get(c);
+        int max = 0;
+        for (int i = 0, length = s.length(); i < length; i++) {
+            c = s.charAt(i);
+            map.put(c, map.getOrDefault(c, 0) + 1);
+            max = max > map.get(c) ? max : map.get(c);
         }
-        TreeMap<Integer,String> sortMap=new TreeMap<>();
-        Set<Character> set=map.keySet();
-        for(Character temp:set){
-            sortMap.put(map.get(temp), sortMap.getOrDefault(map.get(temp),"")+temp);
+        TreeMap<Integer, String> sortMap = new TreeMap<>();
+        Set<Character> set = map.keySet();
+        for (Character temp : set) {
+            sortMap.put(map.get(temp), sortMap.getOrDefault(map.get(temp), "") + temp);
         }
-        StringBuilder res=new StringBuilder();
-        while(sortMap.size()!=0){
-            Map.Entry<Integer,String> entry=sortMap.pollLastEntry();
-            String value=entry.getValue();
-            for(int i=0,length=value.length();i<length;i++){
-                char temp=value.charAt(i);
-                for(int j=entry.getKey();j>0;j--){
+        StringBuilder res = new StringBuilder();
+        while (sortMap.size() != 0) {
+            Map.Entry<Integer, String> entry = sortMap.pollLastEntry();
+            String value = entry.getValue();
+            for (int i = 0, length = value.length(); i < length; i++) {
+                char temp = value.charAt(i);
+                for (int j = entry.getKey(); j > 0; j--) {
                     res.append(temp);
                 }
             }

@@ -43,11 +43,11 @@ public class Solution389 {
      * @return
      */
     public char findTheDifference(String s, String t) {
-        int t1=0,t2=t.charAt(t.length()-1);
-        for(int i=0,length=s.length();i<length;i++){
-            t1+=s.charAt(i);
-            t2+=t.charAt(i);
+        int t1 = 0, t2 = t.charAt(t.length() - 1);
+        for (int i = 0, length = s.length(); i < length; i++) {
+            t1 += s.charAt(i);
+            t2 += t.charAt(i);
         }
-        return (char)(t2-t1);
+        return (char) (t2 - t1);
     }
 }

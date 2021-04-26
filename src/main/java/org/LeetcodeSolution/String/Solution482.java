@@ -49,32 +49,30 @@ public class Solution482 {
      * @return
      */
     public String licenseKeyFormatting(String S, int K) {
-        if(S==null||S.length()==0){
+        if (S == null || S.length() == 0) {
             return S;
         }
-        int cnt=0;
-        StringBuilder builder=new StringBuilder();
-        for(int i=S.length()-1;i>=0;i--){
-            char temp=S.charAt(i);
-            if(temp=='-'){
+        int cnt = 0;
+        StringBuilder builder = new StringBuilder();
+        for (int i = S.length() - 1; i >= 0; i--) {
+            char temp = S.charAt(i);
+            if (temp == '-') {
                 continue;
-            }
-            else{
-                if(Character.isDigit(temp)){
+            } else {
+                if (Character.isDigit(temp)) {
                     builder.append(temp);
-                }
-                else{
+                } else {
                     builder.append(Character.toUpperCase(temp));
                 }
                 cnt++;
-                if(cnt==K){
+                if (cnt == K) {
                     builder.append('-');
-                    cnt=0;
+                    cnt = 0;
                 }
             }
         }
-        if(builder.length()>1&&builder.charAt(builder.length()-1)=='-'){
-            builder=builder.reverse();
+        if (builder.length() > 1 && builder.charAt(builder.length() - 1) == '-') {
+            builder = builder.reverse();
             return builder.substring(1);
         }
         return builder.reverse().toString();
