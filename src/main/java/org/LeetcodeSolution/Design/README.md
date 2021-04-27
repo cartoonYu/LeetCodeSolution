@@ -6,3 +6,5 @@ This subpackage contains all of the problems I've solved so far with respect to 
 
 ### [Design](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Design)
 [1357.Apply Discount Every n Orders](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Design/Solution1357.java)
+
+[1603.Design Parking System](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Design/Solution1603.java)
