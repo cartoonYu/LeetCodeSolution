@@ -45,21 +45,21 @@ public class Solution551 {
      * @return
      */
     public boolean checkRecord(String s) {
-        if(s==null||s.length()<2){
+        if (s == null || s.length() < 2) {
             return true;
         }
-        int cntA=0;
-        for(int i=0,length=s.length();i<length;i++){
-            switch(s.charAt(i)){
-                case 'A':{
+        int cntA = 0;
+        for (int i = 0, length = s.length(); i < length; i++) {
+            switch (s.charAt(i)) {
+                case 'A': {
                     cntA++;
-                    if(cntA>1){
+                    if (cntA > 1) {
                         return false;
                     }
                     break;
                 }
-                case 'L':{
-                    if((i+2<length)&&(s.charAt(i+1)=='L')&&(s.charAt(i+2)=='L')){
+                case 'L': {
+                    if ((i + 2 < length) && (s.charAt(i + 1) == 'L') && (s.charAt(i + 2) == 'L')) {
                         return false;
                     }
                     break;

@@ -99,31 +99,31 @@ public class Solution657 {
      * @return
      */
     public boolean judgeCircleWithIncrease(String moves) {
-        if(moves==null||moves.length()==0){
+        if (moves == null || moves.length() == 0) {
             return true;
         }
-        int u=0,d=0,l=0,r=0;
-        char[] chars=moves.toCharArray();
-        for(char temp:chars){
-            switch(temp){
-                case 'U':{
-                    u+=1;
+        int u = 0, d = 0, l = 0, r = 0;
+        char[] chars = moves.toCharArray();
+        for (char temp : chars) {
+            switch (temp) {
+                case 'U': {
+                    u += 1;
                     break;
                 }
-                case 'D':{
-                    d+=1;
+                case 'D': {
+                    d += 1;
                     break;
                 }
-                case 'L':{
-                    l+=1;
+                case 'L': {
+                    l += 1;
                     break;
                 }
-                case 'R':{
-                    r+=1;
+                case 'R': {
+                    r += 1;
                     break;
                 }
             }
         }
-        return u==d&&l==r;
+        return u == d && l == r;
     }
 }

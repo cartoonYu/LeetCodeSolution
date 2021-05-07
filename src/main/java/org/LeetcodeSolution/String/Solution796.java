@@ -45,18 +45,18 @@ public class Solution796 {
      * @return
      */
     public boolean rotateString3(String A, String B) {
-        if((A==null&&B==null)||(A.length()==0&&B.length()==0)){
+        if ((A == null && B == null) || (A.length() == 0 && B.length() == 0)) {
             return true;
         }
-        if(A.length()!=B.length()){
+        if (A.length() != B.length()) {
             return false;
         }
-        if(A.length()==1){
+        if (A.length() == 1) {
             return A.equals(B);
         }
-        StringBuilder builder=new StringBuilder(A);
+        StringBuilder builder = new StringBuilder(A);
         builder.append(A);
-        return builder.indexOf(B)!=-1;
+        return builder.indexOf(B) != -1;
     }
 
     /**
@@ -86,16 +86,16 @@ public class Solution796 {
      * @return
      */
     public boolean rotateString2(String A, String B) {
-        if((A==null&&B==null)||(A.length()==0&&B.length()==0)){
+        if ((A == null && B == null) || (A.length() == 0 && B.length() == 0)) {
             return true;
         }
-        if(A.length()!=B.length()){
+        if (A.length() != B.length()) {
             return false;
         }
-        if(A.length()==1){
+        if (A.length() == 1) {
             return A.equals(B);
         }
-        A=A+A;
+        A = A + A;
         return A.contains(B);
     }
 
@@ -128,23 +128,23 @@ public class Solution796 {
      * @return
      */
     public boolean rotateString1(String A, String B) {
-        if((A==null&&B==null)||(A.length()==0&&B.length()==0)){
+        if ((A == null && B == null) || (A.length() == 0 && B.length() == 0)) {
             return true;
         }
-        if(A.length()!=B.length()){
+        if (A.length() != B.length()) {
             return false;
         }
-        if(A.length()==1){
+        if (A.length() == 1) {
             return A.equals(B);
         }
-        StringBuilder builder=new StringBuilder();
-        for(int i=0,length=A.length();i<length;i++){
+        StringBuilder builder = new StringBuilder();
+        for (int i = 0, length = A.length(); i < length; i++) {
             builder.append(A.substring(1)).append(A.charAt(0));
-            A=builder.toString();
-            if(A.equals(B)){
+            A = builder.toString();
+            if (A.equals(B)) {
                 return true;
             }
-            builder.delete(0,builder.length());
+            builder.delete(0, builder.length());
         }
         return false;
     }
