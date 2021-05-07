@@ -65,7 +65,7 @@ public class Solution165Test {
         expect4 = 1;
         source5Param1 = "7.5.2.4";
         source5Param2 = "7.5.3";
-        expect5 = 1;
+        expect5 = -1;
     }
 
         /** 
