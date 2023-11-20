@@ -202,6 +202,9 @@
 
 [1672.最富有客户的资产总量](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1672.java)
 
+[2342.数位和相等数对的最大和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution2342.java)
+
+
 ### [LinkedList/链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/LinkedList)
 [2.两数相加](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/LinkedList/Solution2.java)
 

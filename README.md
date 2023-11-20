@@ -199,6 +199,9 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [1672.Richest Customer Wealth](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1672.java)
 
+[2342.Max Sum of a Pair With Equal Sum of Digits](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution2342.java)
+
+
 ### [LinkedList](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/LinkedList)
 [2.Add Two Numbers](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/LinkedList/Solution2.java)
 
