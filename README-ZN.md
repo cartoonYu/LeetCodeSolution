@@ -474,6 +474,8 @@
 
 [1736.替换隐藏数字得到的最晚时间](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy/Solution1736.java)
 
+[2216.美化数组的最少删除数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy/Solution2216.java)
+
 ### [回溯算法](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/BackTracking)
 [17.电话号码的字母组合](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/BackTracking/Solution17.java)
 

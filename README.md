@@ -471,6 +471,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [1736.Latest Time by Replacing Hidden Digits](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy/Solution1736.java)
 
+[2216.Minimum Deletions to Make Array Beautiful](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy/Solution2216.java)
+
 ### [BackTracking](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/BackTracking)
 [17.Letter Combinations of a Phone Number](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/BackTracking/Solution17.java)
 

@@ -25,3 +25,5 @@
 [1725.可以形成最大正方形的矩形数目](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy/Solution1725.java)
 
 [1736.替换隐藏数字得到的最晚时间](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy/Solution1736.java)
+
+[2216.美化数组的最少删除数](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy/Solution2216.java)

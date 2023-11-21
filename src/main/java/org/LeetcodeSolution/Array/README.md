@@ -129,3 +129,5 @@ This subpackage contains all of the problems I've solved so far with respect to 
 [1550.Three Consecutive Odds](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1550.java)
 
 [1672.Richest Customer Wealth](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1672.java)
+
+[2342.Max Sum of a Pair With Equal Sum of Digits](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution2342.java)
