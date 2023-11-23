@@ -279,6 +279,8 @@
 
 [1189.“气球” 的最大数量](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1189.java)
 
+[1410.HTML 实体解析器](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1410.java)
+
 [1422.分割字符串的最大得分](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1422.java)
 
 [1436.旅行终点站](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/String/Solution1436.java)
