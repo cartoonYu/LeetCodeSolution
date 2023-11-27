@@ -131,3 +131,5 @@
 [1672.最富有客户的资产总量](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution1672.java)
 
 [2342.数位和相等数对的最大和](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution2342.java)
+
+[2824.统计和小于目标的下标对数目](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution2824.java)

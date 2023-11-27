@@ -1,4 +1,16 @@
-```
+package org.LeetcodeSolution.Array;
+
+import java.util.List;
+
+/**
+ * Problem
+ *     <a href="https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/">leetcode.com</a>
+ *     <a href="https://leetcode.cn/problems/count-pairs-whose-sum-is-less-than-target/description/">leetcode.cn</a>
+ * <br/>Grade of difficulty<br/>
+ *     Easy
+ * @author cartoon
+ * @version 1.0
+ */
 public class Solution2824 {
 
     /**
@@ -24,6 +36,3 @@ public class Solution2824 {
         return result;
     }
 }
-```
-如果你有更好的想法或者疑问，可以到 [我的leetcode解法仓库](https://github.com/cartoonYu/LeetCodeSolution) 提出issue，我会及时处理
-你也可以关注 [我的leetcode解法仓库](https://github.com/cartoonYu/LeetCodeSolution) 获得其他题目解题思路
