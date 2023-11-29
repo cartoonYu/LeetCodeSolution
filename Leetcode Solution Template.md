@@ -1,29 +1,4 @@
 ```
-public class Solution2824 {
-
-    /**
-     * 1.About Complexity
-     *     1.1 Time Complexity is O(n^2)
-     *     1.2 Space Complexity is O(1)
-     * 2.how I solve
-     *     2.1 as title say, double traverse array(i < j), plus i and j element and compare target and plus result
-     * 3.Q&A
-     * @param nums source array
-     * @param target target number
-     * @return count result
-     */
-    public int countPairs(List<Integer> nums, int target) {
-        int result = 0, length = nums.size();
-        for(int i = 0; i < length - 1; i++){
-            for(int j = i + 1; j < length; j++){
-                if(nums.get(i) + nums.get(j) < target){
-                    result++;
-                }
-            }
-        }
-        return result;
-    }
-}
 ```
 如果你有更好的想法或者疑问，可以到 [我的leetcode解法仓库](https://github.com/cartoonYu/LeetCodeSolution) 提出issue，我会及时处理
 你也可以关注 [我的leetcode解法仓库](https://github.com/cartoonYu/LeetCodeSolution) 获得其他题目解题思路

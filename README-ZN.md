@@ -206,6 +206,9 @@
 
 [2824.统计和小于目标的下标对数目](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution2824.java)
 
+### [哈希](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Greedy)
+[2336.无限集中的最小数字](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Hash/Solution2336.java)
+
 ### [LinkedList/链表](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/LinkedList)
 [2.两数相加](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/LinkedList/Solution2.java)
 

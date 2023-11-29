@@ -203,6 +203,11 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [2824.Count Pairs Whose Sum is Less than Target](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Array/Solution2824.java)
 
+
+### [Hash](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Hash)
+[2336.Smallest Number in Infinite Set](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Hash/Solution2336.java)
+
+
 ### [LinkedList](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/LinkedList)
 [2.Add Two Numbers](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/LinkedList/Solution2.java)
 
