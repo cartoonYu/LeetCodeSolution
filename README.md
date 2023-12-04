@@ -396,6 +396,8 @@ My leetcode china account : [cartoon](https://leetcode-cn.com/u/cartoon/)
 
 [965.Univalued Binary Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Tree/Solution965.java)
 
+[1038.Binary Search Tree to Greater Sum Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Tree/Solution1038.java)
+
 ### [BinarySearch](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/BinarySearch)
 [33.Search in Rotated Sorted Array](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/BinarySearch/Solution33.java)
 

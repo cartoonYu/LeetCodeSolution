@@ -90,3 +90,6 @@
 [938.Range Sum of BST](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Tree/Solution938.java)
 
 [965.Univalued Binary Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Tree/Solution965.java)
+
+[1038.从二叉搜索树到更大和树](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Tree/Solution1038.java)
+

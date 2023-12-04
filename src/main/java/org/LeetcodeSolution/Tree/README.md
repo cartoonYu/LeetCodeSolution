@@ -91,3 +91,5 @@ This subpackage contains all of the problems I've solved so far with respect to 
 [938.Range Sum of BST](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Tree/Solution938.java)
 
 [965.Univalued Binary Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Tree/Solution965.java)
+
+[1038.Binary Search Tree to Greater Sum Tree](https://github.com/cartoonYu/LeetCodeSolution/blob/master/src/main/java/org/LeetcodeSolution/Tree/Solution1038.java)
